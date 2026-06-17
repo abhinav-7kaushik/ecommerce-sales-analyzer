@@ -10,22 +10,20 @@ st.markdown("---")
 
 df = load_data("data/sales_data.csv")
 
-# --- KPI Row ---
 col1, col2, col3 = st.columns(3)
 with col1:
-    st.metric("💰 Total Revenue", f"₹{total_revenue(df):,.2f}")
+    st.metric("Total Revenue", f"₹{total_revenue(df):,.2f}")
 with col2:
-    st.metric("📦 Total Orders", f"{len(df):,}")
+    st.metric("Total Orders", f"{len(df):,}")
 with col3:
-    st.metric("🧾 Avg Order Value", f"₹{average_order_value(df):,.2f}")
+    st.metric("Avg Order Value", f"₹{average_order_value(df):,.2f}")
 
 st.markdown("---")
 
-# --- Charts Row ---
 col4, col5 = st.columns(2)
 
 with col4:
-    st.subheader("📊 Sales by Category")
+    st.subheader("Sales by Category")
     category = sales_by_category(df)
     fig1, ax1 = plt.subplots()
     category.plot(kind='bar', ax=ax1, color='steelblue')
@@ -35,7 +33,7 @@ with col4:
     st.pyplot(fig1)
 
 with col5:
-    st.subheader("📅 Monthly Sales Trend")
+    st.subheader("Monthly Sales Trend")
     monthly = monthly_sales(df)
     fig2, ax2 = plt.subplots()
     monthly.plot(kind='line', marker='o', ax=ax2, color='coral')
@@ -46,17 +44,16 @@ with col5:
 
 st.markdown("---")
 
-# --- Tables Row ---
 col6, col7 = st.columns(2)
 
 with col6:
-    st.subheader("🔥 Top 5 Products")
+    st.subheader("Top 5 Products")
     st.dataframe(top_products(df).reset_index(), use_container_width=True)
 
 with col7:
-    st.subheader("👑 Top Customers")
+    st.subheader("Top Customers")
     st.dataframe(top_customers(df).reset_index(), use_container_width=True)
 
 st.markdown("---")
-st.subheader("🗃️ Raw Data")
+st.subheader("Raw Data")
 st.dataframe(df, use_container_width=True)
