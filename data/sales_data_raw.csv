@@ -1,0 +1,2576 @@
+OrderID,Date,Customer,Category,Product,Sales,Quantity
+3001,11/01/2023,Customer_315,Books,Comic,856,4.0
+2422,21/11/2023,Customer_371,Furniture,Bookshelf,1746,3.0
+2922,15/12/2024,,Electronics,Phone,3800,5.0
+3074,2024-06-08,Customer_307,Toys,Lego Set,"₹2,238",3.0
+1196,"Aug 20, 2023",Customer_393,Groceries,Spices,"1,652",4.0
+2035,21/06/2023,Customer_22,Furniture,Bed,1175,5.0
+3174,2024-01-01,Customer_167,Groceries,Oil,708,1.0
+3093,2023-08-30,Customer_190,Electronics,Headphones,650,1.0
+1064,2023-08-13,Customer_385,Clothing,T-shirt,890,1.0
+2696,2024-10-31,Customer_190,Books,Novel,1251,1.0
+3036,2023-04-21,Customer_322,Electronics,Smartwatch,4956,4.0
+1547,2023-02-25,Customer_214,Toys,Board Game,3450,3.0
+2853,2023-11-10,Customer_248,Sports,Tennis Racket,4080,5.0
+3212,2024-06-22,Customer_396,Sports,Football,"₹6,615",5.0
+2731,2024-06-27,Customer_257,Groceries,Spices,2025,3.0
+3256,02/07/2024,Customer_268,Books,Novel,951,3.0
+1413,21/01/2024,Customer_172,Sports,Football,1366,1.0
+2821,2023-10-08,Customer_281,Electronics,Laptop,"2,774",2.0
+2556,23/02/2024,Customer_379,Electronics,,2817,3.0
+2180,2023-10-31,Customer_71,Furniture,Chair,3123,3.0
+3458,31/08/2024,Customer_4,Toys,Board Game,70,1.0
+3062,09/06/2023,Customer_86,Toys,Puzzle,980,1.0
+2948,"Nov 27, 2023",Customer_84,Books,Textbook,"₹1,415",5.0
+2743,2023-07-24,Customer_302,Clothing,Jeans,3585,3.0
+1027,2024-03-17,Customer_49,Toys,Puzzle,1369,1.0
+1148,2023-10-14,Customer_251,Toys,Lego Set,4275,5.0
+1424,2023-05-14,Customer_7,Clothing,T-shirt,475,1.0
+1218,2024-10-24,Customer_243,Toys,RC Car,282,3.0
+1563,2024-02-19,Customer_199,Beauty,Face Cream,"₹5,240",4.0
+3061,2023-01-22,Customer_88,Electronics,Headphones,3213,3.0
+1061,10/10/2024,Customer_146,Clothing,T-shirt,"₹6,895",5.0
+1214,03/11/2024,Customer_35,Electronics,Headphones,1539,3.0
+2911,2024-09-24,Customer_371,Furniture,Chair,718,1.0
+2335,"Jul 28, 2023",Customer_121,Groceries,Rice,₹75,3.0
+2078,22/07/2024,Customer_301,Beauty,Sunscreen,₹524,1.0
+1705,2023-07-15,Customer_217,Furniture,Bookshelf,2199,3.0
+3034,13/07/2023,Customer_202,Toys,RC Car,156,1.0
+1728,"Nov 18, 2024",Customer_139,Toys,Lego Set,1900,4.0
+1944,2024-08-07,Customer_12,Books,Biography,2379,3.0
+1151,21/02/2023,Customer_329,Furniture,Table,315,5.0
+1399,2024-12-16,Customer_301,Sports,Dumbbells,655,1.0
+2650,2024-04-14,Customer_393,Furniture,Sofa,1456,2.0
+2258,2023-03-21,Customer_14,Toys,Board Game,2630,5.0
+3277,2024-11-18,Customer_72,Electronics,,"₹3,452",4.0
+2789,2024-06-29,Customer_272,Clothing,Cap,580,5.0
+1326,2024-07-31,Customer_40,Clothing,Shoes,1056,3.0
+1514,13/04/2023,Customer_136,Books,Textbook,488,4.0
+3424,2023-12-31,Customer_389,Clothing,Jeans,944,1.0
+1808,2023-02-03,Customer_249,Beauty,Shampoo,"₹2,200",2.0
+2268,2023-06-19,Customer_374,Furniture,Chair,₹422,2.0
+1122,2023-09-02,Customer_165,Toys,Board Game,"2,896",2.0
+2962,2024-02-02,Customer_285,Beauty,Perfume,"3,198",
+1363,2023-06-20,Customer_356,Books,Biography,"₹2,312",
+2997,05/07/2024,Customer_131,Sports,Football,3220,4.0
+1545,03/01/2024,Customer_386,Beauty,Shampoo,₹430,5.0
+2491,2023-02-16,Customer_317,Sports,Tennis Racket,632,4.0
+1853,2023-04-29,Customer_15,Clothing,Jeans,"4,296",4.0
+2916,2023-03-23,Customer_95,Electronics,Smartwatch,160,5.0
+1900,31/10/2024,Customer_154,Clothing,Jacket,1096,4.0
+2953,2023-12-13,Customer_387,Groceries,Rice,2253,3.0
+3386,"Mar 10, 2024",Customer_73,Books,Novel,1230,3.0
+2850,2024-07-30,Customer_47,Furniture,Bed,3297,3.0
+1768,14/08/2024,Customer_267,Electronics,Phone,198,3.0
+2842,29/01/2023,Customer_168,Electronics,Phone,2588,4.0
+2635,2023-11-14,Customer_158,Furniture,Table,582,2.0
+3101,18/04/2024,Customer_146,Furniture,Bed,,
+3147,,Customer_160,Toys,Lego Set,840,4.0
+2620,22/04/2024,Customer_92,Toys,Action Figure,768,1.0
+1491,"Nov 27, 2024",Customer_372,Clothing,Jacket,1970,5.0
+1947,2023-02-18,Customer_110,Furniture,Bed,1689,3.0
+1296,2023-01-17,Customer_339,Furniture,Chair,"₹5,116",
+2701,"Mar 03, 2024",Customer_241,Toys,RC Car,656,4.0
+2996,,Customer_304,Books,Biography,1410,1.0
+1439,2023-03-02,Customer_368,Clothing,Jacket,1364,2.0
+2785,"Jan 27, 2023",Customer_188,Beauty,Lipstick,"₹5,340",4.0
+1743,"Sep 08, 2023",Customer_308,Books,Novel,165,
+3398,2024-06-12,,Beauty,Lipstick,"₹1,774",2.0
+2407,2023-04-05,Customer_141,Clothing,Jacket,1712,4.0
+1524,2023-02-25,Customer_77,Sports,Dumbbells,6375,5.0
+3362,2024-03-26,Customer_96,Books,Novel,"₹1,885",5.0
+3119,09/02/2023,Customer_136,Groceries,Snacks,4065,3.0
+2807,"Dec 27, 2024",Customer_185,Furniture,Table,6985,5.0
+2727,2024-06-28,Customer_146,Books,Biography,1683,3.0
+2893,11/11/2023,Customer_381,Sports,Cricket Bat,912,2.0
+2956,2024-11-30,Customer_123,Beauty,Shampoo,"₹1,340",1.0
+1187,03/04/2023,Customer_147,Electronics,Headphones,1340,1.0
+2003,2024-02-17,Customer_107,Furniture,Chair,1630,2.0
+1825,20/09/2024,Customer_394,Clothing,Cap,1868,4.0
+2974,2023-06-28,Customer_326,Groceries,Rice,₹995,1.0
+2559,2024-08-25,Customer_91,Sports,Dumbbells,7495,5.0
+3121,"Feb 18, 2023",Customer_204,Books,Comic,900,1.0
+1342,15/10/2023,Customer_125,Books,Biography,2370,3.0
+2543,03/11/2024,Customer_194,Sports,Cricket Bat,430,5.0
+1263,05/03/2023,Customer_397,Toys,RC Car,4925,5.0
+2135,2023-08-28,Customer_13,Beauty,Face Cream,,2.0
+3377,2023-04-18,Customer_58,Furniture,Chair,"3,376",4.0
+2496,2024-11-26,Customer_130,Groceries,Oil,"3,664",4.0
+1465,2023-09-22,Customer_322,Toys,Puzzle,2476,2.0
+2211,2024-02-13,Customer_123,Sports,,"₹4,146",3.0
+1554,2024-11-10,Customer_179,Toys,Lego Set,912,2.0
+1984,"Nov 28, 2023",Customer_6,Books,Novel,1168,4.0
+2767,2023-06-09,Customer_5,Clothing,Cap,2164,2.0
+2646,18/01/2024,Customer_243,Toys,Board Game,1074,2.0
+1811,2023-11-05,Customer_238,Electronics,Laptop,3980,4.0
+1960,2023-04-25,Customer_371,Furniture,Bookshelf,1006,2.0
+2203,2024-03-03,,Books,Novel,1446,1.0
+2954,2024-06-21,Customer_206,Furniture,Bookshelf,,5.0
+1279,15/02/2024,Customer_264,Toys,Board Game,591,3.0
+2706,19/10/2024,Customer_136,Books,Comic,695,1.0
+3229,2024-10-21,Customer_111,Groceries,Snacks,"1,698",2.0
+2720,"Feb 11, 2023",Customer_117,Clothing,Jeans,1532,4.0
+1268,2023-03-22,Customer_149,Sports,Cricket Bat,609,1.0
+2715,2023-03-08,Customer_195,Clothing,Shoes,1389,
+3229,2024-10-21,Customer_111,Groceries,Snacks,"1,698",2.0
+1111,2024-04-26,Customer_224,Clothing,Cap,824,4.0
+2612,2023-08-10,Customer_304,Groceries,Rice,460,2.0
+3342,2024-05-17,Customer_301,Toys,Board Game,7435,5.0
+3132,2023-06-14,,Furniture,Chair,1440,2.0
+2843,2024-09-27,Customer_89,Sports,Football,2646,2.0
+3228,2023-09-04,Customer_25,Furniture,Bed,2130,5.0
+2605,31/07/2024,Customer_166,Beauty,Sunscreen,"₹3,905",5.0
+3381,2023-06-30,Customer_54,Beauty,Sunscreen,1194,2.0
+1846,2023-10-05,Customer_106,Books,Comic,2660,2.0
+2574,27/09/2023,Customer_20,Groceries,Oil,5712,4.0
+1340,2024-08-31,Customer_172,Sports,Dumbbells,,4.0
+3145,2023-10-11,Customer_41,Groceries,Beverages,240,2.0
+2188,2024-05-07,Customer_230,Beauty,Sunscreen,1152,2.0
+3334,19/05/2024,Customer_153,Books,Textbook,606,2.0
+3097,2023-02-03,Customer_2,Clothing,T-shirt,1532,4.0
+1708,2023-04-24,Customer_8,Clothing,Jacket,4320,3.0
+2722,2024-04-20,Customer_300,Groceries,Oil,4985,5.0
+2970,01/02/2023,,Groceries,Rice,20,1.0
+3354,29/03/2024,Customer_235,Clothing,T-shirt,852,2.0
+2725,2023-07-19,Customer_369,Toys,Lego Set,5344,4.0
+2578,2023-04-27,Customer_238,Furniture,Table,4116,3.0
+2716,2024-10-27,Customer_143,Groceries,Oil,1320,5.0
+1220,2024-05-24,Customer_96,Toys,,5748,4.0
+1807,2024-11-05,Customer_90,Furniture,Bed,1645,5.0
+1793,2024-03-03,Customer_285,Clothing,Jeans,3028,4.0
+2169,2023-07-24,,Toys,,1524,3.0
+3082,2023-07-18,Customer_100,Electronics,Laptop,4740,4.0
+2239,2024-10-27,Customer_27,Books,Comic,1075,1.0
+1931,12/04/2023,Customer_322,Books,Comic,160,2.0
+1397,2024-10-17,Customer_360,Toys,Board Game,752,4.0
+3284,2024-04-23,Customer_263,Toys,Puzzle,873,3.0
+1893,2024-03-13,Customer_204,Electronics,Headphones,2972,2.0
+3369,"Aug 30, 2023",Customer_9,Electronics,Laptop,1914,3.0
+1512,2024-11-18,Customer_121,Books,Textbook,₹46,1.0
+3018,28/02/2024,Customer_85,Furniture,Bed,2606,2.0
+2045,2024-10-29,Customer_279,Books,Comic,6430,5.0
+2178,24/08/2024,Customer_262,Books,Cookbook,"₹2,102",2.0
+2579,2024-12-04,Customer_251,Clothing,Shoes,4315,5.0
+1090,22/07/2024,Customer_124,Groceries,Rice,4080,4.0
+1375,2024-11-23,Customer_75,Clothing,Jeans,"₹1,578",3.0
+1018,"Apr 19, 2023",Customer_391,Beauty,Sunscreen,2118,2.0
+2946,2023-06-01,Customer_41,Electronics,Smartwatch,2916,3.0
+2492,2024-11-26,Customer_341,Groceries,Rice,1042,1.0
+3038,"Apr 09, 2023",Customer_275,Furniture,Bed,840,3.0
+1457,2024-02-12,,Beauty,Lipstick,651,1.0
+3350,2023-11-25,,Clothing,Jeans,3880,4.0
+2381,2024-01-22,Customer_397,Toys,RC Car,"2,500",2.0
+1641,"Apr 02, 2024",,Beauty,Perfume,5090,5.0
+2618,"Jun 20, 2023",Customer_41,Sports,Tennis Racket,2290,5.0
+2812,2024-10-25,Customer_108,Beauty,Shampoo,5700,5.0
+3370,"Jun 16, 2023",Customer_236,Sports,Football,730,1.0
+3107,"Nov 15, 2024",Customer_210,Books,Cookbook,,1.0
+1376,10/10/2024,Customer_193,Beauty,Face Cream,696,4.0
+2566,12/03/2024,Customer_105,Electronics,Headphones,3567,3.0
+1585,2024-01-05,Customer_343,Groceries,Rice,2160,2.0
+3087,2023-09-09,Customer_267,Clothing,Cap,"₹3,708",3.0
+1891,2023-07-20,Customer_270,Groceries,Beverages,1178,2.0
+1929,2024-02-14,Customer_304,Beauty,Sunscreen,4014,3.0
+1415,2024-06-16,Customer_48,Clothing,Jacket,494,
+2223,19/10/2024,Customer_194,Furniture,Sofa,5436,4.0
+2432,14/01/2023,Customer_254,Furniture,Chair,455,1.0
+2861,2024-11-27,Customer_343,Groceries,Beverages,2655,3.0
+1116,15/09/2024,Customer_63,Books,Cookbook,1310,1.0
+2855,2023-01-29,Customer_379,Clothing,Jacket,,1.0
+3091,2023-03-25,Customer_291,Toys,Board Game,1896,3.0
+1702,2024-12-15,Customer_205,Beauty,Lipstick,"₹4,545",5.0
+3218,2023-08-08,Customer_189,Toys,Puzzle,4510,5.0
+2562,2024-09-22,Customer_266,Groceries,Snacks,3591,3.0
+1001,2023-08-17,Customer_380,Furniture,Chair,"₹1,563",3.0
+1038,14/04/2024,Customer_162,Beauty,Face Cream,39,1.0
+1195,2024-01-06,Customer_48,Clothing,Cap,4244,4.0
+1242,2024-08-13,Customer_42,Electronics,Phone,"1,333",1.0
+1215,13/12/2023,Customer_23,Sports,,"3,414",3.0
+1396,2024-06-02,Customer_21,Beauty,Shampoo,835,1.0
+2768,2023-10-28,Customer_306,Electronics,Phone,2746,2.0
+2610,2023-10-09,Customer_322,Groceries,Spices,414,1.0
+2660,2024-05-07,Customer_160,Clothing,Jacket,5608,4.0
+2274,2023-05-01,Customer_348,Furniture,Sofa,2248,2.0
+2517,13/05/2023,Customer_336,Sports,Tennis Racket,1236,2.0
+1329,2024-05-17,Customer_16,Toys,Action Figure,2826,3.0
+3217,2023-11-01,Customer_293,Clothing,Cap,"2,562",3.0
+2786,2024-12-30,Customer_57,Groceries,Snacks,1147,1.0
+1095,2024-01-05,Customer_100,Beauty,Lipstick,"₹1,455",3.0
+3260,2024-04-29,Customer_319,Electronics,Smartwatch,1162,1.0
+1859,25/06/2023,Customer_239,Clothing,T-shirt,,4.0
+1526,2024-01-23,Customer_115,Electronics,Tablet,"6,685",5.0
+3494,2023-05-21,Customer_141,Books,Novel,"5,656",4.0
+3060,2023-06-06,Customer_284,Furniture,Bookshelf,"1,158",3.0
+2498,04/01/2024,Customer_18,Furniture,Table,,2.0
+1059,16/08/2024,Customer_147,Electronics,Headphones,1800,2.0
+1569,04/08/2023,Customer_281,Toys,RC Car,644,1.0
+1779,2024-09-10,Customer_88,Books,Cookbook,2199,3.0
+1433,"Aug 21, 2024",Customer_242,Beauty,Lipstick,3760,5.0
+2449,,Customer_305,Clothing,T-shirt,2970,3.0
+1548,13/07/2024,Customer_325,Books,Comic,"3,675",3.0
+1722,"Aug 01, 2024",Customer_395,Clothing,Shoes,2726,2.0
+1254,"May 12, 2023",Customer_349,Beauty,Sunscreen,1315,5.0
+3258,2023-07-14,Customer_317,Beauty,Sunscreen,756,2.0
+1197,08/02/2023,Customer_260,Beauty,Lipstick,5490,5.0
+1152,2023-08-01,Customer_106,Clothing,Cap,1155,1.0
+2676,07/11/2023,Customer_99,Toys,Lego Set,2770,5.0
+2091,07/11/2023,Customer_47,Sports,Cricket Bat,"6,500",5.0
+2065,2024-02-01,Customer_320,Sports,Football,4290,5.0
+2252,2024-12-05,Customer_276,Sports,Tennis Racket,2245,5.0
+2029,2024-09-12,Customer_89,Books,Comic,680,2.0
+2602,2023-06-20,Customer_83,Clothing,T-shirt,1340,5.0
+3433,05/11/2024,Customer_55,Toys,Action Figure,4836,4.0
+2808,"Aug 10, 2024",Customer_178,Toys,Lego Set,"₹3,852",4.0
+3345,10/07/2024,Customer_112,Furniture,Bed,"₹2,938",2.0
+2845,2024-09-29,Customer_77,Clothing,Cap,328,4.0
+2523,2023-10-04,Customer_11,Books,Novel,356,4.0
+1180,16/04/2024,Customer_167,Toys,Lego Set,2570,2.0
+2919,2024-03-12,Customer_328,Toys,RC Car,1398,3.0
+3310,2023-11-24,Customer_255,Toys,RC Car,570,2.0
+1003,2023-08-14,Customer_102,Electronics,Tablet,4395,5.0
+1841,2023-05-21,,Toys,Action Figure,5685,5.0
+1640,27/10/2024,Customer_102,Sports,Tennis Racket,"5,995",5.0
+1588,2024-06-12,Customer_129,Furniture,,1904,4.0
+3422,23/01/2023,,Books,Comic,930,1.0
+1260,2024-08-15,Customer_243,Electronics,Tablet,4086,3.0
+1504,05/08/2023,Customer_117,Toys,Lego Set,576,2.0
+1171,2024-01-21,Customer_383,Electronics,Phone,2300,5.0
+1035,2024-09-01,Customer_42,Electronics,Tablet,320,2.0
+1736,2023-04-03,Customer_303,Clothing,Shoes,1902,2.0
+1872,2023-12-09,Customer_364,Furniture,Bed,₹606,2.0
+3317,"Aug 09, 2024",Customer_114,Beauty,Face Cream,2276,2.0
+1839,07/03/2023,Customer_313,Furniture,Bookshelf,"₹2,460",2.0
+2378,"Jun 04, 2023",Customer_341,Clothing,Jacket,147,3.0
+3261,2023-08-10,Customer_16,Books,Cookbook,1504,4.0
+3053,2023-06-22,Customer_134,Beauty,Perfume,1372,4.0
+3448,17/04/2024,Customer_278,Electronics,Tablet,₹840,1.0
+2071,"Jan 25, 2023",Customer_224,Electronics,Headphones,1738,2.0
+3457,2023-09-24,Customer_52,Toys,Puzzle,6030,5.0
+3408,2024-10-03,Customer_52,Toys,Board Game,2088,
+3446,,Customer_357,Electronics,Laptop,1740,3.0
+1597,2023-08-24,Customer_306,Sports,Dumbbells,₹800,5.0
+3318,29/06/2024,Customer_41,Clothing,Jacket,1206,3.0
+1416,17/05/2023,Customer_298,Books,Novel,1055,1.0
+1691,"Nov 04, 2023",Customer_70,Electronics,Tablet,99,3.0
+3361,02/04/2024,,Books,Biography,389,1.0
+1207,2024-04-25,Customer_242,Electronics,Headphones,"₹2,928",2.0
+1986,"Sep 12, 2024",Customer_121,Electronics,Headphones,,4.0
+2782,09/04/2024,Customer_208,Groceries,Beverages,1836,4.0
+1518,"Oct 26, 2024",Customer_354,Beauty,Face Cream,"3,532",4.0
+3432,2024-12-08,Customer_250,Groceries,Oil,"4,200",3.0
+1373,2024-12-21,Customer_276,Beauty,Sunscreen,1364,2.0
+3478,2024-10-29,Customer_157,Toys,Action Figure,,3.0
+1271,05/12/2023,Customer_27,Groceries,Oil,₹866,1.0
+1515,2023-04-29,Customer_347,Beauty,Perfume,2676,3.0
+1485,2023-03-07,Customer_351,Beauty,Perfume,1006,1.0
+2158,2024-08-05,Customer_338,Books,Cookbook,2900,2.0
+1357,2024-12-22,,Books,Biography,116,4.0
+3366,13/09/2024,Customer_390,Electronics,Headphones,5105,
+3273,27/02/2023,Customer_34,Electronics,Phone,4400,4.0
+3201,2024-08-22,Customer_166,Electronics,Phone,2648,2.0
+2112,2023-05-31,Customer_299,Sports,Yoga Mat,1590,5.0
+1201,17/04/2024,Customer_348,Groceries,Spices,4610,5.0
+1440,18/01/2024,Customer_270,Clothing,T-shirt,504,3.0
+2288,2024-12-18,Customer_144,Clothing,Jeans,559,1.0
+2383,2024-02-25,Customer_333,Furniture,Bookshelf,,4.0
+1493,2024-08-20,Customer_241,Books,Novel,1319,1.0
+3012,2024-05-04,Customer_192,Books,Biography,2790,5.0
+1072,"Sep 09, 2024",Customer_215,Beauty,Face Cream,5690,5.0
+1673,2024-03-24,Customer_21,Clothing,Jacket,5868,4.0
+1523,19/03/2024,Customer_268,Sports,Tennis Racket,"1,075",5.0
+2037,2023-05-22,Customer_332,Furniture,Table,"2,115",3.0
+2182,23/08/2023,Customer_213,Electronics,Tablet,204,3.0
+2591,2024-03-11,Customer_311,Toys,Puzzle,"₹2,046",3.0
+1704,28/11/2023,Customer_37,Groceries,Oil,2700,3.0
+3200,2024-12-08,Customer_400,Electronics,Phone,1381,1.0
+1241,2024-09-11,Customer_338,Clothing,Jeans,7475,5.0
+2125,,Customer_99,Clothing,Jeans,3970,
+2348,2023-03-21,Customer_139,Toys,Puzzle,233,1.0
+1014,2023-05-22,Customer_205,Toys,RC Car,"₹1,407",3.0
+1428,05/02/2023,Customer_144,Clothing,Jacket,1296,4.0
+1341,2023-11-23,Customer_161,Groceries,Snacks,1670,2.0
+3199,"Oct 10, 2023",Customer_236,Furniture,Sofa,2830,2.0
+2825,2024-03-17,Customer_362,Toys,Action Figure,1677,3.0
+3393,2024-04-07,Customer_255,Sports,Dumbbells,6650,5.0
+2059,2024-01-14,Customer_210,Furniture,Bed,₹267,1.0
+3337,2023-01-27,Customer_355,Furniture,Chair,2800,4.0
+2873,09/09/2023,Customer_13,Sports,Dumbbells,648,4.0
+2978,2023-10-01,Customer_369,Beauty,Perfume,1740,4.0
+2887,2023-02-22,,Books,Textbook,4320,5.0
+3203,2024-11-19,Customer_181,Electronics,Laptop,2388,3.0
+1233,25/07/2023,Customer_261,Clothing,Jacket,536,
+2677,09/08/2023,Customer_192,Groceries,Rice,4940,5.0
+3216,2024-12-14,Customer_80,Beauty,Shampoo,309,1.0
+1401,21/05/2023,Customer_62,Beauty,Shampoo,"1,469",1.0
+3303,2024-12-09,Customer_222,Groceries,Beverages,7435,5.0
+3088,"May 25, 2024",Customer_169,Books,Textbook,3175,5.0
+2681,15/09/2024,Customer_314,Groceries,Rice,4434,3.0
+3399,2024-08-29,Customer_230,Furniture,Sofa,323,1.0
+1537,06/09/2024,Customer_54,Clothing,Jeans,5464,4.0
+3046,08/07/2024,Customer_315,Clothing,Shoes,268,4.0
+3287,2023-04-07,Customer_151,Clothing,Shoes,540,5.0
+1142,2024-02-09,Customer_286,Groceries,Snacks,612,3.0
+1205,2024-01-18,Customer_28,Electronics,Smartwatch,4192,4.0
+1668,2024-08-21,Customer_8,Toys,Action Figure,1170,2.0
+2770,,Customer_57,Clothing,Jacket,162,2.0
+2470,"Mar 06, 2024",Customer_182,Sports,Dumbbells,3900,4.0
+2390,"Oct 02, 2023",Customer_115,Electronics,Headphones,3000,5.0
+1119,2023-05-29,Customer_125,Books,Cookbook,4592,4.0
+1780,14/03/2023,Customer_167,Toys,Lego Set,6750,
+1934,2024-07-07,Customer_134,Books,Biography,3615,5.0
+3113,2024-10-08,Customer_214,Groceries,Oil,38,1.0
+1878,"Mar 02, 2024",Customer_322,Groceries,Beverages,620,1.0
+1451,14/06/2023,Customer_176,Furniture,Chair,1576,2.0
+2139,21/12/2023,Customer_395,Beauty,Lipstick,1791,3.0
+2950,2023-07-02,Customer_331,Electronics,Smartwatch,,3.0
+1661,2024-01-16,Customer_216,Groceries,Spices,3120,3.0
+2813,27/12/2023,Customer_256,Sports,Cricket Bat,,1.0
+2040,2024-11-29,Customer_210,Toys,Board Game,"₹4,308",4.0
+1864,14/12/2024,Customer_272,Electronics,Smartwatch,4004,4.0
+1892,2024-05-17,Customer_263,Books,Novel,1672,4.0
+2152,2023-07-31,Customer_381,Toys,Board Game,816,1.0
+1735,2024-02-07,Customer_357,Clothing,Cap,1485,5.0
+2495,"May 17, 2023",Customer_358,Sports,Football,3172,4.0
+1636,2023-01-10,Customer_75,Toys,Puzzle,1976,2.0
+1013,2024-07-28,Customer_136,Books,Comic,1050,
+2261,2024-05-16,Customer_270,Furniture,Table,3675,
+2521,2024-06-17,Customer_41,Books,Textbook,600,2.0
+1716,22/12/2023,Customer_382,Books,Cookbook,114,2.0
+2181,2023-12-03,Customer_372,Electronics,Laptop,4640,
+3086,05/12/2023,Customer_296,Books,Textbook,,5.0
+2546,2023-12-03,Customer_295,Beauty,Shampoo,1557,3.0
+2671,2023-06-29,Customer_379,Electronics,Tablet,"₹2,116",4.0
+2302,"Jun 20, 2024",Customer_35,Furniture,Bookshelf,3512,4.0
+2514,2023-03-01,,Sports,Yoga Mat,"₹2,742",3.0
+2901,"Sep 28, 2024",Customer_309,Furniture,Sofa,208,4.0
+1583,2023-07-03,Customer_72,Clothing,Cap,1384,4.0
+2662,19/02/2024,Customer_352,Furniture,Sofa,"₹1,363",1.0
+2292,2024-05-05,Customer_114,Beauty,Shampoo,2676,3.0
+1118,2023-10-26,Customer_61,Furniture,Bookshelf,2080,2.0
+1377,2024-01-13,Customer_384,Toys,RC Car,4326,3.0
+2762,2023-11-21,Customer_380,Furniture,Bookshelf,"3,765",5.0
+1852,2024-04-09,Customer_129,Groceries,Snacks,3849,3.0
+1052,2024-10-18,Customer_396,Beauty,Lipstick,2217,3.0
+3500,2024-04-17,Customer_33,Electronics,Phone,"₹4,050",5.0
+2814,03/04/2023,,Groceries,Spices,1498,1.0
+1652,2023-09-24,Customer_158,Furniture,Bookshelf,"₹2,592",3.0
+3367,2024-03-24,Customer_258,Books,Biography,"5,925",5.0
+3382,13/08/2024,Customer_72,Toys,RC Car,111,3.0
+1998,19/04/2023,Customer_202,Beauty,Lipstick,"3,687",3.0
+2434,07/06/2023,Customer_363,Sports,Yoga Mat,"₹5,448",4.0
+2455,2023-09-08,Customer_183,Groceries,Oil,332,4.0
+1616,2024-06-14,Customer_208,Sports,Dumbbells,2150,5.0
+2431,24/10/2024,Customer_286,Furniture,Sofa,"2,740",2.0
+2666,2024-11-21,Customer_218,Furniture,Table,"₹4,025",5.0
+1750,,Customer_374,Furniture,Bed,995,5.0
+1191,23/02/2024,Customer_191,Clothing,Jacket,2439,3.0
+1427,2024-11-30,Customer_255,Toys,Board Game,803,1.0
+2423,02/11/2023,Customer_314,Sports,Dumbbells,825,1.0
+1513,"Apr 14, 2023",Customer_47,Books,Comic,865,5.0
+3474,2024-05-05,Customer_271,Electronics,Laptop,1464,3.0
+3436,2023-06-06,Customer_34,Beauty,Shampoo,₹172,4.0
+2781,2024-08-08,Customer_204,Groceries,Oil,129,3.0
+1603,2024-02-23,Customer_146,Groceries,Rice,"₹5,665",5.0
+3416,2023-09-12,Customer_246,Electronics,Smartwatch,"2,825",5.0
+3183,26/06/2023,Customer_11,Furniture,Bed,"1,242",3.0
+2728,2023-01-07,Customer_58,Beauty,Face Cream,2036,2.0
+2165,2024-02-05,Customer_151,Furniture,Table,1114,1.0
+2489,2024-05-10,Customer_202,Beauty,Perfume,1341,1.0
+1100,2024-06-19,Customer_306,Toys,RC Car,2410,5.0
+2114,"Oct 17, 2024",Customer_177,Electronics,Smartwatch,860,2.0
+1745,2023-03-31,Customer_309,Electronics,Tablet,2094,3.0
+3215,2023-07-12,Customer_100,Groceries,Beverages,"₹5,960",4.0
+2894,2024-12-21,Customer_229,Sports,Tennis Racket,2852,4.0
+1665,03/02/2024,Customer_341,Furniture,Bed,1976,2.0
+2793,23/07/2024,Customer_39,Beauty,Lipstick,"4,410",3.0
+1700,2023-08-16,Customer_295,Books,Biography,1020,5.0
+3153,2024-03-16,Customer_281,Groceries,Snacks,282,2.0
+1044,2023-09-26,Customer_171,Electronics,Phone,2648,2.0
+1008,09/04/2024,Customer_52,Furniture,Table,2356,4.0
+1227,2024-01-16,Customer_79,Electronics,Tablet,"₹3,116",4.0
+1033,2023-03-01,Customer_98,Books,Comic,1395,3.0
+1677,06/03/2023,Customer_123,Sports,Tennis Racket,4488,3.0
+1758,"Apr 16, 2024",Customer_247,Electronics,Laptop,2608,2.0
+2616,11/03/2024,Customer_71,Furniture,Chair,4600,5.0
+1420,"Sep 29, 2023",Customer_232,Sports,Cricket Bat,"₹2,904",3.0
+1737,05/04/2024,Customer_47,Clothing,T-shirt,"₹1,466",1.0
+1143,26/01/2024,Customer_345,Books,Textbook,3651,3.0
+2388,2024-04-10,Customer_216,Electronics,Headphones,₹952,2.0
+2179,31/08/2023,Customer_389,Electronics,Tablet,652,1.0
+3010,2024-11-11,Customer_34,Toys,Lego Set,558,1.0
+1319,2023-09-04,Customer_50,Clothing,,1620,5.0
+3498,2024-12-29,Customer_265,Groceries,Oil,605,5.0
+1596,30/09/2024,Customer_74,Toys,RC Car,1960,5.0
+2871,2024-04-18,Customer_129,Clothing,Jacket,1474,2.0
+1988,2023-07-03,Customer_287,Sports,Cricket Bat,1208,1.0
+2334,2024-03-07,Customer_43,Groceries,Snacks,7420,5.0
+2395,"Jun 12, 2023",Customer_201,Furniture,Bed,"3,456",
+2251,2023-11-17,Customer_296,Books,Comic,5772,4.0
+2792,,Customer_200,Toys,Action Figure,"₹4,410",5.0
+2087,2024-12-21,Customer_212,Electronics,Laptop,7230,5.0
+2412,2023-09-17,Customer_86,Furniture,Bookshelf,1067,1.0
+1659,2024-07-01,Customer_10,Groceries,Spices,242,2.0
+1475,2024-12-27,Customer_82,Electronics,Tablet,,1.0
+2184,2023-07-07,Customer_196,Groceries,Beverages,"₹3,390",5.0
+2414,29/05/2023,Customer_111,Groceries,Rice,"₹2,343",3.0
+2938,31/08/2023,Customer_118,Sports,Tennis Racket,"6,340",5.0
+3114,2024-05-28,Customer_2,Sports,Yoga Mat,"₹1,008",1.0
+2079,2023-05-26,Customer_43,Toys,Board Game,2180,5.0
+1408,2023-05-03,,Sports,Yoga Mat,3915,5.0
+1472,2023-11-15,Customer_11,Beauty,Perfume,1920,3.0
+2089,"Dec 14, 2024",Customer_184,Toys,RC Car,"₹1,528",4.0
+2816,2023-11-27,Customer_186,Sports,Dumbbells,730,2.0
+3251,15/04/2023,Customer_371,Sports,Tennis Racket,129,1.0
+3281,"Dec 20, 2023",Customer_367,Sports,Yoga Mat,868,2.0
+2427,04/10/2023,,Furniture,Sofa,3985,5.0
+2772,22/01/2024,Customer_209,Electronics,Laptop,1124,1.0
+3327,"Sep 26, 2024",Customer_374,Furniture,Table,1538,2.0
+1688,2024-01-16,Customer_162,Books,Textbook,3420,5.0
+2206,2024-10-01,Customer_210,Groceries,Spices,5212,4.0
+2293,"Oct 15, 2023",Customer_57,Electronics,Headphones,2292,3.0
+1443,01/07/2023,Customer_158,Clothing,Shoes,840,3.0
+1359,02/02/2024,Customer_271,Beauty,Face Cream,3726,3.0
+1130,2024-06-27,Customer_221,Sports,Yoga Mat,1040,2.0
+1721,13/11/2023,Customer_278,Clothing,Cap,604,2.0
+3140,04/11/2023,Customer_20,Toys,Action Figure,132,
+3376,28/04/2023,Customer_239,Books,Cookbook,258,2.0
+2227,10/11/2024,Customer_348,Sports,Yoga Mat,"2,168",2.0
+1480,2024-10-24,Customer_400,Clothing,Cap,946,2.0
+3052,2023-04-02,Customer_371,Books,,3552,4.0
+3375,"May 01, 2023",Customer_60,Clothing,Jeans,684,2.0
+2123,2024-04-12,Customer_174,Toys,Lego Set,,2.0
+1833,24/03/2024,Customer_250,Furniture,Sofa,"₹1,315",1.0
+2651,2023-03-24,Customer_89,Clothing,Jeans,1947,3.0
+3219,"Oct 26, 2023",Customer_237,Beauty,Lipstick,819,1.0
+1639,2023-09-21,Customer_185,Beauty,Perfume,,5.0
+1238,2023-06-06,,Toys,RC Car,"1,081",1.0
+3190,2024-11-07,Customer_81,Sports,Dumbbells,5555,5.0
+3180,21/06/2023,Customer_244,Groceries,Rice,3384,3.0
+3419,2023-02-22,Customer_14,Toys,Puzzle,1952,
+2592,2024-11-02,Customer_104,Beauty,Face Cream,561,1.0
+1387,2023-05-21,Customer_161,Furniture,Chair,1896,3.0
+2189,2024-03-08,Customer_86,Toys,Board Game,3692,4.0
+2371,2024-01-25,Customer_291,Groceries,Spices,1251,1.0
+1370,2023-09-27,Customer_153,Furniture,Table,941,
+2588,08/10/2024,Customer_155,Clothing,Jacket,491,1.0
+2891,"Oct 05, 2024",Customer_313,Books,Textbook,5530,5.0
+1076,2024-01-24,Customer_233,Sports,Cricket Bat,2133,3.0
+1055,2024-12-26,Customer_98,Toys,RC Car,330,3.0
+2012,06/07/2023,Customer_380,Electronics,Phone,"₹1,548",4.0
+2193,2024-01-19,Customer_3,Clothing,Jeans,1045,1.0
+2299,2024-12-22,Customer_301,Furniture,Chair,₹830,2.0
+2458,2024-08-16,Customer_159,Toys,Action Figure,208,2.0
+3470,2023-04-21,Customer_390,Electronics,Phone,250,5.0
+2551,2024-02-23,Customer_161,Beauty,Perfume,186,1.0
+1858,02/02/2023,Customer_104,Sports,Yoga Mat,,3.0
+2577,2024-04-02,,Groceries,Rice,2637,3.0
+2235,28/11/2023,Customer_202,Groceries,Beverages,288,1.0
+3032,2023-09-09,Customer_332,Sports,Cricket Bat,3148,4.0
+2537,2023-02-12,Customer_226,Clothing,Cap,"3,345",5.0
+3391,2023-11-24,Customer_333,Beauty,Sunscreen,721,1.0
+1174,2023-04-27,Customer_140,Books,Cookbook,"₹2,138",2.0
+1047,2023-04-16,Customer_108,Electronics,Headphones,2770,2.0
+2214,"Nov 05, 2024",Customer_232,Groceries,Spices,7125,5.0
+2225,"Nov 17, 2023",Customer_294,Groceries,Rice,840,3.0
+3469,30/06/2024,Customer_191,Furniture,Chair,2670,5.0
+1464,2023-05-10,Customer_86,Books,Comic,₹828,2.0
+1948,2024-08-15,Customer_381,Groceries,Beverages,,1.0
+2086,03/01/2023,Customer_355,Sports,Football,"₹2,686",2.0
+3297,2024-11-21,Customer_115,Clothing,Jeans,2073,3.0
+2006,08/03/2024,Customer_308,Beauty,Sunscreen,816,4.0
+1276,2024-07-10,Customer_146,Furniture,Sofa,5332,
+2593,2023-10-13,Customer_114,Toys,Lego Set,4672,4.0
+2417,2024-10-23,Customer_344,Beauty,Sunscreen,1195,1.0
+1288,2023-05-16,Customer_229,Furniture,Bed,948,1.0
+1869,12/03/2024,Customer_272,Toys,Action Figure,627,1.0
+3429,2024-02-06,Customer_259,Toys,RC Car,1936,2.0
+1757,2024-11-19,Customer_100,Electronics,Laptop,2136,3.0
+1898,2024-07-21,Customer_96,Clothing,Jeans,2448,4.0
+2454,2023-01-22,Customer_139,Books,Novel,6650,5.0
+1101,2024-09-27,Customer_220,Beauty,Sunscreen,3552,3.0
+3324,2023-06-18,Customer_247,Furniture,Chair,5055,5.0
+1922,2023-05-20,Customer_239,Sports,Football,1084,1.0
+1577,2024-07-18,Customer_184,Books,Cookbook,3051,3.0
+2932,"Jun 15, 2024",Customer_149,Books,Biography,1002,2.0
+3322,2024-09-16,Customer_287,Beauty,Face Cream,156,3.0
+1667,,Customer_185,Beauty,Shampoo,"1,385",1.0
+1848,2024-07-25,Customer_179,Furniture,Sofa,₹116,4.0
+2366,2023-06-12,Customer_54,Electronics,Laptop,2367,3.0
+2627,30/03/2024,Customer_215,Clothing,T-shirt,₹134,1.0
+2137,2023-02-09,Customer_61,Groceries,Rice,757,1.0
+3440,23/01/2023,Customer_295,Books,Biography,₹890,1.0
+1803,03/09/2024,Customer_86,Beauty,Perfume,1443,1.0
+1940,,Customer_179,Clothing,Jacket,₹375,5.0
+3157,,Customer_62,Clothing,Cap,582,2.0
+2590,2023-06-05,Customer_8,Toys,Lego Set,6290,5.0
+1653,09/01/2023,Customer_147,Clothing,Jacket,4460,4.0
+1368,2023-04-27,Customer_262,Books,Biography,1192,1.0
+2459,2023-10-23,Customer_233,Furniture,Bookshelf,"₹3,650",5.0
+3194,2023-05-19,Customer_333,Books,Cookbook,"7,395",5.0
+1581,2023-05-18,Customer_396,Toys,Puzzle,3075,5.0
+1591,2023-04-27,Customer_213,Furniture,Table,4485,3.0
+1849,2023-08-13,Customer_186,Furniture,Bed,5295,5.0
+2124,2023-03-08,Customer_320,Clothing,Cap,5904,4.0
+1098,2024-02-15,Customer_245,Electronics,Headphones,153,
+2309,"Oct 19, 2024",Customer_69,Clothing,Jacket,375,3.0
+1994,2024-07-28,Customer_227,Books,Novel,4416,3.0
+1382,2023-10-08,Customer_333,Groceries,Oil,1035,3.0
+2534,"Aug 16, 2024",Customer_112,Books,Biography,,4.0
+1417,2023-10-26,Customer_340,Electronics,Smartwatch,1008,2.0
+2262,2023-02-19,Customer_139,Beauty,Sunscreen,1110,5.0
+1029,2024-04-18,Customer_217,Books,,1180,2.0
+2600,"Nov 17, 2023",Customer_251,Groceries,,"5,215",5.0
+1590,2023-06-03,Customer_264,Groceries,Rice,1359,3.0
+3160,"Nov 29, 2023",Customer_76,Books,Comic,775,1.0
+2338,27/01/2023,Customer_61,Electronics,Laptop,1586,2.0
+2890,"Sep 09, 2023",Customer_211,Groceries,Oil,"₹2,937",3.0
+1192,25/07/2024,Customer_34,Electronics,Headphones,639,3.0
+1930,2024-04-10,Customer_262,Toys,Board Game,963,3.0
+2190,27/03/2023,Customer_11,Clothing,,3580,4.0
+3163,2023-10-24,Customer_31,Clothing,T-shirt,"₹4,372",4.0
+3191,2023-11-20,Customer_313,Toys,Puzzle,"2,364",4.0
+3000,2023-11-27,Customer_310,Sports,Cricket Bat,360,4.0
+3196,2023-09-23,Customer_269,Furniture,Sofa,1055,5.0
+2354,"Aug 23, 2024",Customer_301,Clothing,T-shirt,"₹3,984",4.0
+1620,"Mar 29, 2024",Customer_295,Beauty,Sunscreen,4323,3.0
+2617,30/01/2024,Customer_287,Furniture,Table,3168,4.0
+3019,"Feb 13, 2023",,Groceries,Spices,904,1.0
+2356,"Jun 12, 2024",Customer_394,Groceries,Oil,2094,2.0
+3159,2023-01-15,Customer_368,Electronics,Laptop,1445,1.0
+2804,2024-05-12,Customer_7,Sports,Football,1480,1.0
+1946,2024-03-22,,Sports,Cricket Bat,2292,3.0
+2973,2023-11-06,Customer_395,Electronics,Headphones,265,1.0
+3495,2023-09-16,Customer_277,Furniture,Bed,"₹5,900",4.0
+1752,2024-10-09,Customer_289,Clothing,Cap,4336,4.0
+1351,"Mar 01, 2024",Customer_248,Sports,Football,₹625,1.0
+2687,"May 17, 2024",Customer_385,Toys,Lego Set,3477,3.0
+3176,2024-04-23,Customer_211,Clothing,Jeans,439,1.0
+3339,29/04/2023,Customer_122,Groceries,Rice,2672,2.0
+1037,2023-09-29,Customer_105,Sports,Yoga Mat,1524,3.0
+2294,2023-01-01,Customer_25,Groceries,Spices,206,2.0
+2760,2024-02-13,Customer_26,Groceries,Snacks,3672,4.0
+1159,2023-03-24,Customer_365,Furniture,Bookshelf,₹680,4.0
+1384,2023-04-08,Customer_336,Groceries,Snacks,,1.0
+1733,2023-06-20,Customer_156,Books,Cookbook,2892,3.0
+2585,2024-07-02,Customer_275,Groceries,Spices,682,2.0
+1141,2023-04-28,Customer_247,Clothing,Jacket,"₹2,139",3.0
+1466,2024-07-19,Customer_199,Furniture,Chair,4165,5.0
+2319,13/01/2023,Customer_371,Toys,Lego Set,1505,5.0
+1300,"Jul 24, 2024",Customer_154,Groceries,Snacks,,3.0
+2233,2024-07-15,Customer_154,Books,Cookbook,128,2.0
+1608,02/05/2023,Customer_377,Sports,,2740,2.0
+2313,2024-12-05,Customer_276,Beauty,Lipstick,1185,5.0
+3028,2023-11-10,Customer_290,Sports,Cricket Bat,1466,2.0
+1540,03/08/2023,Customer_324,Sports,Tennis Racket,862,2.0
+2282,2024-02-09,Customer_146,Furniture,Table,293,1.0
+1010,2024-04-18,Customer_374,Clothing,Cap,708,2.0
+1692,2024-06-07,Customer_396,Sports,Football,3459,3.0
+2277,2023-07-10,Customer_55,Beauty,Perfume,₹736,1.0
+1025,2023-03-14,Customer_35,Electronics,Laptop,696,1.0
+2429,,Customer_343,Toys,Board Game,1088,1.0
+1604,2023-01-08,Customer_268,Electronics,Tablet,"1,084",1.0
+1718,"Dec 16, 2023",Customer_144,Electronics,,660,2.0
+3054,2023-08-23,Customer_196,Groceries,Rice,354,3.0
+3135,2024-04-13,Customer_337,Furniture,Table,4644,4.0
+1644,31/03/2024,Customer_331,Beauty,Sunscreen,2300,4.0
+2154,2024-04-01,Customer_104,Books,Textbook,312,1.0
+1714,2023-04-01,Customer_249,Furniture,Sofa,5540,5.0
+2694,2023-08-18,Customer_97,Toys,Board Game,1287,1.0
+2168,2023-02-23,Customer_354,Furniture,Bookshelf,"₹2,787",3.0
+2925,"Apr 21, 2024",Customer_354,Clothing,T-shirt,2577,3.0
+3481,06/09/2023,Customer_397,Books,Cookbook,1768,4.0
+2039,2024-06-26,Customer_185,Sports,Dumbbells,660,2.0
+3363,2023-04-26,Customer_240,Groceries,Beverages,5195,5.0
+1021,29/06/2024,Customer_375,Furniture,Chair,₹644,4.0
+1280,2023-09-25,Customer_166,Clothing,Shoes,66,2.0
+1097,2024-04-25,Customer_7,Books,Novel,3010,5.0
+2515,"Feb 16, 2023",Customer_212,Electronics,Laptop,"₹5,915",5.0
+1442,20/09/2024,Customer_90,Books,Textbook,"7,200",5.0
+1173,29/03/2024,Customer_26,Clothing,Cap,,1.0
+1719,,Customer_267,Furniture,Bookshelf,"6,505",5.0
+1956,2023-11-14,Customer_99,Furniture,Table,522,1.0
+3340,2024-05-07,Customer_3,Furniture,Table,"2,148",3.0
+1610,2023-05-29,Customer_200,Electronics,Laptop,206,1.0
+3078,"May 07, 2023",Customer_27,Beauty,Perfume,6095,5.0
+2049,2024-01-17,Customer_259,Beauty,Face Cream,142,1.0
+2133,2024-08-20,Customer_266,Beauty,Face Cream,1473,3.0
+2918,09/02/2024,Customer_388,Clothing,,704,2.0
+2037,2023-05-22,Customer_332,Furniture,Table,"2,115",3.0
+2269,2024-11-24,Customer_253,Beauty,Sunscreen,888,1.0
+3015,2023-05-21,Customer_272,Beauty,Sunscreen,641,1.0
+2796,07/05/2023,Customer_142,Furniture,Table,1684,2.0
+2376,2024-03-23,Customer_275,Books,Cookbook,2892,2.0
+2322,2023-06-08,Customer_158,Books,Comic,3000,3.0
+1921,2023-08-22,Customer_218,Sports,Dumbbells,2146,2.0
+2228,29/05/2023,Customer_276,Toys,Lego Set,2668,4.0
+3126,2023-09-21,Customer_87,Clothing,Jacket,4185,3.0
+3238,24/06/2023,Customer_72,Electronics,Tablet,"1,672",
+1638,2024-10-06,Customer_111,Clothing,T-shirt,2985,3.0
+2085,2023-11-26,Customer_140,Beauty,Face Cream,2752,2.0
+1595,"Apr 27, 2024",Customer_111,Beauty,Lipstick,"5,048",4.0
+2652,2024-12-02,Customer_371,Toys,,670,2.0
+2272,"Jun 20, 2024",Customer_230,Electronics,Tablet,"2,802",2.0
+2103,25/03/2024,Customer_398,Groceries,Rice,6440,5.0
+1717,2024-10-02,Customer_257,Beauty,Shampoo,438,3.0
+1890,2024-04-01,Customer_206,Beauty,Lipstick,2355,5.0
+3385,18/01/2023,Customer_399,Sports,Cricket Bat,"5,180",5.0
+3155,2024-12-24,Customer_128,Beauty,Perfume,1375,5.0
+2418,2024-05-20,Customer_102,Sports,Yoga Mat,242,2.0
+2856,20/03/2024,Customer_276,Groceries,Spices,1421,1.0
+2477,07/01/2023,Customer_322,Clothing,Jacket,4476,3.0
+2560,2024-07-31,Customer_253,Groceries,Spices,354,3.0
+1796,2024-03-10,Customer_93,Toys,RC Car,4252,4.0
+1448,"Mar 05, 2024",Customer_25,Furniture,Chair,3668,4.0
+1211,2024-09-21,Customer_150,Groceries,Oil,92,4.0
+1695,07/12/2024,Customer_248,Furniture,Sofa,2038,2.0
+1378,11/11/2024,,Electronics,Phone,5280,4.0
+3475,"Dec 25, 2023",Customer_25,Toys,RC Car,4616,4.0
+2058,"Jun 10, 2023",Customer_234,Furniture,Table,344,4.0
+1985,2023-09-20,Customer_363,Groceries,Snacks,4972,4.0
+2883,2024-04-08,Customer_216,Groceries,Snacks,3852,4.0
+2396,2024-08-30,Customer_224,Furniture,Chair,1307,1.0
+2704,26/09/2023,Customer_64,Books,Cookbook,318,1.0
+1301,"Dec 19, 2023",Customer_285,Clothing,Shoes,464,4.0
+2297,25/06/2024,Customer_185,Clothing,Jacket,"3,678",3.0
+2479,2024-06-01,Customer_54,Groceries,Oil,₹280,4.0
+1862,2023-12-02,Customer_377,Electronics,Smartwatch,"1,054",2.0
+1489,01/07/2024,Customer_372,Groceries,Spices,2850,2.0
+1562,2023-03-14,Customer_92,Furniture,Chair,"3,486",3.0
+1468,"Apr 13, 2023",Customer_291,Clothing,Jeans,6065,5.0
+1685,"Oct 02, 2024",Customer_270,Groceries,Oil,2374,2.0
+2572,11/07/2023,Customer_241,Groceries,Spices,,2.0
+1469,2023-09-28,Customer_275,Furniture,Sofa,2583,3.0
+2611,01/10/2024,Customer_374,Toys,RC Car,2316,3.0
+2277,2023-07-10,Customer_55,Beauty,Perfume,₹736,1.0
+2331,06/07/2023,Customer_47,Beauty,Shampoo,843,3.0
+2437,2023-09-04,Customer_237,Furniture,Table,245,1.0
+2241,2024-10-27,Customer_398,Clothing,Shoes,969,1.0
+2415,2024-04-21,Customer_368,Sports,Football,1371,3.0
+2833,05/07/2024,Customer_111,Clothing,Shoes,2616,4.0
+2779,2024-11-08,Customer_168,Beauty,Shampoo,3148,
+2276,2023-12-31,Customer_317,Electronics,Smartwatch,548,4.0
+1440,18/01/2024,Customer_270,Clothing,T-shirt,504,3.0
+3459,2023-07-03,Customer_272,Clothing,Jacket,2660,5.0
+1022,,Customer_85,Books,Biography,"3,300",3.0
+1181,2024-08-26,Customer_55,Furniture,Bookshelf,"₹1,824",2.0
+1856,2024-05-11,Customer_38,Toys,Puzzle,4872,4.0
+1706,28/03/2024,Customer_87,Electronics,Headphones,3846,3.0
+3124,2023-12-03,Customer_121,Beauty,Lipstick,4672,4.0
+3315,2024-02-08,Customer_202,Clothing,Cap,4940,4.0
+3372,2024-05-04,Customer_48,Sports,Football,1281,3.0
+2982,,Customer_377,Clothing,Jacket,2559,3.0
+2160,2024-01-13,,Groceries,Snacks,"₹1,340",5.0
+3024,"Dec 01, 2023",Customer_156,Books,Textbook,6295,5.0
+3085,23/09/2024,Customer_41,Books,Novel,2884,4.0
+2852,2023-03-26,Customer_207,Beauty,Face Cream,3168,4.0
+3360,2023-09-17,Customer_293,Groceries,Rice,1662,3.0
+3364,2023-09-06,Customer_297,Sports,Cricket Bat,"₹5,410",5.0
+2509,2024-07-18,Customer_379,Toys,RC Car,₹925,5.0
+3042,2024-09-23,Customer_197,Groceries,Oil,"2,258",2.0
+1230,2024-05-17,Customer_314,Books,Comic,"₹4,323",3.0
+2780,2023-07-06,Customer_324,Electronics,Smartwatch,425,1.0
+2140,2024-10-31,Customer_388,Toys,RC Car,986,1.0
+2550,21/08/2024,Customer_126,Clothing,Cap,5600,4.0
+2939,29/01/2024,Customer_161,Books,Novel,1075,
+1287,2024-11-27,Customer_267,Clothing,Jacket,1032,4.0
+2011,2023-12-30,Customer_238,Toys,Lego Set,"₹2,690",5.0
+1675,,Customer_272,Clothing,T-shirt,1880,2.0
+2529,2023-09-24,Customer_294,Books,Cookbook,5410,5.0
+2136,2024-10-21,Customer_257,Furniture,Sofa,5695,5.0
+2689,2024-02-23,Customer_82,Beauty,Shampoo,"4,584",4.0
+1670,2024-09-25,Customer_256,Groceries,Oil,1424,1.0
+2076,2023-04-28,Customer_261,Groceries,Snacks,4040,5.0
+1432,2023-11-23,Customer_139,Sports,Dumbbells,₹146,2.0
+3421,14/01/2024,Customer_280,Beauty,Lipstick,501,1.0
+2577,2024-04-02,,Groceries,Rice,2637,3.0
+1345,16/09/2023,Customer_72,Toys,Board Game,1545,3.0
+1621,"Apr 16, 2024",Customer_398,Groceries,Spices,5660,4.0
+2063,01/05/2024,Customer_232,Beauty,Sunscreen,2376,3.0
+3444,"Jan 04, 2024",Customer_400,Toys,Action Figure,359,1.0
+2209,,Customer_109,Electronics,Phone,170,5.0
+2588,08/10/2024,Customer_155,Clothing,Jacket,491,1.0
+1179,27/12/2024,Customer_220,Sports,Tennis Racket,4240,5.0
+1071,2024-01-25,Customer_357,Toys,RC Car,1199,1.0
+3057,"Aug 26, 2023",Customer_86,Toys,Action Figure,780,5.0
+2222,2024-12-09,Customer_325,Clothing,Cap,820,4.0
+1131,27/01/2024,Customer_90,Clothing,Jeans,"1,268",1.0
+2724,2024-09-04,Customer_278,Groceries,Rice,2300,5.0
+1747,2023-02-06,Customer_384,Clothing,Shoes,3785,5.0
+3387,2023-01-28,Customer_158,Sports,Dumbbells,₹908,2.0
+2043,28/11/2024,Customer_152,Electronics,Tablet,3372,4.0
+1128,2023-04-03,Customer_324,Furniture,Table,"₹1,455",3.0
+1285,2024-06-22,Customer_349,Groceries,Oil,935,5.0
+2935,2023-01-19,Customer_290,Clothing,Jacket,596,4.0
+2433,02/08/2023,Customer_250,Toys,Puzzle,717,1.0
+1471,2023-09-01,,Toys,Lego Set,4302,3.0
+1689,2023-08-08,Customer_124,Sports,Tennis Racket,5685,5.0
+2295,2023-04-14,Customer_242,Groceries,Spices,3786,3.0
+2637,2024-03-26,Customer_152,Groceries,Oil,4344,3.0
+1126,30/09/2024,Customer_241,Clothing,T-shirt,2139,3.0
+2096,18/10/2024,Customer_233,Beauty,Sunscreen,894,1.0
+3313,2024-12-03,Customer_373,Toys,,"₹3,495",5.0
+2263,"Aug 31, 2024",Customer_177,Toys,Puzzle,5745,5.0
+1611,23/03/2023,Customer_135,Furniture,Chair,1558,2.0
+1459,,Customer_23,Clothing,Shoes,2760,3.0
+2992,"Apr 09, 2023",Customer_108,Toys,Action Figure,"6,635",5.0
+3417,11/06/2024,Customer_94,Sports,Dumbbells,2860,2.0
+1463,"Nov 24, 2024",Customer_293,Electronics,Tablet,"₹5,950",5.0
+1550,2024-07-23,Customer_21,Furniture,Bookshelf,"2,364",4.0
+1505,2024-10-17,Customer_188,Clothing,T-shirt,788,1.0
+1309,2023-09-25,Customer_274,Toys,Board Game,1953,3.0
+2765,2024-12-19,Customer_334,Furniture,Bookshelf,1467,3.0
+1364,2023-01-10,Customer_318,Sports,Dumbbells,755,1.0
+1580,28/04/2024,Customer_134,Electronics,Tablet,"₹5,625",5.0
+3471,2023-05-11,Customer_365,Toys,Board Game,"₹4,656",4.0
+1682,24/04/2024,Customer_107,Furniture,Chair,₹732,4.0
+1109,"Jan 22, 2023",Customer_118,Electronics,Phone,6110,5.0
+1508,2024-06-16,Customer_216,Electronics,,1376,1.0
+2120,"Feb 14, 2023",Customer_324,Books,Comic,"3,785",5.0
+3195,2024-09-13,Customer_124,Groceries,Oil,"₹1,061",1.0
+1730,25/01/2024,Customer_208,Groceries,Snacks,1265,1.0
+2903,2024-10-26,Customer_164,Electronics,Smartwatch,252,2.0
+3332,24/07/2024,Customer_84,Sports,Dumbbells,1394,2.0
+1305,2023-10-02,Customer_275,Sports,Football,250,2.0
+2217,28/10/2023,Customer_244,Sports,Dumbbells,808,1.0
+2023,"Nov 25, 2024",Customer_263,Toys,Board Game,6360,5.0
+3040,14/08/2023,Customer_221,Beauty,Perfume,984,2.0
+1189,16/04/2023,Customer_78,Books,Biography,942,1.0
+2874,25/04/2023,Customer_281,Clothing,Jeans,408,3.0
+3007,2023-04-29,Customer_366,Books,Comic,"₹5,820",4.0
+3492,2024-08-04,Customer_377,Beauty,Sunscreen,5176,4.0
+1855,31/08/2023,Customer_167,Groceries,Rice,440,2.0
+1821,"Nov 07, 2024",Customer_130,Furniture,Table,2928,3.0
+3472,"May 19, 2023",Customer_7,Sports,Dumbbells,2799,3.0
+2266,2024-05-29,Customer_225,Books,Comic,2937,3.0
+1805,2023-03-26,Customer_14,Beauty,Sunscreen,"₹3,036",3.0
+1281,2024-08-09,Customer_155,Beauty,Perfume,7500,5.0
+2623,2024-09-13,Customer_130,Furniture,Sofa,230,5.0
+2451,08/11/2023,Customer_397,Clothing,,224,1.0
+3414,2024-12-02,,Furniture,Table,4595,5.0
+3164,12/03/2024,Customer_146,Beauty,Shampoo,1146,3.0
+1486,2023-06-03,Customer_134,Sports,Yoga Mat,"1,215",3.0
+2508,2023-02-06,Customer_289,Books,Novel,"₹7,295",5.0
+2734,2023-11-07,Customer_118,Toys,Action Figure,2958,3.0
+1354,"Jun 18, 2023",Customer_176,Furniture,Chair,1406,1.0
+2218,"Nov 20, 2024",Customer_255,Electronics,Laptop,637,1.0
+1732,"Oct 07, 2024",Customer_286,Toys,Lego Set,"4,308",4.0
+1422,2023-11-03,Customer_263,Sports,Dumbbells,1406,1.0
+1703,28/07/2024,Customer_203,Groceries,Snacks,2105,5.0
+3482,2024-07-22,Customer_87,Clothing,Shoes,412,1.0
+2998,14/05/2024,Customer_14,Sports,Dumbbells,₹396,4.0
+3179,2024-09-18,Customer_48,Books,Comic,1512,3.0
+1781,2023-09-07,Customer_212,Toys,RC Car,2582,2.0
+1770,2023-04-28,Customer_77,Furniture,Sofa,1160,2.0
+2375,2023-06-18,Customer_220,Electronics,Phone,1884,3.0
+3208,2024-02-19,Customer_141,Sports,Tennis Racket,"₹1,635",5.0
+2204,2024-12-21,Customer_91,Toys,Puzzle,1203,3.0
+1906,05/09/2024,Customer_100,Furniture,Bed,426,2.0
+1362,2023-05-22,Customer_199,Clothing,Cap,4964,4.0
+2926,26/05/2023,Customer_238,Toys,Board Game,1328,4.0
+1650,2024-07-06,Customer_228,Beauty,Sunscreen,2896,2.0
+2519,2024-07-18,Customer_228,Sports,Cricket Bat,2313,3.0
+1962,"Aug 30, 2023",Customer_169,Furniture,Sofa,"4,090",5.0
+3280,2024-04-09,Customer_100,Beauty,Lipstick,870,2.0
+3154,"Feb 19, 2024",Customer_150,Groceries,Beverages,894,3.0
+1225,,Customer_384,Sports,Tennis Racket,166,2.0
+2068,"May 29, 2024",Customer_268,Electronics,Tablet,"₹1,988",2.0
+3466,2023-07-11,Customer_356,Electronics,Phone,"1,392",4.0
+1186,2023-03-17,Customer_29,Beauty,,3177,3.0
+2545,2024-11-06,Customer_27,Furniture,Bed,4935,5.0
+1928,27/08/2023,Customer_305,Sports,Cricket Bat,1084,4.0
+1937,2023-04-23,,Toys,Puzzle,4072,4.0
+1161,12/04/2023,Customer_259,Beauty,Face Cream,"₹4,505",5.0
+3206,,Customer_195,Electronics,Headphones,₹408,4.0
+2835,03/05/2023,Customer_28,Electronics,Tablet,"₹3,669",3.0
+2316,2023-07-13,Customer_236,Books,Comic,760,2.0
+1264,2023-06-27,Customer_270,Sports,Dumbbells,2648,4.0
+1369,2024-03-27,Customer_388,Sports,Tennis Racket,1492,1.0
+2237,2023-01-10,Customer_112,Clothing,Jeans,2706,2.0
+2967,2023-01-13,Customer_262,Beauty,Shampoo,654,1.0
+2869,24/03/2024,Customer_224,Furniture,Table,3895,5.0
+2042,"Nov 07, 2024",Customer_32,Clothing,Shoes,380,4.0
+2532,05/08/2024,Customer_7,Beauty,Sunscreen,648,1.0
+3167,"Aug 13, 2023",Customer_331,Electronics,Laptop,3228,4.0
+2576,2024-01-01,Customer_251,Beauty,Face Cream,4976,4.0
+1334,2024-07-21,Customer_14,Toys,Lego Set,744,1.0
+3430,2023-12-30,Customer_137,Books,Novel,"₹1,225",1.0
+2882,2024-02-16,Customer_364,Books,Cookbook,2420,5.0
+1789,"Sep 18, 2024",Customer_46,Toys,Action Figure,180,5.0
+3223,2023-09-05,Customer_375,Electronics,Laptop,774,1.0
+2229,2024-09-07,Customer_349,Groceries,Snacks,1284,4.0
+1381,2024-04-12,Customer_64,Books,Novel,1846,2.0
+2506,2023-09-25,Customer_17,Beauty,Lipstick,2649,3.0
+2737,2024-01-18,Customer_107,Electronics,Laptop,1869,
+2424,2023-08-18,Customer_317,Furniture,Sofa,₹79,1.0
+3213,2024-06-25,,Beauty,Lipstick,2148,4.0
+2862,,Customer_335,Beauty,Shampoo,2574,3.0
+2419,2024-09-07,Customer_64,Toys,Lego Set,1480,4.0
+2166,2023-07-02,Customer_79,Electronics,Headphones,"₹3,012",4.0
+1987,2024-01-26,Customer_130,Electronics,Phone,6445,5.0
+3400,2024-06-04,Customer_238,Sports,Football,420,1.0
+2802,2024-03-18,Customer_341,Sports,Cricket Bat,5824,4.0
+3080,2024-10-12,Customer_339,Toys,Action Figure,"₹5,996",4.0
+2308,2023-02-16,Customer_61,Beauty,Sunscreen,956,2.0
+1880,2024-08-15,Customer_267,Electronics,Laptop,2589,3.0
+1579,2024-08-15,Customer_260,Furniture,Chair,1211,1.0
+2083,06/05/2023,Customer_46,Furniture,Sofa,5800,4.0
+1208,"Jul 15, 2024",Customer_132,Furniture,Chair,652,2.0
+2764,2023-12-30,Customer_216,Electronics,Smartwatch,896,4.0
+2353,"Feb 22, 2024",Customer_360,Sports,Cricket Bat,698,
+3496,2024-04-05,Customer_333,Groceries,Beverages,"2,466",2.0
+1836,2024-11-14,Customer_61,Electronics,Smartwatch,2718,2.0
+1144,2024-07-28,Customer_242,Furniture,Table,1288,1.0
+1749,03/08/2023,Customer_270,Beauty,Perfume,4376,4.0
+1557,07/07/2024,Customer_59,Sports,Dumbbells,"₹2,180",4.0
+1834,2024-05-15,Customer_369,Groceries,Rice,2540,5.0
+3037,2023-02-25,Customer_93,Furniture,Table,₹760,1.0
+2318,2023-09-09,Customer_74,Groceries,Rice,893,1.0
+1431,11/07/2024,Customer_366,Electronics,Smartwatch,3006,3.0
+2355,2024-10-02,Customer_350,Clothing,Jeans,724,4.0
+1494,2024-01-26,Customer_257,Books,Comic,1414,1.0
+2941,2023-03-02,Customer_365,Groceries,Spices,"1,530",2.0
+1820,2024-10-25,Customer_67,Furniture,Bed,5456,4.0
+2632,2023-05-01,Customer_141,Electronics,Headphones,3690,5.0
+2969,20/10/2023,Customer_246,Clothing,Shoes,6210,5.0
+1250,,Customer_259,Furniture,Bookshelf,"₹2,052",4.0
+2512,22/01/2024,Customer_247,Electronics,Tablet,812,1.0
+1536,04/06/2024,Customer_222,Electronics,Tablet,5045,5.0
+3204,12/07/2024,Customer_134,Beauty,Perfume,388,2.0
+2030,,Customer_121,Books,Textbook,2320,2.0
+3320,2024-12-03,Customer_176,Groceries,Oil,"6,325",5.0
+2304,2024-12-02,Customer_380,Electronics,Laptop,4132,4.0
+2426,2023-02-14,Customer_3,Sports,,551,1.0
+2680,2023-08-15,Customer_326,Books,Biography,654,
+3371,2024-08-14,Customer_399,Furniture,Chair,2672,2.0
+1865,"Feb 21, 2024",Customer_286,Groceries,Rice,"₹1,439",1.0
+1632,06/01/2024,Customer_298,Groceries,Snacks,686,1.0
+2172,2024-03-14,Customer_107,Groceries,Beverages,"4,145",5.0
+2386,02/04/2023,Customer_51,Beauty,Sunscreen,232,1.0
+2943,24/07/2023,Customer_161,Sports,Dumbbells,5590,5.0
+1766,2023-02-07,Customer_347,Furniture,Bed,880,
+2399,"Mar 26, 2023",Customer_338,Toys,Action Figure,583,1.0
+2658,2024-10-23,Customer_307,Electronics,Tablet,712,4.0
+2486,2024-04-14,Customer_182,Books,Novel,1956,2.0
+1147,24/08/2024,Customer_344,Books,Textbook,"4,390",5.0
+2230,2024-12-06,Customer_164,Electronics,Tablet,3144,3.0
+2697,2023-09-03,,Groceries,,4500,3.0
+2905,2023-01-20,Customer_320,Electronics,Laptop,"1,194",1.0
+1896,"Jun 21, 2024",Customer_107,Furniture,Table,"₹2,976",3.0
+2141,2024-04-30,Customer_117,Clothing,Shoes,898,2.0
+3302,"Feb 04, 2023",Customer_65,Electronics,Laptop,697,1.0
+3423,"Feb 13, 2024",Customer_16,Beauty,Sunscreen,1139,1.0
+3473,31/05/2023,Customer_327,Beauty,Shampoo,700,4.0
+1554,2024-11-10,Customer_179,Toys,Lego Set,912,2.0
+3286,"Jun 22, 2023",Customer_136,Beauty,Perfume,600,5.0
+3022,2023-03-18,Customer_267,Groceries,Beverages,"₹3,114",3.0
+1265,2023-09-10,Customer_313,Sports,Yoga Mat,1652,4.0
+1322,2024-10-14,Customer_283,Toys,Board Game,536,4.0
+1112,2024-05-22,Customer_169,Furniture,,5760,4.0
+1589,"May 28, 2024",Customer_247,Sports,Dumbbells,165,5.0
+1993,2024-04-23,Customer_134,Electronics,Smartwatch,2930,2.0
+3397,2024-07-21,Customer_107,Furniture,Chair,864,1.0
+2253,"Aug 09, 2023",Customer_97,Groceries,Rice,1266,2.0
+3150,"Oct 26, 2024",Customer_172,Groceries,Rice,798,2.0
+1455,2023-06-07,Customer_293,Electronics,Smartwatch,"₹5,125",5.0
+1593,2024-08-09,Customer_323,Clothing,Jeans,500,5.0
+1137,24/08/2023,Customer_382,Electronics,Tablet,2424,4.0
+2048,2024-08-29,,Sports,Cricket Bat,1125,1.0
+1654,2024-09-03,Customer_5,Books,Textbook,"₹2,476",4.0
+1339,2024-02-10,Customer_70,Books,Novel,99,3.0
+2798,2024-10-05,Customer_160,Furniture,Bed,"1,150",5.0
+2126,"Jul 13, 2023",Customer_391,Groceries,Rice,6110,5.0
+1936,"Nov 07, 2023",Customer_91,Electronics,Phone,"6,850",5.0
+3246,23/02/2023,Customer_131,Clothing,Jeans,2244,3.0
+2333,2024-07-05,Customer_215,Groceries,Snacks,5190,5.0
+2622,2023-07-19,Customer_227,Electronics,Laptop,3291,3.0
+1542,"Aug 07, 2024",Customer_288,Furniture,Sofa,4852,4.0
+1507,30/04/2024,Customer_64,Books,Cookbook,"2,685",5.0
+1441,11/06/2023,Customer_155,Furniture,Sofa,897,3.0
+2908,2023-10-01,Customer_99,Beauty,Sunscreen,2384,4.0
+1221,16/03/2024,Customer_373,Beauty,Lipstick,724,4.0
+3102,2023-10-18,Customer_311,Furniture,Bookshelf,2862,2.0
+2210,2024-03-15,Customer_243,Beauty,Face Cream,3771,3.0
+1972,18/10/2024,Customer_356,Sports,Dumbbells,126,1.0
+2839,2023-07-08,Customer_130,Clothing,Shoes,820,4.0
+2581,2023-10-02,Customer_205,Books,Cookbook,393,3.0
+2819,2023-12-29,Customer_367,Beauty,Shampoo,3333,3.0
+2628,20/09/2024,Customer_143,Furniture,Bed,2722,2.0
+2403,"Jan 11, 2023",Customer_83,Sports,Dumbbells,1262,2.0
+1607,2024-05-10,Customer_190,Books,Comic,5780,5.0
+2587,2024-05-28,Customer_11,Electronics,Phone,1145,5.0
+1741,2024-04-14,Customer_319,Groceries,Rice,135,3.0
+2597,17/02/2024,Customer_128,Books,,309,1.0
+2298,2023-04-19,Customer_300,Beauty,Shampoo,792,4.0
+1299,"Nov 06, 2023",Customer_307,Sports,Tennis Racket,1515,3.0
+3090,2024-12-15,Customer_238,Groceries,Oil,442,2.0
+3136,2023-01-04,Customer_19,Groceries,Rice,"₹1,620",4.0
+1114,2023-07-12,Customer_237,Electronics,Tablet,524,4.0
+1842,2023-03-06,Customer_304,Groceries,Rice,"₹1,414",2.0
+3065,2024-02-09,Customer_271,Beauty,Face Cream,5628,4.0
+3089,2023-06-01,Customer_154,Electronics,Tablet,714,3.0
+1899,2024-04-19,,Beauty,Sunscreen,4660,4.0
+3016,2024-05-05,Customer_97,Books,Comic,"3,996",4.0
+1519,2024-08-27,Customer_82,Clothing,T-shirt,872,1.0
+2929,2024-02-06,Customer_102,Beauty,Perfume,1038,1.0
+2365,2024-10-21,Customer_350,Books,Textbook,1291,
+1884,2023-09-01,Customer_90,Beauty,Shampoo,700,2.0
+2778,2023-11-05,Customer_129,Groceries,Oil,2740,2.0
+2224,2023-10-25,Customer_115,Toys,Puzzle,₹768,3.0
+2889,2024-10-18,Customer_382,Clothing,Jacket,1695,5.0
+1096,27/10/2023,Customer_24,Clothing,Jacket,"₹1,153",1.0
+2788,23/07/2023,Customer_349,Groceries,Oil,108,2.0
+1831,15/04/2024,Customer_274,Furniture,Sofa,552,3.0
+1978,15/02/2024,Customer_135,Books,Comic,242,2.0
+2326,2024-09-22,Customer_145,Groceries,Rice,528,3.0
+1738,2024-07-17,Customer_314,Toys,RC Car,1590,2.0
+2601,2023-04-18,Customer_264,Books,Cookbook,₹930,5.0
+1348,24/10/2024,Customer_337,Furniture,Table,1080,3.0
+1168,"Jul 28, 2024",Customer_294,Furniture,Sofa,1796,2.0
+3220,2023-02-13,Customer_385,Clothing,Jacket,1845,3.0
+1117,2023-04-06,Customer_8,Beauty,Sunscreen,4275,5.0
+3259,2024-02-18,Customer_400,Groceries,Spices,1800,2.0
+1531,10/04/2023,Customer_367,Books,Textbook,"1,012",4.0
+2026,2023-12-19,Customer_148,Electronics,Laptop,1962,
+3137,2024-04-19,Customer_213,Sports,Yoga Mat,665,1.0
+1321,27/10/2024,Customer_351,Groceries,Spices,"₹1,358",1.0
+1005,03/01/2024,Customer_48,Sports,Football,872,4.0
+2082,2024-06-06,Customer_324,Toys,Action Figure,"2,436",2.0
+2314,2023-07-28,Customer_113,Groceries,Snacks,1710,3.0
+3123,2024-08-17,Customer_340,Beauty,Sunscreen,1037,1.0
+3358,2023-11-24,Customer_296,Sports,Cricket Bat,2180,5.0
+1474,11/05/2024,Customer_227,Furniture,Table,1706,2.0
+2766,2023-11-28,Customer_9,Toys,Board Game,4035,3.0
+2634,2023-01-11,Customer_321,Sports,Tennis Racket,366,1.0
+3352,2024-11-04,Customer_398,Furniture,Bed,3212,4.0
+3241,13/02/2023,Customer_267,Beauty,Shampoo,4270,
+3120,2023-08-23,Customer_136,Beauty,Face Cream,1106,1.0
+2797,10/10/2023,Customer_228,Clothing,Jeans,"₹2,792",2.0
+1740,2024-10-03,Customer_159,Toys,Action Figure,2444,4.0
+1228,2024-10-27,Customer_188,Clothing,Cap,2652,4.0
+2163,2024-04-17,Customer_168,Furniture,Table,4048,4.0
+2513,"May 01, 2023",Customer_71,Toys,RC Car,916,1.0
+2402,2023-03-20,Customer_38,Electronics,Smartwatch,5204,4.0
+1756,27/04/2023,Customer_282,Beauty,Sunscreen,96,3.0
+2226,14/07/2023,Customer_32,Electronics,Headphones,5580,5.0
+3112,2024-09-10,Customer_72,Clothing,T-shirt,2140,2.0
+2644,2023-04-13,Customer_172,Toys,Board Game,4038,3.0
+2362,"May 24, 2023",Customer_132,Beauty,Face Cream,5404,4.0
+1082,2024-10-04,Customer_39,Toys,Puzzle,7170,5.0
+3044,2023-01-04,Customer_113,Clothing,Jeans,717,3.0
+3489,04/08/2023,Customer_219,Beauty,Perfume,1108,1.0
+1769,2023-10-11,Customer_103,Groceries,Spices,1212,2.0
+2800,26/04/2023,,Sports,Yoga Mat,2172,4.0
+1453,2023-04-14,Customer_223,Clothing,Cap,258,2.0
+1669,2024-09-02,Customer_298,Electronics,Phone,5716,4.0
+3139,2023-11-21,Customer_320,Sports,Football,1326,1.0
+2626,2024-12-31,Customer_190,Furniture,Chair,1275,1.0
+1850,02/06/2023,Customer_28,Groceries,Spices,500,2.0
+3231,21/02/2024,Customer_49,Sports,Dumbbells,,4.0
+1454,2024-11-07,Customer_370,Toys,RC Car,"2,815",5.0
+2668,05/09/2024,Customer_236,Furniture,Bookshelf,366,3.0
+3014,06/06/2024,Customer_6,Clothing,Shoes,₹426,3.0
+2904,2024-11-03,Customer_173,Books,Cookbook,₹578,1.0
+2522,,Customer_191,Groceries,Rice,186,2.0
+1516,"Jan 02, 2024",,Electronics,Phone,1386,2.0
+1331,25/01/2024,Customer_43,Groceries,Rice,1005,3.0
+1671,03/07/2024,Customer_183,Electronics,Phone,"₹2,912",2.0
+1110,15/06/2024,Customer_21,Beauty,Sunscreen,1966,2.0
+1863,"Feb 11, 2023",Customer_3,Clothing,Cap,,4.0
+2535,2023-10-10,Customer_226,Sports,Football,1096,2.0
+2034,19/04/2023,Customer_225,Furniture,Chair,988,4.0
+2565,04/07/2024,Customer_307,Clothing,T-shirt,"₹1,125",1.0
+2236,2023-05-21,Customer_235,Electronics,Headphones,2404,2.0
+2392,2023-09-05,Customer_88,Sports,Yoga Mat,4500,5.0
+2445,22/12/2023,Customer_106,Beauty,Face Cream,872,2.0
+2482,2024-05-02,Customer_262,Groceries,Oil,2150,5.0
+3321,2024-01-10,Customer_364,Furniture,Bed,3104,4.0
+1355,"Mar 12, 2024",Customer_82,Clothing,Cap,"3,498",3.0
+2702,2023-01-25,Customer_332,Furniture,Bed,7415,5.0
+1528,2023-02-06,Customer_53,Books,Novel,"₹3,456",4.0
+2138,23/12/2024,Customer_155,Sports,Yoga Mat,"₹1,230",3.0
+2999,"Oct 08, 2024",Customer_48,Beauty,Sunscreen,522,1.0
+1312,06/08/2024,Customer_169,Clothing,Jeans,1594,2.0
+2636,2024-02-28,Customer_72,Clothing,,"3,330",5.0
+2052,09/08/2024,Customer_154,Groceries,Spices,4155,3.0
+2142,2023-07-12,Customer_175,Books,Cookbook,661,1.0
+3271,2024-02-03,Customer_223,Electronics,,"₹4,100",5.0
+1020,2023-09-03,Customer_58,Books,Novel,1947,3.0
+3262,17/11/2024,Customer_311,Groceries,Beverages,1374,2.0
+1979,2023-05-01,Customer_189,Clothing,T-shirt,2362,2.0
+1358,2024-01-10,Customer_53,Furniture,Bed,2010,5.0
+1361,2023-11-09,Customer_161,Furniture,Table,508,1.0
+1763,2024-06-21,Customer_232,Groceries,Spices,"₹1,386",3.0
+2654,2024-12-24,Customer_343,Groceries,Snacks,3876,4.0
+1739,2023-05-29,Customer_338,Sports,Tennis Racket,704,2.0
+2391,,Customer_3,Toys,Puzzle,344,4.0
+3275,2023-05-28,Customer_227,Groceries,Beverages,5216,4.0
+2438,2023-12-27,Customer_244,Beauty,Lipstick,4735,5.0
+1804,2023-06-23,Customer_323,Beauty,Lipstick,4816,4.0
+1393,2024-05-21,Customer_331,Toys,Action Figure,510,1.0
+2806,"Oct 20, 2024",Customer_309,Toys,Lego Set,1229,1.0
+3253,"Apr 08, 2024",Customer_294,Beauty,Perfume,104,2.0
+1790,2023-02-24,Customer_32,Clothing,Jacket,3432,3.0
+1267,2024-07-10,Customer_63,Beauty,Perfume,7025,5.0
+1658,2024-04-08,Customer_57,Clothing,Jacket,5140,4.0
+1223,2024-04-02,Customer_354,Toys,Puzzle,2956,
+2988,2023-04-30,Customer_351,Clothing,Jeans,3063,3.0
+3396,2023-02-15,Customer_223,Beauty,Face Cream,246,1.0
+3272,2024-11-15,Customer_104,Toys,RC Car,186,1.0
+2349,2024-07-08,Customer_123,Sports,Football,"1,059",3.0
+1624,2023-12-17,Customer_48,Groceries,Spices,5596,4.0
+2589,"Oct 04, 2023",Customer_194,Beauty,Lipstick,"₹1,152",4.0
+2367,2024-04-22,Customer_237,Groceries,Snacks,734,1.0
+1398,"Jul 28, 2023",Customer_159,Beauty,Lipstick,"1,067",1.0
+2062,"Mar 11, 2023",Customer_63,Books,Novel,3670,5.0
+3243,"Jan 19, 2023",Customer_383,Furniture,Chair,1786,2.0
+3451,12/09/2023,Customer_340,Toys,RC Car,6420,5.0
+1371,25/08/2024,Customer_398,Books,Novel,898,2.0
+2465,12/09/2023,Customer_17,Beauty,,2984,4.0
+1314,"Jul 08, 2023",Customer_72,Sports,Cricket Bat,5100,5.0
+2097,2024-11-27,Customer_209,Sports,Dumbbells,807,3.0
+1594,2024-10-14,Customer_208,Clothing,Cap,5870,5.0
+1971,06/03/2024,Customer_260,Clothing,,740,1.0
+2854,2023-04-02,Customer_271,Beauty,Lipstick,405,1.0
+2409,2023-04-16,Customer_102,Beauty,Shampoo,2472,3.0
+1281,2024-08-09,Customer_155,Beauty,Perfume,7500,5.0
+3173,2024-07-31,Customer_343,Groceries,Snacks,5885,5.0
+2410,2024-04-01,Customer_106,Beauty,Shampoo,3628,4.0
+1439,2023-03-02,Customer_368,Clothing,Jacket,1364,2.0
+1327,06/12/2024,Customer_170,Toys,RC Car,1224,4.0
+1388,09/01/2023,Customer_36,Clothing,Jeans,"5,865",5.0
+2794,2023-05-28,Customer_387,Furniture,Chair,"1,228",4.0
+1282,2023-11-11,Customer_342,Groceries,Rice,973,1.0
+2472,2023-10-28,Customer_318,Sports,Cricket Bat,5890,5.0
+1352,2023-07-31,Customer_160,Clothing,Jacket,2856,3.0
+1043,05/04/2023,Customer_251,Beauty,Sunscreen,372,3.0
+3068,2024-01-27,Customer_60,Sports,Yoga Mat,4320,5.0
+1102,2024-11-07,Customer_321,Furniture,Table,"1,122",2.0
+1447,2024-12-10,Customer_136,Books,Novel,1062,2.0
+1135,2024-01-03,Customer_122,Books,Novel,4764,4.0
+1575,2024-03-14,Customer_291,Clothing,Cap,2001,3.0
+1877,2024-12-14,Customer_85,Furniture,Chair,747,3.0
+2147,2024-07-01,Customer_105,Toys,Board Game,600,4.0
+1857,2024-01-18,Customer_233,Groceries,Beverages,1626,2.0
+1129,2023-02-17,,Furniture,Bookshelf,₹237,3.0
+1748,2023-03-08,Customer_35,Sports,Dumbbells,"₹4,588",4.0
+1573,2024-11-02,Customer_183,Books,Textbook,2788,2.0
+3129,2023-05-05,Customer_59,Beauty,Shampoo,2844,4.0
+3048,2024-12-21,Customer_106,Books,Biography,,3.0
+1876,2023-03-24,Customer_97,Sports,Football,792,4.0
+1104,2024-04-09,Customer_362,Groceries,Spices,"4,377",3.0
+2192,2023-12-08,Customer_311,Toys,RC Car,668,4.0
+1411,"Aug 28, 2024",Customer_125,Beauty,Sunscreen,3096,4.0
+2439,2024-02-11,Customer_221,Furniture,Sofa,656,2.0
+1605,12/03/2024,Customer_186,Sports,Dumbbells,336,1.0
+3450,2024-10-03,Customer_319,Groceries,Spices,1654,2.0
+3100,2024-08-30,Customer_252,Clothing,Shoes,567,1.0
+3148,,Customer_49,Clothing,T-shirt,₹140,5.0
+2344,2024-05-28,Customer_284,Toys,Board Game,"3,573",3.0
+2596,2023-03-27,Customer_171,Furniture,Sofa,"2,620",2.0
+1712,02/02/2024,Customer_336,Electronics,Smartwatch,156,1.0
+1325,2023-11-19,Customer_289,Beauty,Sunscreen,387,1.0
+1079,2023-04-28,Customer_65,Clothing,Jeans,"5,564",4.0
+1541,09/07/2024,Customer_364,Sports,Cricket Bat,2102,2.0
+1356,30/01/2023,Customer_96,Toys,Puzzle,3320,4.0
+1360,20/11/2024,Customer_235,Sports,Yoga Mat,1865,5.0
+2019,2024-04-30,Customer_155,Groceries,Rice,"₹1,292",4.0
+1916,2023-07-24,Customer_309,Furniture,Chair,2446,2.0
+1308,2023-09-03,Customer_361,Groceries,Beverages,1664,2.0
+3491,2023-05-31,Customer_124,Electronics,Headphones,1360,5.0
+2826,2024-12-10,Customer_277,Groceries,Spices,531,3.0
+2117,2024-10-16,Customer_254,Books,Novel,54,2.0
+2129,2024-04-20,Customer_192,Toys,RC Car,4328,4.0
+1883,20/06/2023,,Electronics,Laptop,"2,859",3.0
+1699,21/02/2023,Customer_358,Sports,Tennis Racket,666,2.0
+2748,2024-01-18,Customer_271,Books,Novel,1069,1.0
+1004,2023-10-12,Customer_358,Electronics,Laptop,2864,4.0
+1216,06/03/2023,Customer_324,Books,Cookbook,592,2.0
+1977,18/09/2024,Customer_12,Groceries,Rice,6725,5.0
+1099,"Mar 29, 2023",,Electronics,Laptop,"₹3,210",5.0
+2880,2023-05-28,Customer_275,Clothing,Shoes,1434,3.0
+2127,"Oct 14, 2023",Customer_127,Clothing,,1309,1.0
+3029,16/11/2024,Customer_136,Toys,Action Figure,4440,5.0
+3198,2023-03-15,Customer_76,Furniture,Bed,4625,5.0
+2831,2024-11-29,Customer_362,Sports,Dumbbells,300,2.0
+2287,11/09/2023,Customer_249,Beauty,Perfume,898,1.0
+1701,08/08/2024,Customer_173,Clothing,Jeans,994,1.0
+1456,2023-07-24,Customer_339,Furniture,Sofa,"5,015",5.0
+3165,2024-10-21,Customer_233,Furniture,Bed,"1,920",3.0
+2752,2024-10-28,Customer_239,Toys,Action Figure,"1,324",4.0
+1522,2024-08-01,Customer_361,Sports,Football,6000,5.0
+2038,2023-10-21,Customer_126,Toys,Lego Set,"₹2,876",4.0
+1390,2024-01-29,Customer_72,Furniture,Chair,1227,1.0
+1952,2024-04-23,Customer_256,Clothing,Cap,2746,2.0
+1412,"Jan 07, 2023",Customer_390,Groceries,,₹656,2.0
+3311,13/02/2024,Customer_163,Electronics,Tablet,105,5.0
+2171,21/04/2023,Customer_23,Clothing,Jeans,4276,4.0
+3263,19/10/2023,Customer_71,Groceries,Beverages,275,5.0
+2914,2024-06-26,Customer_199,Electronics,Phone,3900,3.0
+3240,07/02/2023,Customer_40,Sports,Dumbbells,542,1.0
+1502,,Customer_34,Beauty,Shampoo,630,1.0
+3427,2023-03-29,Customer_97,Furniture,Table,4692,4.0
+1759,2023-11-03,Customer_212,Sports,Dumbbells,1087,1.0
+3329,2023-03-31,Customer_357,Beauty,Shampoo,600,1.0
+1429,2023-03-04,Customer_211,Beauty,Face Cream,5005,5.0
+2134,2024-02-23,Customer_231,Sports,Dumbbells,3620,4.0
+1074,"Jan 28, 2023",Customer_66,Clothing,Shoes,5565,5.0
+1026,2024-08-13,Customer_277,Books,Comic,2378,2.0
+1506,2023-01-21,Customer_25,Electronics,Tablet,"₹1,358",1.0
+2524,2024-05-22,Customer_143,Furniture,Chair,4030,5.0
+3349,15/06/2024,Customer_85,Electronics,Tablet,3388,4.0
+2460,24/10/2023,Customer_349,Clothing,Shoes,2182,2.0
+2121,2023-06-28,Customer_113,Beauty,Shampoo,4476,3.0
+2219,2024-11-09,Customer_229,Books,Comic,"1,007",1.0
+1587,2023-06-28,Customer_297,Beauty,Perfume,5935,5.0
+3456,2024-02-09,Customer_306,Electronics,Laptop,5785,5.0
+1612,"Dec 29, 2024",Customer_336,Toys,RC Car,"₹3,030",5.0
+1426,"Feb 13, 2023",Customer_48,Books,Comic,₹810,3.0
+1649,2024-05-02,Customer_18,Clothing,T-shirt,2058,3.0
+2507,"Nov 10, 2024",Customer_105,Electronics,Laptop,"₹3,475",5.0
+3095,2024-08-30,Customer_82,Clothing,Jacket,"₹3,445",5.0
+1566,2023-06-10,Customer_203,Books,Cookbook,,
+2232,"Feb 23, 2023",Customer_376,Clothing,Jeans,2908,2.0
+1886,"Jul 06, 2024",Customer_76,Sports,Yoga Mat,2814,3.0
+3486,17/12/2024,Customer_157,Sports,Cricket Bat,93,1.0
+3103,2023-11-10,Customer_232,Clothing,Shoes,3186,3.0
+2456,22/01/2024,Customer_106,Toys,Action Figure,416,1.0
+2745,01/04/2024,Customer_359,Clothing,T-shirt,"2,277",3.0
+3488,"Sep 18, 2023",Customer_89,Toys,Action Figure,1620,3.0
+2759,2024-01-20,Customer_71,Sports,Football,1088,4.0
+1501,2023-05-13,Customer_356,Groceries,Oil,1977,3.0
+3347,22/01/2024,Customer_320,Electronics,Headphones,140,1.0
+2607,2024-04-30,Customer_85,Sports,Cricket Bat,7420,5.0
+1165,2024-07-29,Customer_31,Clothing,Cap,"₹5,850",5.0
+1244,2024-04-09,Customer_126,Beauty,Face Cream,"₹2,516",4.0
+3425,"Mar 24, 2024",Customer_226,Groceries,Beverages,3925,5.0
+1379,2023-10-02,Customer_220,Toys,Puzzle,2066,2.0
+2088,31/03/2024,Customer_276,Furniture,Chair,1395,1.0
+3395,2023-09-15,Customer_218,Sports,Yoga Mat,"₹1,048",2.0
+1295,2023-06-08,Customer_127,Toys,Puzzle,2912,4.0
+2364,2023-11-18,Customer_188,Clothing,Shoes,6495,5.0
+3394,27/08/2024,Customer_34,Beauty,Sunscreen,2778,3.0
+2369,2024-05-12,Customer_163,Sports,Football,3771,3.0
+2197,2024-05-04,Customer_377,Toys,Board Game,1032,2.0
+1316,2023-08-12,Customer_363,Groceries,Rice,76,2.0
+1529,2024-07-29,Customer_317,Furniture,Bed,3183,3.0
+3500,2024-04-17,Customer_33,Electronics,Phone,"₹4,050",5.0
+1190,11/09/2023,Customer_331,Furniture,Bed,200,2.0
+1028,2023-04-22,Customer_32,Electronics,Phone,"2,856",4.0
+2406,2023-01-31,Customer_187,Clothing,Jeans,464,1.0
+2542,19/04/2023,Customer_77,Electronics,Headphones,360,5.0
+2398,2023-07-18,Customer_335,Clothing,Jeans,"1,256",2.0
+2075,2023-07-27,Customer_193,Sports,Yoga Mat,126,1.0
+2284,,,Books,Biography,1370,2.0
+2707,30/10/2023,Customer_388,Books,Comic,2163,3.0
+2337,2024-03-07,Customer_236,Clothing,Jacket,2298,2.0
+3266,2023-12-19,Customer_196,Furniture,Bed,"₹3,970",5.0
+2674,14/10/2024,Customer_263,Furniture,Bookshelf,711,1.0
+1586,"Dec 21, 2024",Customer_333,Electronics,Phone,693,3.0
+1838,26/06/2023,Customer_360,Electronics,Laptop,98,2.0
+1711,25/07/2023,Customer_88,Electronics,Headphones,601,1.0
+2803,05/03/2024,Customer_129,Beauty,Perfume,3465,5.0
+3105,2023-05-01,Customer_41,Clothing,T-shirt,1223,1.0
+2667,2024-03-21,Customer_264,Beauty,Shampoo,4755,5.0
+3187,2023-02-05,Customer_4,Books,Cookbook,1574,2.0
+2264,09/06/2023,Customer_5,Clothing,Jacket,"₹7,400",5.0
+1817,2023-01-13,Customer_6,Sports,Tennis Racket,159,1.0
+2801,2024-06-19,Customer_389,Clothing,Shoes,1440,3.0
+1958,12/05/2024,Customer_91,Beauty,Sunscreen,"₹1,499",1.0
+1303,2023-03-01,Customer_154,Groceries,Oil,1936,2.0
+1572,2023-03-10,Customer_38,Books,Biography,"4,185",3.0
+1631,20/11/2023,Customer_62,Clothing,Shoes,"₹4,810",5.0
+3077,2024-09-19,Customer_230,Sports,Football,2816,4.0
+3480,27/09/2024,Customer_315,Beauty,Sunscreen,5668,4.0
+3186,2024-12-05,Customer_352,Sports,Yoga Mat,1340,4.0
+2906,2024-11-19,Customer_199,Books,Cookbook,1443,1.0
+3438,2023-09-30,Customer_258,Clothing,T-shirt,2370,5.0
+2681,15/09/2024,Customer_314,Groceries,Rice,4434,3.0
+2562,2024-09-22,Customer_266,Groceries,Snacks,3591,3.0
+2735,2024-07-30,Customer_231,Sports,,2673,3.0
+2310,22/12/2023,Customer_60,Groceries,Beverages,1348,1.0
+2303,2023-05-13,Customer_307,Electronics,Laptop,4338,3.0
+1924,,Customer_377,Books,Biography,4281,
+2934,2024-06-26,Customer_63,Toys,RC Car,1425,5.0
+1060,29/04/2024,Customer_346,Books,Cookbook,2132,2.0
+2732,2023-06-10,Customer_345,Groceries,Beverages,1366,2.0
+2421,12/12/2023,Customer_274,Toys,Lego Set,₹500,5.0
+1024,,Customer_11,Furniture,Sofa,"₹5,770",5.0
+1578,27/09/2023,Customer_72,Furniture,Sofa,2110,5.0
+1684,14/04/2023,Customer_111,Beauty,Lipstick,1090,5.0
+2016,07/11/2023,Customer_337,Books,Cookbook,5080,5.0
+1347,2024-07-03,Customer_19,Toys,RC Car,,3.0
+2783,"Dec 12, 2023",Customer_336,Furniture,Sofa,"3,550",5.0
+1749,03/08/2023,Customer_270,Beauty,Perfume,4376,4.0
+1009,30/11/2024,Customer_108,Sports,Yoga Mat,4371,3.0
+3499,2023-01-16,Customer_63,Clothing,Jeans,259,1.0
+1229,2024-07-29,Customer_256,Electronics,Laptop,4060,5.0
+1490,2024-07-25,Customer_154,Sports,Tennis Racket,"₹2,732",2.0
+1830,08/12/2023,Customer_291,Books,Novel,3775,5.0
+2476,2023-05-20,Customer_74,Groceries,Beverages,5170,5.0
+1450,2023-10-29,Customer_232,Groceries,Oil,88,1.0
+3109,2024-05-24,Customer_130,Electronics,Phone,1608,4.0
+1016,,Customer_129,Books,Biography,215,5.0
+2115,"Dec 09, 2024",Customer_342,Sports,Cricket Bat,5768,4.0
+3411,2023-01-04,Customer_388,Furniture,Bed,3585,3.0
+3072,"Sep 09, 2023",Customer_67,Groceries,Snacks,500,4.0
+1824,2024-02-07,Customer_252,Books,Novel,2538,2.0
+3143,21/06/2024,Customer_365,Sports,Cricket Bat,301,1.0
+2443,2023-09-30,Customer_28,Groceries,Rice,1198,1.0
+2010,2023-02-16,Customer_25,Beauty,Sunscreen,880,5.0
+3326,2023-04-21,Customer_167,Beauty,Lipstick,2847,3.0
+2704,26/09/2023,Customer_64,Books,Cookbook,318,1.0
+2107,2024-04-09,Customer_338,Groceries,Beverages,205,5.0
+2699,2024-04-17,Customer_228,Groceries,Beverages,₹764,2.0
+2878,03/12/2024,Customer_331,Books,Biography,2392,4.0
+2755,"Dec 30, 2023",Customer_235,Sports,Tennis Racket,,2.0
+1443,01/07/2023,Customer_158,Clothing,Shoes,840,3.0
+2757,"Dec 02, 2023",Customer_277,Electronics,Laptop,483,3.0
+1286,2024-06-01,Customer_58,Furniture,Bed,1141,1.0
+1784,2023-11-30,Customer_304,Books,Novel,4840,5.0
+1861,2024-08-28,Customer_268,Furniture,Bookshelf,1852,4.0
+2394,2023-08-25,Customer_265,Toys,Action Figure,1830,2.0
+3264,2024-03-20,Customer_73,Toys,Lego Set,,5.0
+1349,2023-04-11,Customer_221,Toys,Action Figure,41,1.0
+1069,2024-12-11,Customer_78,Furniture,Table,"1,608",2.0
+1404,2023-02-26,Customer_234,Furniture,Bookshelf,3785,5.0
+1755,2023-10-16,Customer_328,Groceries,Rice,"₹2,866",2.0
+1798,2024-08-13,Customer_138,Groceries,Beverages,4552,4.0
+2051,,Customer_382,Sports,Cricket Bat,5890,5.0
+2977,"Aug 13, 2024",Customer_212,Toys,Board Game,94,2.0
+3079,,Customer_19,Toys,RC Car,5895,5.0
+1178,2023-01-20,Customer_204,Sports,Football,₹913,1.0
+1954,07/03/2023,Customer_223,Clothing,Jacket,2688,4.0
+2510,19/08/2023,Customer_19,Electronics,Phone,4236,4.0
+3117,26/08/2024,Customer_171,Electronics,Headphones,854,1.0
+2544,11/08/2024,Customer_115,Furniture,Chair,5255,5.0
+1253,2024-01-31,Customer_284,Groceries,Spices,510,3.0
+1559,2024-07-04,Customer_43,Sports,Tennis Racket,362,1.0
+2345,09/05/2023,Customer_48,Clothing,Jacket,3965,
+1194,2024-07-26,Customer_305,Toys,Puzzle,654,1.0
+3465,09/12/2023,Customer_56,Beauty,Lipstick,5260,4.0
+2750,2024-06-28,Customer_48,Furniture,Bed,1250,5.0
+1446,17/11/2024,Customer_326,Sports,Cricket Bat,1471,1.0
+2657,2024-01-13,Customer_312,Electronics,Laptop,1002,2.0
+2691,"Aug 19, 2023",Customer_275,Sports,Tennis Racket,4115,5.0
+1256,,Customer_71,Electronics,Phone,2970,3.0
+1452,2024-12-22,Customer_305,Furniture,Sofa,5040,5.0
+2927,,Customer_163,Electronics,Laptop,"₹5,256",4.0
+2823,2024-07-23,Customer_248,Electronics,Tablet,3472,4.0
+3116,2023-10-25,Customer_369,Electronics,Smartwatch,5700,5.0
+2645,25/03/2024,Customer_280,Clothing,Shoes,128,2.0
+1005,03/01/2024,Customer_48,Sports,Football,872,4.0
+1949,2023-08-03,Customer_272,Furniture,Bed,"₹3,576",4.0
+1511,2024-07-15,Customer_152,Sports,Dumbbells,200,2.0
+2528,2024-11-25,Customer_284,Electronics,Phone,5988,4.0
+2339,03/05/2024,Customer_340,Electronics,Phone,855,5.0
+3441,2023-09-12,Customer_110,Beauty,Lipstick,1221,1.0
+2325,2023-04-26,Customer_351,Beauty,Shampoo,5704,4.0
+2351,2024-05-10,Customer_290,Furniture,Bed,,1.0
+3066,19/02/2024,Customer_182,Books,Biography,6010,5.0
+3004,25/10/2023,Customer_151,Clothing,,202,2.0
+1622,10/10/2024,Customer_133,Books,Novel,803,1.0
+2282,2024-02-09,Customer_146,Furniture,Table,293,1.0
+2321,2024-12-25,Customer_55,Electronics,Phone,"₹3,565",5.0
+3293,2023-11-23,Customer_91,Furniture,Bed,7075,
+3292,"Aug 26, 2023",Customer_225,Books,Biography,1784,2.0
+1664,2023-02-04,Customer_395,Groceries,Snacks,2104,4.0
+1775,22/07/2023,Customer_183,Books,Biography,,3.0
+1574,03/12/2023,Customer_163,Furniture,Table,3768,4.0
+2898,"Apr 03, 2024",Customer_300,Sports,Dumbbells,,5.0
+2972,2024-01-17,Customer_331,Sports,Cricket Bat,1772,2.0
+2122,2023-04-14,Customer_12,Clothing,Jeans,1112,2.0
+2435,2024-09-27,Customer_187,Clothing,Jeans,3784,4.0
+3146,19/07/2024,Customer_296,Furniture,Bed,"₹3,140",5.0
+2413,2023-11-27,Customer_16,Sports,,388,1.0
+1140,2024-01-10,Customer_103,Toys,Puzzle,2248,
+2960,24/12/2023,Customer_299,Groceries,Oil,136,4.0
+1283,2024-09-21,Customer_328,Beauty,Lipstick,2316,3.0
+3403,2024-03-21,Customer_13,Furniture,Table,1177,1.0
+1617,2023-12-23,Customer_146,Furniture,Bed,6065,5.0
+3169,2023-04-20,Customer_11,Beauty,Face Cream,1181,1.0
+2567,,Customer_57,Books,Textbook,₹930,1.0
+1726,29/05/2024,Customer_353,Sports,Football,1176,4.0
+2555,28/08/2024,Customer_61,Groceries,Spices,"₹2,127",3.0
+1678,07/06/2023,Customer_269,Toys,Puzzle,4596,4.0
+2153,2023-11-14,Customer_82,Toys,Board Game,5985,5.0
+1056,05/12/2023,Customer_221,Groceries,Spices,1380,1.0
+2966,2024-10-03,Customer_238,Beauty,Perfume,1346,1.0
+2289,29/05/2024,Customer_362,Groceries,Snacks,"1,455",1.0
+1167,2023-04-21,Customer_337,Groceries,Oil,1916,4.0
+2846,2024-11-30,Customer_150,Furniture,Sofa,734,1.0
+1873,2023-11-25,Customer_360,Books,Biography,962,2.0
+1888,2024-11-13,Customer_243,Sports,Yoga Mat,3582,3.0
+1889,2023-02-11,Customer_353,Books,Textbook,1000,1.0
+2945,2023-09-25,Customer_359,Toys,Board Game,630,1.0
+1499,2024-06-30,Customer_197,Toys,Board Game,97,1.0
+1715,"Sep 11, 2023",Customer_365,Books,Biography,101,1.0
+3319,,Customer_176,Books,Comic,1452,4.0
+2057,2023-05-11,Customer_84,Books,Cookbook,2110,2.0
+3468,2023-04-17,Customer_35,Sports,Tennis Racket,304,4.0
+1365,,Customer_259,Toys,RC Car,3428,4.0
+2848,2023-12-13,Customer_60,Toys,Board Game,₹770,5.0
+2864,2024-10-14,Customer_66,Electronics,Smartwatch,328,2.0
+1206,2024-10-27,,Sports,Cricket Bat,₹666,3.0
+1801,"Feb 24, 2023",Customer_297,Furniture,Bed,3825,3.0
+1618,2024-08-11,Customer_100,Groceries,,"3,388",4.0
+2913,19/03/2024,Customer_47,Furniture,Table,27,1.0
+1124,2024-08-27,Customer_19,Clothing,Shoes,"₹2,096",2.0
+1335,02/02/2024,Customer_7,Sports,Dumbbells,2601,3.0
+2490,2024-06-22,Customer_363,Clothing,Cap,6845,5.0
+3021,"Oct 23, 2024",Customer_315,Clothing,Shoes,4260,5.0
+2865,"Jun 21, 2023",Customer_94,Books,Novel,3450,5.0
+2554,2023-12-29,Customer_272,Clothing,Cap,,4.0
+1919,"Apr 12, 2023",Customer_88,Groceries,Spices,140,5.0
+2080,2023-02-12,Customer_217,Groceries,Beverages,4725,5.0
+2437,2023-09-04,Customer_237,Furniture,Table,245,1.0
+1582,02/09/2023,Customer_258,Toys,Action Figure,1377,1.0
+1178,2023-01-20,Customer_204,Sports,Football,₹913,1.0
+2921,21/11/2024,Customer_318,Sports,Football,732,4.0
+3289,2024-06-09,Customer_238,Furniture,Table,"5,544",4.0
+2195,18/07/2023,Customer_198,Electronics,Phone,1760,5.0
+1829,2023-08-20,Customer_373,Toys,Board Game,1126,1.0
+1992,2023-07-13,Customer_285,Books,Comic,512,4.0
+2629,"Jan 15, 2023",Customer_301,Sports,Cricket Bat,3231,3.0
+2196,2024-12-06,Customer_364,Sports,Tennis Racket,"₹5,280",4.0
+1108,18/03/2024,Customer_42,Books,Cookbook,505,5.0
+3415,2023-06-02,Customer_211,Beauty,Lipstick,892,4.0
+1410,2023-01-09,Customer_45,Beauty,Perfume,4775,5.0
+2525,08/07/2023,Customer_115,Books,Novel,1592,2.0
+1298,28/08/2023,Customer_72,Groceries,Rice,3060,5.0
+1926,05/11/2024,,Books,Novel,"₹4,360",4.0
+3462,2024-08-07,Customer_175,Books,Cookbook,395,5.0
+3269,2024-07-08,Customer_398,Beauty,Shampoo,2508,3.0
+1729,2024-12-05,Customer_225,Furniture,Table,5115,5.0
+2308,2023-02-16,Customer_61,Beauty,Sunscreen,956,2.0
+3115,"Sep 19, 2024",Customer_201,Beauty,Sunscreen,"6,145",5.0
+1672,2023-07-17,Customer_286,Groceries,Spices,2754,3.0
+2200,2024-03-13,Customer_97,Furniture,Bed,1436,4.0
+1182,2023-03-20,Customer_114,Beauty,Perfume,"₹1,092",3.0
+1294,19/04/2024,Customer_388,Groceries,Rice,,1.0
+1202,2023-09-14,Customer_103,Toys,Puzzle,1515,5.0
+2584,2024-07-20,Customer_47,Electronics,Smartwatch,"₹2,226",3.0
+1127,"May 14, 2024",Customer_195,Sports,Tennis Racket,"₹3,909",3.0
+1532,2024-06-18,Customer_325,Sports,Yoga Mat,"₹3,423",3.0
+1200,"Nov 13, 2023",Customer_120,Beauty,Face Cream,2545,5.0
+2397,09/04/2024,Customer_196,Furniture,Bed,287,1.0
+1693,2023-06-09,Customer_20,Clothing,T-shirt,2992,4.0
+1935,"Nov 19, 2023",Customer_61,Electronics,Smartwatch,3764,4.0
+3005,2023-09-13,Customer_102,Clothing,T-shirt,4060,4.0
+1818,2023-07-17,Customer_113,Books,,1605,3.0
+1217,2023-02-12,Customer_104,Electronics,Headphones,428,1.0
+2278,"Jun 10, 2024",Customer_102,Toys,Board Game,1103,1.0
+1153,2023-01-03,Customer_397,Groceries,Spices,2480,2.0
+3041,2023-01-24,Customer_182,Beauty,Sunscreen,660,2.0
+2930,2024-05-26,Customer_98,Beauty,Shampoo,5048,4.0
+1966,2024-07-19,Customer_354,Electronics,Phone,1076,2.0
+1479,2023-04-03,Customer_84,Sports,Yoga Mat,4290,3.0
+2283,"Nov 12, 2024",Customer_342,Electronics,,"₹2,002",2.0
+3099,2024-09-21,Customer_299,Furniture,Chair,100,1.0
+2151,,Customer_168,Electronics,Laptop,"₹3,280",4.0
+1813,"Nov 20, 2023",Customer_230,Electronics,Headphones,5636,
+3490,06/04/2024,Customer_309,Furniture,Bookshelf,2325,5.0
+2993,10/07/2023,Customer_152,Electronics,Phone,444,1.0
+1844,2023-06-11,Customer_52,Electronics,Laptop,,5.0
+3003,2024-08-22,Customer_335,Toys,RC Car,538,1.0
+2265,13/09/2023,,Beauty,Lipstick,4404,3.0
+2009,04/11/2023,Customer_77,Books,Textbook,2842,2.0
+3300,"Aug 31, 2024",Customer_291,Clothing,Jacket,3820,4.0
+1968,"Aug 04, 2023",Customer_47,Beauty,Perfume,"1,258",2.0
+1950,2024-07-06,Customer_154,Beauty,Sunscreen,5512,4.0
+2693,2023-04-11,Customer_336,Sports,Dumbbells,2838,2.0
+1973,2023-11-09,Customer_206,Clothing,T-shirt,"₹2,612",2.0
+1188,08/08/2024,Customer_284,Books,Biography,941,1.0
+1247,2023-05-25,Customer_137,Books,Novel,2108,4.0
+2531,2024-09-22,Customer_293,Beauty,Perfume,396,4.0
+3130,2024-09-21,Customer_63,Books,Biography,"₹5,552",4.0
+3485,2023-05-29,Customer_369,Groceries,Spices,5250,5.0
+2327,2024-03-14,Customer_310,Furniture,Chair,768,2.0
+1284,01/03/2024,Customer_233,Books,Comic,3925,
+2983,2024-07-09,Customer_76,Sports,Yoga Mat,5612,4.0
+3242,"Mar 21, 2024",Customer_253,Sports,Cricket Bat,3588,4.0
+1904,2023-05-19,Customer_164,Electronics,Laptop,"₹5,756",4.0
+2675,30/10/2024,Customer_383,Electronics,Laptop,"₹4,491",3.0
+2270,2023-05-08,Customer_264,Books,Cookbook,7245,5.0
+3013,2023-02-10,Customer_212,Clothing,Cap,"₹1,166",1.0
+1976,2023-07-06,Customer_44,Beauty,Shampoo,3088,4.0
+2488,15/04/2024,Customer_181,Clothing,Jeans,3570,5.0
+2907,2023-12-17,Customer_218,Sports,Tennis Racket,5872,4.0
+1123,2024-01-26,Customer_163,Toys,Lego Set,5856,4.0
+2073,2023-06-23,Customer_158,Furniture,Table,5636,4.0
+2305,,Customer_225,Furniture,Table,4030,5.0
+3162,2023-02-20,Customer_251,Groceries,Snacks,2745,3.0
+3125,"Sep 09, 2023",Customer_41,Electronics,Smartwatch,"₹4,032",3.0
+1870,"Jun 11, 2024",Customer_318,Groceries,Rice,396,3.0
+2749,2023-10-17,Customer_168,Electronics,Tablet,5135,5.0
+2756,2023-11-12,Customer_396,Clothing,Jeans,₹884,2.0
+1757,2024-11-19,Customer_100,Electronics,Laptop,2136,3.0
+2157,"Jul 03, 2023",Customer_90,Toys,RC Car,2120,4.0
+2109,"Jul 18, 2023",Customer_305,Furniture,Chair,"₹1,234",1.0
+1068,2023-10-20,Customer_226,Groceries,Spices,1481,1.0
+3161,2023-05-30,Customer_340,Beauty,Face Cream,2640,2.0
+1333,2024-03-17,,Beauty,Lipstick,403,1.0
+1337,2024-03-21,Customer_75,Beauty,Face Cream,362,1.0
+1913,2023-03-22,Customer_65,Groceries,,572,2.0
+2773,2023-08-17,Customer_52,Clothing,Jeans,734,1.0
+1473,2023-11-25,Customer_69,Furniture,Table,2781,3.0
+1902,2024-05-07,,Furniture,Bed,3630,3.0
+2407,2023-04-05,Customer_141,Clothing,Jacket,1712,4.0
+2870,2023-11-22,Customer_393,Electronics,Tablet,₹900,2.0
+1885,2023-07-30,Customer_134,Clothing,Shoes,"₹1,191",3.0
+1478,2024-04-01,Customer_191,Electronics,,4944,4.0
+2330,,Customer_229,Clothing,Shoes,628,4.0
+2343,2023-06-27,Customer_329,Clothing,T-shirt,"₹1,257",1.0
+3384,2024-11-01,Customer_370,Sports,Yoga Mat,620,4.0
+3374,2023-04-28,Customer_256,Groceries,Beverages,"₹1,266",1.0
+2341,24/05/2023,Customer_392,Toys,Puzzle,1964,2.0
+1133,2023-03-17,Customer_347,Books,,1715,5.0
+3378,20/05/2023,Customer_370,Furniture,Bed,934,1.0
+2698,2023-02-01,Customer_68,Groceries,Spices,456,3.0
+1982,2023-07-04,Customer_373,Groceries,Spices,,2.0
+2234,2023-03-15,Customer_388,Books,Textbook,3280,4.0
+2876,01/03/2023,Customer_196,Groceries,Rice,1172,1.0
+3106,07/12/2023,Customer_371,Clothing,Jeans,598,1.0
+2150,2024-06-20,Customer_120,Beauty,Shampoo,"₹4,110",3.0
+2965,07/12/2024,Customer_103,Furniture,Table,3155,5.0
+1257,"Feb 07, 2024",Customer_314,Clothing,Jacket,1056,3.0
+1551,2023-06-08,Customer_170,Beauty,Lipstick,5892,4.0
+2771,,Customer_319,Sports,Yoga Mat,234,3.0
+1899,2024-04-19,,Beauty,Sunscreen,4660,4.0
+1290,19/12/2023,Customer_38,Groceries,Beverages,887,1.0
+3051,2024-08-08,Customer_366,Furniture,Bookshelf,816,1.0
+1778,2023-01-31,Customer_167,Clothing,Jacket,"₹4,072",4.0
+2976,2024-11-25,Customer_111,Furniture,Table,₹834,1.0
+1054,22/03/2024,Customer_223,Furniture,Bed,1986,3.0
+3373,2024-08-13,Customer_314,Groceries,Rice,60,2.0
+1558,2023-02-14,,Sports,Tennis Racket,4064,4.0
+1041,2023-09-28,Customer_154,Electronics,Tablet,₹295,1.0
+2673,2023-02-09,Customer_40,Books,Novel,2349,3.0
+2173,2024-10-31,Customer_89,Sports,Yoga Mat,843,1.0
+1262,2024-03-04,Customer_10,Furniture,,2648,4.0
+2536,2023-02-20,Customer_76,Groceries,Oil,6815,5.0
+1084,06/03/2024,Customer_332,Furniture,Bed,₹135,3.0
+2940,2023-09-30,Customer_252,Furniture,Bed,5016,4.0
+2084,"Nov 22, 2023",Customer_108,Beauty,Face Cream,5265,5.0
+3392,2023-09-13,Customer_360,Electronics,Laptop,,3.0
+2468,2024-04-17,Customer_153,Beauty,Lipstick,6530,5.0
+1031,,Customer_209,Groceries,Oil,4020,4.0
+3245,"Nov 25, 2023",Customer_79,Electronics,Smartwatch,672,4.0
+3067,2023-02-07,Customer_258,Toys,Puzzle,1112,4.0
+3353,"Mar 26, 2024",Customer_282,Toys,Lego Set,2982,2.0
+2630,2023-10-01,Customer_99,Electronics,,1610,5.0
+3283,2023-01-01,Customer_41,Clothing,T-shirt,"1,770",5.0
+2021,07/10/2024,Customer_171,Toys,Lego Set,230,1.0
+3282,29/07/2023,Customer_41,Books,Biography,164,4.0
+2404,2024-09-20,Customer_176,Electronics,Phone,"₹3,033",3.0
+2494,08/10/2024,Customer_227,Electronics,Phone,3786,3.0
+2207,2023-10-11,Customer_44,Furniture,Sofa,"₹1,100",4.0
+3479,"Jun 07, 2023",Customer_58,Groceries,,832,2.0
+1049,"Nov 16, 2024",Customer_92,Toys,Lego Set,2589,3.0
+2899,2023-07-01,Customer_44,Sports,Yoga Mat,483,3.0
+1894,2024-07-28,Customer_180,Beauty,Perfume,2796,3.0
+1154,"Nov 07, 2024",Customer_129,Clothing,Cap,₹490,2.0
+1395,2023-03-16,Customer_280,Toys,Action Figure,"₹1,968",2.0
+2148,2023-06-25,Customer_232,Sports,Tennis Racket,630,3.0
+2380,2023-02-07,Customer_328,Clothing,Shoes,1095,5.0
+2159,2024-07-04,Customer_81,Electronics,Laptop,3918,3.0
+1269,"Oct 05, 2023",Customer_110,Beauty,Face Cream,2246,2.0
+1386,2023-03-14,Customer_356,Furniture,Bookshelf,"₹1,996",2.0
+2245,23/07/2024,Customer_359,Clothing,,826,1.0
+1042,2023-12-18,Customer_145,Clothing,Jacket,2255,5.0
+3298,"Apr 03, 2024",Customer_398,Sports,Football,3372,3.0
+1598,05/03/2024,Customer_268,Electronics,Laptop,7105,5.0
+2090,21/01/2023,Customer_228,Sports,Cricket Bat,,1.0
+1681,2024-08-27,Customer_270,Toys,Board Game,7280,
+1172,2024-09-02,,Sports,Yoga Mat,"₹3,546",3.0
+1525,2023-11-25,Customer_85,Books,Cookbook,1026,1.0
+2685,2023-11-08,Customer_383,Furniture,Table,3880,5.0
+2672,14/04/2024,Customer_221,Clothing,Shoes,"2,181",3.0
+2329,02/06/2023,Customer_136,Books,Textbook,₹24,1.0
+2647,2023-04-21,Customer_21,Toys,Action Figure,2116,2.0
+3484,2024-10-12,Customer_22,Toys,Puzzle,2079,3.0
+2721,2023-05-16,Customer_381,Beauty,Lipstick,₹300,2.0
+2017,2023-05-19,Customer_155,Sports,Dumbbells,₹276,1.0
+3168,18/09/2023,Customer_138,Clothing,T-shirt,3267,3.0
+3031,26/10/2023,Customer_267,Books,Biography,520,2.0
+2741,2023-12-17,Customer_52,Toys,Lego Set,1329,1.0
+3075,"Nov 14, 2023",Customer_181,Books,Novel,"1,248",3.0
+1226,2024-10-22,Customer_65,Books,Novel,503,1.0
+3437,2024-10-07,Customer_183,Clothing,Jeans,2585,5.0
+2975,2023-10-04,Customer_297,Groceries,Snacks,2895,5.0
+3443,2023-09-18,Customer_96,Electronics,Headphones,218,
+2594,17/01/2024,Customer_9,Groceries,Snacks,3304,4.0
+3154,"Feb 19, 2024",Customer_150,Groceries,Beverages,894,3.0
+2361,2023-03-14,Customer_187,Beauty,Sunscreen,606,3.0
+2257,,Customer_289,Groceries,Spices,"6,290",5.0
+3497,2023-01-31,Customer_58,Furniture,Table,5215,5.0
+2784,2024-11-10,Customer_396,Sports,Dumbbells,4770,5.0
+2493,2023-03-07,Customer_90,Groceries,Rice,3520,4.0
+3207,2024-01-22,Customer_339,Electronics,Phone,1569,
+1206,2024-10-27,,Sports,Cricket Bat,₹666,3.0
+2028,2023-08-01,Customer_242,Toys,Action Figure,2586,2.0
+3325,30/03/2023,Customer_121,Sports,Tennis Racket,291,3.0
+2538,15/02/2023,Customer_9,Beauty,Perfume,3378,3.0
+2328,2023-10-21,Customer_342,Toys,Puzzle,"₹3,897",3.0
+2511,2023-07-20,Customer_11,Beauty,Shampoo,73,1.0
+2047,2023-04-06,Customer_277,Clothing,Cap,1371,3.0
+1694,2024-08-07,Customer_132,Groceries,Oil,624,3.0
+3336,2023-05-12,Customer_148,Sports,Tennis Racket,2096,
+2116,2023-11-03,Customer_290,Sports,Tennis Racket,"3,843",3.0
+2912,2023-05-05,Customer_341,Books,,"₹1,274",1.0
+2187,2024-03-10,Customer_370,Beauty,Shampoo,"1,042",2.0
+2370,"Jun 09, 2023",Customer_233,Furniture,Sofa,"₹1,136",1.0
+2174,2024-09-30,Customer_34,Books,Comic,"₹4,053",3.0
+2690,19/04/2023,Customer_395,Beauty,Perfume,3930,3.0
+2776,2023-05-09,Customer_253,Furniture,Bookshelf,"₹2,105",5.0
+2924,"Jul 13, 2024",Customer_391,Books,Textbook,"2,644",4.0
+2692,2024-02-14,Customer_231,Books,Textbook,766,
+1158,05/05/2024,Customer_330,Beauty,Face Cream,144,1.0
+2683,29/06/2024,Customer_237,Books,Comic,1804,4.0
+2453,,Customer_364,Sports,Yoga Mat,3240,
+2185,"May 25, 2023",Customer_99,Books,Novel,,1.0
+1306,2024-07-26,Customer_97,Electronics,Phone,"6,975",5.0
+1657,2024-02-27,Customer_333,Beauty,Perfume,"₹2,850",5.0
+2420,2024-04-17,Customer_10,Electronics,Headphones,145,5.0
+1400,2023-04-29,Customer_126,Groceries,Rice,909,1.0
+1799,2024-12-08,Customer_58,Books,Textbook,5030,
+3435,2024-03-15,Customer_128,Toys,RC Car,,3.0
+1619,"Dec 15, 2023",Customer_38,Furniture,Bed,3110,5.0
+2389,22/10/2024,Customer_180,Books,Novel,3460,4.0
+1509,2024-09-24,Customer_54,Clothing,Shoes,"₹7,460",5.0
+1080,28/04/2023,Customer_86,Beauty,Perfume,"6,315",5.0
+1737,05/04/2024,Customer_47,Clothing,T-shirt,"₹1,466",1.0
+2828,19/12/2024,Customer_117,Furniture,Bed,4467,3.0
+1275,"Oct 24, 2023",Customer_204,Clothing,T-shirt,"₹1,604",4.0
+2700,2023-03-13,Customer_126,Sports,Cricket Bat,"₹5,992",4.0
+1868,2024-10-10,Customer_190,Toys,Puzzle,5844,4.0
+1460,2024-11-15,Customer_386,Electronics,Laptop,195,1.0
+1887,"Apr 14, 2024",Customer_208,Furniture,Chair,"1,268",4.0
+1063,2024-12-14,Customer_213,Furniture,Bookshelf,2090,5.0
+1600,25/11/2024,Customer_309,Books,Comic,110,5.0
+2730,18/07/2023,Customer_327,Books,Textbook,1970,5.0
+1860,"Aug 14, 2024",Customer_81,Beauty,Sunscreen,1840,5.0
+1458,2023-07-09,Customer_329,Beauty,Lipstick,4065,5.0
+3351,"Aug 07, 2024",Customer_70,Beauty,Face Cream,1344,4.0
+2503,2024-01-02,,Groceries,Spices,5840,4.0
+2118,2023-07-30,Customer_247,Groceries,Oil,2367,3.0
+1871,2024-09-25,Customer_197,Electronics,Phone,2919,3.0
+1791,18/03/2024,Customer_145,Sports,Football,501,1.0
+2307,"Nov 07, 2023",Customer_363,Books,Biography,2750,5.0
+2684,2024-10-08,Customer_17,Beauty,Face Cream,900,5.0
+3402,2023-11-04,Customer_272,Beauty,Perfume,3081,3.0
+2372,"Jan 24, 2023",Customer_110,Toys,Board Game,453,1.0
+2915,22/10/2023,Customer_362,Books,Biography,1960,2.0
+1761,07/08/2024,Customer_193,Electronics,Headphones,"1,795",5.0
+1955,04/12/2024,Customer_331,Beauty,Perfume,1090,2.0
+2471,06/11/2023,Customer_46,Electronics,Smartwatch,2558,2.0
+1651,2023-12-22,Customer_328,Toys,RC Car,"3,270",5.0
+2986,2024-02-10,Customer_72,Clothing,Cap,2878,2.0
+3404,2023-09-17,Customer_219,Sports,Dumbbells,"4,960",4.0
+1380,2023-02-19,Customer_249,Clothing,Cap,4251,3.0
+1565,05/11/2023,Customer_55,Sports,Tennis Racket,4272,3.0
+2201,22/04/2023,Customer_158,Toys,RC Car,808,4.0
+3442,2023-08-27,Customer_366,Clothing,Jeans,964,4.0
+1957,2023-06-13,Customer_332,Toys,Board Game,₹433,1.0
+1742,25/08/2024,Customer_253,Electronics,Tablet,928,2.0
+2583,2024-09-11,Customer_313,Furniture,Bed,852,3.0
+1232,"Nov 04, 2023",Customer_282,Sports,Football,3070,5.0
+2937,2024-12-16,Customer_175,Beauty,Sunscreen,"₹3,490",5.0
+1383,10/02/2024,Customer_341,Furniture,Sofa,252,2.0
+3306,"Aug 29, 2023",Customer_47,Electronics,Smartwatch,1158,3.0
+1073,11/12/2023,,Beauty,Face Cream,816,1.0
+2095,2024-11-25,Customer_374,Groceries,Beverages,1236,3.0
+3383,18/01/2023,Customer_147,Clothing,Cap,1132,4.0
+2733,"Jun 12, 2024",Customer_313,Clothing,Jeans,1372,2.0
+1172,2024-09-02,,Sports,Yoga Mat,"₹3,546",3.0
+3073,"Apr 21, 2024",Customer_192,Furniture,Sofa,737,1.0
+1169,2023-07-04,Customer_337,Electronics,Tablet,237,3.0
+2518,2023-07-30,Customer_40,Furniture,Chair,3399,3.0
+3452,16/11/2023,Customer_260,Books,Textbook,4724,4.0
+2347,2023-06-18,Customer_161,Books,Cookbook,3196,4.0
+1273,20/10/2023,Customer_388,Books,Comic,2031,3.0
+2216,14/02/2024,Customer_120,Sports,Dumbbells,5060,5.0
+1421,2023-06-01,Customer_21,Beauty,Sunscreen,"1,382",2.0
+2119,2023-01-31,Customer_6,Electronics,Headphones,₹752,
+3110,08/03/2024,Customer_69,Sports,Dumbbells,4404,3.0
+1196,"Aug 20, 2023",Customer_393,Groceries,Spices,"1,652",4.0
+2067,2024-07-26,Customer_331,Beauty,Sunscreen,1338,1.0
+1057,2024-02-23,Customer_260,Furniture,Sofa,4155,3.0
+2128,10/11/2024,Customer_373,Books,Comic,983,1.0
+2881,18/03/2024,Customer_83,Toys,Action Figure,₹186,
+2958,11/10/2024,Customer_164,Clothing,Cap,"₹2,439",3.0
+1645,09/05/2023,Customer_86,Books,Cookbook,134,2.0
+2708,06/02/2023,Customer_291,Books,Textbook,"₹3,711",3.0
+1039,2023-09-29,Customer_276,Furniture,Chair,2112,2.0
+1307,01/05/2023,Customer_8,Sports,Yoga Mat,818,2.0
+1007,2024-11-08,Customer_99,Sports,Tennis Racket,113,1.0
+2105,17/09/2024,Customer_227,Clothing,T-shirt,₹637,1.0
+1783,09/11/2024,Customer_356,Sports,Tennis Racket,748,2.0
+1409,"Mar 12, 2023",Customer_265,Clothing,Jeans,841,1.0
+2609,2024-04-24,Customer_49,Books,Textbook,"₹1,299",1.0
+1782,2024-08-28,Customer_175,Toys,Lego Set,2882,2.0
+2191,2024-01-25,Customer_373,Clothing,Cap,1092,2.0
+1535,"May 18, 2023",Customer_235,Furniture,Bookshelf,"₹5,260",5.0
+1584,2024-05-14,Customer_184,Clothing,Shoes,468,1.0
+3009,2023-02-04,Customer_55,Sports,Tennis Racket,3960,4.0
+1643,2023-08-22,Customer_41,Toys,Lego Set,1446,2.0
+3158,2023-08-12,Customer_351,Electronics,Phone,"₹1,168",4.0
+3330,2024-12-13,Customer_316,Books,Cookbook,1345,5.0
+3346,2024-09-13,Customer_33,Clothing,Jeans,858,2.0
+2902,"Oct 14, 2023",,Clothing,Jacket,2142,2.0
+2352,,Customer_183,Beauty,Lipstick,2505,3.0
+2719,2023-09-11,Customer_229,Furniture,Chair,5450,5.0
+1814,"Sep 17, 2024",Customer_273,Electronics,,2712,3.0
+1317,2024-07-18,Customer_9,Books,Cookbook,"₹1,109",1.0
+3056,"Oct 13, 2023",Customer_151,Books,Comic,"1,824",2.0
+3445,2024-09-23,Customer_75,Beauty,Face Cream,825,3.0
+1517,2023-04-27,Customer_191,Beauty,Lipstick,1182,3.0
+3263,19/10/2023,Customer_71,Groceries,Beverages,275,5.0
+1662,30/09/2023,Customer_385,Sports,,₹268,2.0
+1534,2023-12-13,Customer_235,Toys,Puzzle,2974,2.0
+2738,09/08/2023,Customer_286,Toys,Action Figure,,5.0
+3064,"Mar 10, 2023",Customer_328,Groceries,Oil,₹530,5.0
+1272,"Oct 30, 2024",Customer_282,Clothing,T-shirt,1706,2.0
+1549,2023-03-18,Customer_230,Groceries,Spices,"2,836",2.0
+2478,"Sep 10, 2024",Customer_35,Groceries,Rice,333,1.0
+1965,12/01/2024,Customer_186,Beauty,Shampoo,"₹5,940",4.0
+3355,2023-06-08,Customer_167,Clothing,T-shirt,746,2.0
+3363,2023-04-26,Customer_240,Groceries,Beverages,5195,5.0
+3312,"Nov 10, 2024",Customer_27,Groceries,Spices,243,3.0
+1599,2024-06-28,Customer_315,Clothing,,₹495,5.0
+1895,10/03/2024,Customer_227,Books,Cookbook,1065,3.0
+3226,"Nov 19, 2023",Customer_270,Sports,,"₹3,666",3.0
+1571,"Aug 03, 2024",Customer_59,Beauty,Shampoo,2788,2.0
+1075,2024-04-17,Customer_330,Electronics,Phone,1188,
+1062,2023-01-26,Customer_116,Groceries,Spices,642,2.0
+2248,31/07/2023,Customer_21,Sports,Football,"₹2,394",2.0
+2561,"Jul 02, 2023",Customer_166,Toys,Action Figure,"₹2,688",4.0
+1103,2024-12-06,Customer_2,Furniture,Table,3768,4.0
+2260,2023-08-16,Customer_6,Groceries,Spices,₹792,1.0
+1810,2024-10-19,Customer_296,Clothing,Jeans,393,3.0
+1245,15/12/2023,,Books,Cookbook,1748,4.0
+2050,2023-11-02,,Furniture,Chair,₹939,1.0
+2761,2024-06-12,Customer_90,Furniture,Chair,6020,5.0
+2247,2023-07-04,Customer_93,Groceries,Rice,7215,5.0
+1108,18/03/2024,Customer_42,Books,Cookbook,505,5.0
+1106,2023-11-11,Customer_37,Beauty,Shampoo,359,1.0
+1674,2023-12-23,Customer_291,Books,Comic,2266,2.0
+1643,2023-08-22,Customer_41,Toys,Lego Set,1446,2.0
+3379,2023-02-07,Customer_102,Books,Comic,"2,290",5.0
+1666,2024-06-17,Customer_323,Sports,Cricket Bat,1145,1.0
+1510,27/09/2023,Customer_102,Furniture,Bookshelf,2145,5.0
+1132,19/09/2023,Customer_237,Clothing,Jeans,2883,3.0
+2641,2023-04-29,Customer_240,Beauty,Shampoo,252,3.0
+1445,06/12/2023,Customer_54,Groceries,Beverages,"1,232",4.0
+2194,"Oct 18, 2024",Customer_197,Toys,Action Figure,"₹2,600",
+2533,2023-01-10,Customer_237,Clothing,Shoes,920,1.0
+1867,2024-04-10,Customer_383,Books,Biography,₹345,5.0
+2366,2023-06-12,Customer_54,Electronics,Laptop,2367,3.0
+1288,2023-05-16,Customer_229,Furniture,Bed,948,1.0
+2061,"Nov 09, 2023",Customer_302,Clothing,Jeans,476,4.0
+1209,,,Toys,,"1,518",3.0
+1058,28/06/2023,Customer_216,Clothing,Jeans,5628,4.0
+2814,03/04/2023,,Groceries,Spices,1498,1.0
+1103,2024-12-06,Customer_2,Furniture,Table,3768,4.0
+2705,2023-12-14,Customer_188,Furniture,Table,"5,456",4.0
+2809,2024-08-03,Customer_343,Toys,Board Game,462,1.0
+3020,05/04/2024,Customer_344,Electronics,,2460,3.0
+2754,2024-03-13,Customer_5,Toys,Lego Set,1360,2.0
+3247,03/10/2024,Customer_293,Clothing,Shoes,1014,1.0
+1087,07/09/2023,Customer_45,Sports,Cricket Bat,2829,3.0
+3463,2023-01-30,Customer_99,Sports,Cricket Bat,"6,330",5.0
+3225,2023-09-02,,Sports,Football,616,1.0
+1772,15/11/2023,Customer_126,Beauty,,330,2.0
+2359,"Jul 14, 2024",Customer_8,Books,Novel,1306,2.0
+2977,"Aug 13, 2024",Customer_212,Toys,Board Game,94,2.0
+2540,2023-05-27,Customer_37,Sports,Dumbbells,2396,4.0
+1614,2024-12-16,Customer_307,Groceries,Rice,"5,380",5.0
+1709,2023-07-28,Customer_379,Sports,Cricket Bat,2265,5.0
+2110,2024-03-31,Customer_216,Beauty,Perfume,"₹5,164",4.0
+3407,2023-02-02,Customer_359,Groceries,Oil,232,4.0
+1786,11/08/2023,Customer_254,Toys,Action Figure,205,1.0
+1430,"Oct 07, 2024",Customer_330,Toys,Puzzle,2650,5.0
+1539,"Dec 17, 2024",Customer_71,Books,Comic,5012,4.0
+1676,"Jul 09, 2023",Customer_398,Books,Novel,3980,5.0
+2885,2024-04-19,Customer_100,Groceries,Beverages,3820,5.0
+3254,09/08/2024,Customer_388,Clothing,Shoes,7330,5.0
+3069,21/03/2024,Customer_102,Sports,Dumbbells,461,1.0
+1419,2024-04-22,Customer_55,Furniture,Table,"₹1,880",2.0
+2462,2024-03-16,Customer_251,Furniture,Chair,90,3.0
+2485,22/10/2024,Customer_298,Toys,Lego Set,267,
+1498,2024-09-21,Customer_391,Clothing,Shoes,285,1.0
+2598,2024-02-26,Customer_393,Groceries,Rice,2144,4.0
+2074,2024-02-04,,Clothing,T-shirt,₹630,1.0
+3364,2023-09-06,Customer_297,Sports,Cricket Bat,"₹5,410",5.0
+3453,,Customer_302,Sports,Yoga Mat,"₹1,986",3.0
+3410,2023-08-30,Customer_384,Electronics,Phone,3657,3.0
+1852,2024-04-09,Customer_129,Groceries,Snacks,3849,3.0
+2005,2024-05-16,Customer_189,Sports,Football,2145,5.0
+2964,2023-07-29,Customer_309,Electronics,Smartwatch,"₹4,250",5.0
+2599,"Feb 21, 2024",Customer_165,Clothing,T-shirt,6230,5.0
+1437,2023-02-08,Customer_159,Books,Biography,"2,048",2.0
+2317,01/07/2023,Customer_11,Clothing,Jacket,1059,3.0
+2280,25/03/2024,Customer_275,Toys,Puzzle,726,3.0
+2624,2024-10-02,Customer_23,Books,Cookbook,1743,3.0
+2481,2024-10-13,Customer_64,Books,Biography,"₹1,276",4.0
+2649,,Customer_385,Groceries,Beverages,572,2.0
+2004,"Nov 14, 2023",Customer_153,Clothing,T-shirt,3620,4.0
+2279,2024-04-26,Customer_80,Books,Novel,1449,3.0
+2033,"Oct 01, 2023",Customer_394,Sports,Yoga Mat,1160,1.0
+3249,03/04/2024,Customer_284,Groceries,Spices,1100,1.0
+3455,2023-04-27,Customer_356,Groceries,Snacks,₹739,1.0
+3420,12/06/2023,Customer_46,Clothing,T-shirt,528,4.0
+1305,2023-10-02,Customer_275,Sports,Football,250,2.0
+3224,16/09/2024,Customer_170,Clothing,Jacket,"₹1,946",2.0
+2875,2024-01-15,Customer_369,Electronics,Tablet,1356,2.0
+2099,"Aug 20, 2023",Customer_42,Groceries,Spices,355,5.0
+2442,21/02/2023,Customer_222,Books,Biography,,1.0
+2547,2024-12-10,Customer_234,Sports,Cricket Bat,768,3.0
+1336,2024-01-25,Customer_267,Groceries,Beverages,2846,2.0
+1996,"Aug 20, 2024",Customer_340,Beauty,Sunscreen,"₹2,270",5.0
+1570,2023-06-14,Customer_212,Sports,Cricket Bat,1555,5.0
+2615,,Customer_315,Groceries,Rice,₹626,2.0
+1089,2023-10-10,Customer_144,Beauty,Perfume,7280,5.0
+1875,"Jun 29, 2024",,Furniture,Bookshelf,7045,5.0
+3288,14/09/2023,Customer_232,Electronics,Laptop,2832,2.0
+2242,2023-03-26,Customer_6,Books,Textbook,258,1.0
+3234,18/10/2023,Customer_242,Toys,Action Figure,2240,4.0
+1713,2024-01-31,Customer_10,Sports,Football,4047,
+2069,23/12/2024,Customer_141,Clothing,T-shirt,1044,2.0
+2198,2024-11-28,Customer_134,Electronics,Laptop,"4,760",5.0
+3460,2024-03-21,Customer_380,Toys,Action Figure,6380,5.0
+3118,"Aug 25, 2023",Customer_238,Books,Cookbook,5955,5.0
+1222,2024-11-07,Customer_53,Beauty,Perfume,691,1.0
+1320,2024-02-20,Customer_204,Sports,Yoga Mat,784,1.0
+1520,2024-09-18,Customer_313,Books,Comic,3016,4.0
+1879,2024-10-22,,Clothing,Shoes,"3,716",4.0
+1630,2023-02-03,Customer_217,Electronics,Tablet,4508,4.0
+1826,08/08/2024,Customer_18,Beauty,Lipstick,164,1.0
+2199,"Dec 29, 2024",Customer_60,Clothing,T-shirt,1339,1.0
+2291,"Apr 04, 2023",Customer_10,Clothing,Shoes,2140,5.0
+2031,2024-05-30,Customer_347,Beauty,Perfume,₹754,2.0
+2810,12/04/2024,Customer_150,Sports,Football,312,4.0
+3188,2023-03-16,Customer_44,Toys,,₹906,2.0
+1139,2023-05-15,Customer_18,Beauty,Face Cream,3835,5.0
+1164,2024-03-18,Customer_47,Books,Novel,210,1.0
+2464,2023-07-21,Customer_366,Clothing,T-shirt,936,
+2619,12/12/2024,Customer_287,Clothing,Shoes,4092,4.0
+2679,29/02/2024,Customer_209,Beauty,Lipstick,116,2.0
+1002,2023-04-06,Customer_217,Furniture,Bed,81,1.0
+2580,25/09/2023,Customer_32,Groceries,Snacks,3405,5.0
+2046,2024-07-04,Customer_155,Toys,Puzzle,95,1.0
+1961,2023-09-15,Customer_341,Furniture,Bed,"₹5,475",5.0
+3171,2024-07-21,Customer_11,Electronics,Laptop,4296,3.0
+2751,15/07/2023,Customer_240,Furniture,Bed,6755,5.0
+2548,2024-06-01,Customer_41,Toys,Action Figure,3501,3.0
+2990,"Dec 11, 2024",Customer_116,Toys,Lego Set,"1,352",4.0
+2505,2023-04-24,Customer_30,Toys,RC Car,7240,5.0
+2603,03/10/2024,Customer_218,Furniture,Chair,1476,4.0
+2884,,Customer_167,Sports,Yoga Mat,"1,168",4.0
+3057,"Aug 26, 2023",Customer_86,Toys,Action Figure,780,5.0
+1963,2024-02-23,Customer_110,Furniture,Table,2760,3.0
+2060,2023-11-07,Customer_191,Clothing,T-shirt,"₹2,358",3.0
+1634,2024-02-15,Customer_359,Groceries,Snacks,"2,301",3.0
+2243,2024-05-06,Customer_301,Groceries,Rice,5960,5.0
+2643,"Jan 03, 2024",Customer_360,Electronics,Headphones,"₹1,309",1.0
+2951,"Feb 10, 2023",Customer_166,Electronics,Headphones,"₹5,920",5.0
+1656,08/03/2024,Customer_113,Toys,Board Game,546,3.0
+1017,,Customer_58,Beauty,,2730,3.0
+3308,07/03/2023,Customer_400,Beauty,Face Cream,1277,1.0
+2858,2023-07-31,Customer_38,Groceries,Spices,2068,2.0
+1138,"Apr 10, 2023",Customer_129,Groceries,Beverages,2612,2.0
+2963,2024-02-07,Customer_101,Beauty,Perfume,1659,3.0
+2582,"Aug 09, 2024",Customer_230,Electronics,Headphones,1892,4.0
+1698,2023-02-12,Customer_28,Electronics,Smartwatch,3279,3.0
+2098,2024-06-29,Customer_25,Electronics,Laptop,"₹2,640",3.0
+2822,2023-08-10,Customer_116,Groceries,Oil,5384,4.0
+3298,"Apr 03, 2024",Customer_398,Sports,Football,3372,3.0
+1449,14/04/2023,Customer_180,Books,Cookbook,3940,5.0
+2393,2024-10-13,Customer_296,Toys,Lego Set,1132,4.0
+1036,2024-08-31,Customer_292,Toys,Lego Set,"₹2,410",2.0
+2267,21/02/2024,Customer_326,Groceries,Spices,645,1.0
+1328,2023-03-19,Customer_51,Sports,Football,1980,4.0
+1318,15/12/2024,Customer_147,Beauty,,1048,1.0
+1136,,Customer_338,Beauty,Lipstick,2328,4.0
+2170,09/04/2023,Customer_99,Electronics,Headphones,471,1.0
+2553,25/01/2023,Customer_65,Books,Novel,903,1.0
+1527,2024-05-25,Customer_294,Books,Cookbook,₹800,4.0
+1088,2023-07-06,Customer_15,Toys,Action Figure,2740,4.0
+2504,"Jun 14, 2024",Customer_274,Beauty,Lipstick,,5.0
+2363,"Feb 23, 2024",Customer_187,Books,Novel,2523,3.0
+3039,2023-01-11,Customer_339,Groceries,Rice,710,5.0
+2872,2023-03-07,Customer_79,Toys,Board Game,3165,3.0
+2682,2023-01-13,Customer_200,Sports,Tennis Racket,4648,4.0
+1149,2024-12-03,Customer_121,Books,Cookbook,669,3.0
+1304,05/12/2023,Customer_125,Clothing,Shoes,1308,3.0
+3314,"Dec 17, 2023",Customer_144,Furniture,Table,1900,5.0
+2931,2023-04-19,Customer_341,Clothing,Shoes,743,1.0
+2053,17/07/2023,Customer_168,Groceries,Rice,6060,5.0
+3333,2024-06-02,Customer_30,Toys,Board Game,3645,3.0
+1366,01/02/2023,Customer_86,Books,Cookbook,"1,177",1.0
+1590,2023-06-03,Customer_264,Groceries,Rice,1359,3.0
+2947,2023-10-08,Customer_228,Clothing,Cap,720,3.0
+1163,2023-09-19,Customer_219,Furniture,Sofa,"4,146",3.0
+1199,23/11/2024,Customer_23,Clothing,Shoes,3064,4.0
+2795,2024-08-28,Customer_82,Groceries,Snacks,3280,4.0
+2968,2023-12-02,Customer_256,Sports,Cricket Bat,5976,4.0
+2769,,Customer_89,Clothing,Shoes,2164,2.0
+3493,2024-05-07,Customer_32,Clothing,Cap,"₹1,992",3.0
+1193,,Customer_42,Clothing,,6895,5.0
+1405,21/11/2024,Customer_131,Sports,Cricket Bat,"1,195",1.0
+3268,"Dec 11, 2023",Customer_271,Clothing,Jeans,3570,3.0
+1251,2024-07-03,Customer_306,Beauty,Face Cream,"₹2,420",4.0
+1484,"Nov 09, 2024",Customer_53,Toys,RC Car,1067,1.0
+2183,12/09/2023,Customer_277,Groceries,Oil,1381,1.0
+2340,2023-09-08,Customer_188,Electronics,Laptop,362,2.0
+2281,"Jan 03, 2024",Customer_383,Clothing,Jacket,124,4.0
+2032,,Customer_317,Toys,Lego Set,534,
+2633,2023-04-03,Customer_238,Furniture,Bed,₹258,1.0
+1792,2024-07-12,Customer_208,Sports,Dumbbells,"3,644",4.0
+1800,2024-09-16,Customer_265,Beauty,Face Cream,1091,1.0
+1385,2024-03-31,Customer_116,Clothing,Cap,7060,5.0
+1751,2024-06-22,Customer_312,Beauty,Face Cream,1653,3.0
+2202,2024-12-16,,Sports,Cricket Bat,1670,2.0
+1423,2023-09-13,Customer_232,Electronics,Smartwatch,"₹5,730",5.0
+1315,19/02/2023,Customer_18,Electronics,Tablet,1388,1.0
+2022,"Jul 21, 2024",Customer_378,Toys,Board Game,"₹6,200",5.0
+2382,2023-01-17,Customer_8,Groceries,Beverages,2295,3.0
+2323,2023-04-16,Customer_64,Beauty,Sunscreen,₹111,1.0
+2480,29/08/2023,Customer_208,Furniture,Sofa,1584,4.0
+1544,2024-11-30,Customer_137,Electronics,Laptop,1212,2.0
+1914,2023-02-13,Customer_10,Furniture,Chair,"₹3,612",4.0
+1663,2023-01-13,Customer_99,Books,Comic,2403,3.0
+3144,"Nov 22, 2023",Customer_49,Sports,Football,"2,109",3.0
+2981,18/01/2024,Customer_242,Sports,Dumbbells,1775,5.0
+1903,18/01/2023,Customer_192,Books,Novel,"5,990",5.0
+3133,"Dec 15, 2023",Customer_388,Groceries,Snacks,243,3.0
+1686,2024-11-21,Customer_393,Toys,Lego Set,3765,5.0
+2552,2023-06-20,Customer_93,Books,Comic,204,4.0
+1434,30/06/2024,Customer_337,Furniture,Table,1130,2.0
+1160,2024-12-30,Customer_320,Clothing,Jacket,5715,5.0
+2000,"Nov 29, 2023",Customer_23,Electronics,Headphones,4735,5.0
+2824,2024-10-04,Customer_266,Toys,Puzzle,4190,5.0
+3083,2023-08-04,Customer_281,Clothing,Shoes,"₹2,710",5.0
+2385,06/11/2024,Customer_224,Clothing,Cap,2412,4.0
+3406,2023-06-02,Customer_224,Books,Textbook,3656,4.0
+1203,2023-10-19,Customer_53,Sports,Tennis Racket,"1,375",5.0
+2024,2024-08-13,Customer_271,Groceries,Rice,₹884,1.0
+1843,2023-06-18,Customer_357,Toys,Puzzle,3459,3.0
+3055,2023-09-14,Customer_357,Furniture,Bed,610,5.0
+2897,2024-01-24,Customer_70,Furniture,Chair,3952,
+1113,2023-11-28,Customer_46,Electronics,Smartwatch,1608,3.0
+3428,2024-08-27,Customer_262,Furniture,Table,"5,604",4.0
+3278,"Apr 30, 2024",Customer_48,Electronics,Tablet,5200,4.0
+2332,2024-10-13,Customer_247,Books,Cookbook,5008,4.0
+2980,2023-02-18,Customer_360,Toys,RC Car,"₹1,976",4.0
+2447,2023-07-11,Customer_162,Groceries,Oil,361,1.0
+1981,2023-05-14,Customer_383,Beauty,Perfume,"3,208",
+1923,2023-12-02,Customer_370,Beauty,Sunscreen,188,1.0
+2625,2023-06-27,Customer_312,Electronics,Smartwatch,4096,4.0
+3202,2024-01-16,Customer_225,Books,Novel,6730,5.0
+3294,2024-10-13,Customer_253,Books,Novel,5675,5.0
+1866,06/05/2024,Customer_332,Beauty,Shampoo,52,1.0
+2991,15/03/2023,Customer_56,Electronics,Tablet,1260,4.0
+2320,12/09/2023,Customer_7,Electronics,Phone,,1.0
+2484,2023-01-29,,Furniture,Bookshelf,,4.0
+3092,2024-03-18,Customer_30,Furniture,Sofa,3404,4.0
+2664,2024-03-11,Customer_395,Toys,Board Game,640,1.0
+3270,2023-06-18,Customer_140,Beauty,Sunscreen,80,1.0
+1816,12/12/2023,Customer_395,Groceries,Beverages,2168,2.0
+1353,2023-03-10,Customer_370,Furniture,Bookshelf,2692,4.0
+3058,2023-06-21,Customer_281,Clothing,Jacket,3544,4.0
+2474,2024-08-31,Customer_333,Electronics,Headphones,702,1.0
+2774,2024-03-26,Customer_238,Furniture,Bookshelf,4476,4.0
+1680,2023-07-16,Customer_104,Clothing,T-shirt,1014,1.0
+3237,2023-08-25,Customer_277,Beauty,Lipstick,1446,3.0
+2094,2023-05-11,Customer_302,Clothing,T-shirt,306,2.0
+1081,12/08/2024,Customer_297,Beauty,Lipstick,658,1.0
+1613,"Nov 03, 2024",Customer_225,Clothing,Shoes,433,1.0
+2837,2023-12-06,Customer_16,Clothing,Jeans,1056,4.0
+1302,2024-01-21,Customer_210,Sports,Dumbbells,,2.0
+1837,2023-05-25,Customer_120,Clothing,Cap,₹95,1.0
+1753,2023-01-25,Customer_100,Groceries,Spices,262,
+2240,2023-09-04,Customer_126,Clothing,Shoes,263,1.0
+1330,2024-01-25,Customer_96,Toys,,6865,5.0
+2055,14/01/2024,Customer_110,Clothing,Shoes,716,4.0
+1243,2024-10-04,Customer_328,Toys,RC Car,1039,1.0
+3301,2024-07-08,Customer_221,Beauty,Shampoo,6335,5.0
+3344,"Jun 21, 2023",Customer_188,Electronics,Laptop,7305,5.0
+1642,17/10/2024,Customer_324,Beauty,Face Cream,726,2.0
+1697,21/08/2023,Customer_223,Sports,Yoga Mat,1064,4.0
+1210,2024-07-02,Customer_57,Books,Novel,4968,4.0
+1503,2024-05-16,Customer_352,Sports,Dumbbells,"1,442",2.0
+1771,2023-11-23,Customer_278,Furniture,Table,3435,3.0
+2777,2024-02-18,Customer_338,Clothing,Jeans,214,1.0
+1754,2023-12-08,Customer_213,Groceries,Beverages,452,4.0
+1436,2024-07-31,Customer_15,Sports,Tennis Racket,3546,3.0
+2564,2024-11-13,Customer_386,Beauty,Sunscreen,₹494,1.0
+2064,2024-11-14,Customer_259,Clothing,Jeans,3764,4.0
+3359,2023-08-13,Customer_251,Toys,Lego Set,4116,4.0
+2446,18/12/2024,Customer_49,Beauty,,2100,2.0
+1975,27/06/2023,Customer_377,Books,Cookbook,1106,2.0
+2713,2024-10-21,Customer_317,Toys,Board Game,1448,2.0
+1552,2024-08-09,Customer_339,Electronics,Tablet,"₹3,072",3.0
+2569,2023-10-10,Customer_81,Furniture,Sofa,3530,5.0
+1601,"Aug 23, 2023",Customer_358,Sports,Football,4490,5.0
+3222,26/02/2024,Customer_241,Electronics,Phone,2600,4.0
+1602,2024-03-11,Customer_302,Toys,Action Figure,1100,5.0
+2516,2024-03-25,,Groceries,Rice,₹279,1.0
+2014,2024-09-10,Customer_109,Sports,Cricket Bat,360,2.0
+2008,2023-10-25,Customer_270,Clothing,Shoes,₹955,5.0
+3096,2024-07-07,Customer_378,Furniture,Chair,327,1.0
+2428,"Aug 21, 2024",Customer_65,Books,Novel,969,3.0
+2275,"Aug 11, 2023",Customer_2,Beauty,Shampoo,4130,5.0
+2387,13/04/2023,Customer_255,Toys,Lego Set,5675,5.0
+2296,,Customer_172,Books,Textbook,744,3.0
+1467,19/06/2024,Customer_359,Books,Novel,"₹6,115",5.0
+2500,"Jul 26, 2024",Customer_181,Books,Biography,3858,3.0
+3388,2024-03-08,Customer_73,Clothing,T-shirt,520,4.0
+3010,2024-11-11,Customer_34,Toys,Lego Set,558,1.0
+1278,04/08/2024,Customer_8,Beauty,Shampoo,"1,872",3.0
+2070,2024-08-26,Customer_311,Furniture,Bed,2526,3.0
+2549,2023-08-24,Customer_118,Books,Biography,3508,4.0
+2018,2024-10-26,Customer_14,Electronics,Laptop,"2,010",2.0
+2025,2024-10-23,Customer_60,Toys,Board Game,5180,4.0
+2466,2024-09-03,Customer_51,Toys,Board Game,1914,3.0
+1723,"Nov 23, 2023",Customer_163,Furniture,Table,160,2.0
+1941,2024-11-08,Customer_211,Sports,Yoga Mat,405,3.0
+1787,2024-06-28,Customer_339,Electronics,Laptop,1894,2.0
+1660,2023-08-27,Customer_65,Beauty,Perfume,₹144,4.0
+2467,2023-05-19,Customer_72,Sports,Tennis Racket,"1,064",2.0
+2324,2023-08-21,Customer_1,Toys,Puzzle,₹138,2.0
+3071,22/04/2024,Customer_130,Groceries,Snacks,3348,4.0
+2400,2023-04-20,Customer_236,Furniture,Chair,1355,5.0
+3111,2023-04-06,Customer_85,Clothing,T-shirt,2613,3.0
+2450,"Nov 27, 2024",Customer_24,Books,Novel,1181,1.0
+2041,2023-03-28,Customer_368,Clothing,T-shirt,810,5.0
+1907,2024-07-01,Customer_139,Sports,Yoga Mat,648,
+2847,"Sep 19, 2024",Customer_99,Furniture,Bookshelf,1685,5.0
+3285,2024-04-03,Customer_63,Sports,Dumbbells,932,2.0
+2497,2024-08-19,Customer_271,Clothing,Shoes,392,2.0
+3025,26/08/2024,Customer_250,Books,Biography,5716,4.0
+1564,2024-08-22,,Furniture,Bed,745,5.0
+2896,"Nov 10, 2024",Customer_354,Books,Textbook,504,
+2250,"Jun 15, 2024",Customer_128,Toys,Lego Set,342,3.0
+2775,2023-05-12,Customer_244,Electronics,Headphones,2184,4.0
+1389,22/09/2024,Customer_322,Sports,Cricket Bat,1726,2.0
+1023,2024-06-13,Customer_205,Groceries,Spices,"2,751",3.0
+2923,02/01/2024,Customer_135,Furniture,Bed,2829,3.0
+2959,2023-03-11,Customer_13,Beauty,Face Cream,4584,4.0
+2877,2024-07-12,Customer_391,Furniture,Table,1174,1.0
+1125,2023-05-28,Customer_270,Books,Novel,204,4.0
+2448,"Jul 01, 2023",Customer_220,Electronics,Smartwatch,186,3.0
+3291,2024-08-09,Customer_266,Groceries,Spices,1484,4.0
+1774,"Sep 02, 2024",Customer_201,Furniture,Bookshelf,2926,2.0
+1881,2024-03-31,Customer_304,Sports,Dumbbells,5715,5.0
+3335,"Mar 08, 2024",Customer_324,Beauty,Sunscreen,3672,3.0
+3341,2023-04-13,Customer_378,Toys,RC Car,2832,2.0
+2746,2023-12-08,Customer_117,Sports,Dumbbells,3044,4.0
+2145,,Customer_352,Toys,Board Game,5736,4.0
+2527,2024-09-28,Customer_111,Beauty,Sunscreen,,1.0
+2167,19/06/2024,Customer_357,Groceries,Snacks,1320,1.0
+1051,25/01/2023,Customer_157,Books,Textbook,952,2.0
+2888,2024-03-29,Customer_265,Clothing,Shoes,"1,556",4.0
+2703,14/02/2024,Customer_204,Electronics,Headphones,764,1.0
+3131,"Jul 12, 2024",Customer_91,Furniture,Sofa,1628,4.0
+2648,"Jun 20, 2023",Customer_15,Toys,RC Car,2136,2.0
+1134,2023-11-06,Customer_354,Beauty,Face Cream,,3.0
+2106,2024-02-16,Customer_27,Electronics,Tablet,2403,3.0
+1704,28/11/2023,Customer_37,Groceries,Oil,2700,3.0
+1483,2023-08-12,Customer_179,Toys,Board Game,2144,4.0
+2346,11/09/2024,Customer_201,Electronics,Laptop,2330,2.0
+2146,06/10/2024,Customer_79,Electronics,Laptop,3549,3.0
+2530,2023-10-08,Customer_8,Groceries,Oil,"4,251",3.0
+1204,16/08/2023,Customer_76,Books,,828,4.0
+2550,21/08/2024,Customer_126,Clothing,Cap,5600,4.0
+1067,11/10/2023,Customer_133,Books,Cookbook,2650,2.0
+1847,04/07/2023,Customer_355,Clothing,Cap,1241,1.0
+1734,2024-04-07,Customer_73,Electronics,Tablet,5372,4.0
+3413,"Jun 25, 2024",Customer_255,Beauty,Sunscreen,5044,4.0
+1802,10/08/2024,Customer_233,Electronics,Smartwatch,4900,5.0
+3248,25/10/2023,Customer_108,Clothing,Cap,"₹2,800",5.0
+3189,"Jul 22, 2024",Customer_137,Groceries,Oil,7405,5.0
+1908,2024-05-11,Customer_266,Electronics,Laptop,2349,3.0
+1032,2024-04-10,Customer_2,Clothing,Shoes,2252,4.0
+2820,"Nov 28, 2023",Customer_315,Furniture,Sofa,940,5.0
+1418,2023-08-28,Customer_163,Toys,Action Figure,"2,304",4.0
+1882,"Jan 16, 2024",Customer_134,Beauty,Shampoo,2022,2.0
+1633,2023-12-18,Customer_138,Beauty,Shampoo,5100,4.0
+3418,29/12/2024,Customer_229,Furniture,Bed,157,1.0
+1011,02/02/2023,,Groceries,Spices,489,1.0
+1065,2024-04-12,Customer_286,Books,Novel,536,2.0
+2164,2023-06-15,Customer_72,Groceries,Snacks,"₹2,364",4.0
+2430,2023-04-05,Customer_165,Books,Textbook,1928,4.0
+1777,2024-09-23,Customer_119,Books,Cookbook,628,2.0
+1078,2023-09-11,Customer_400,Groceries,Rice,₹83,1.0
+1492,,Customer_115,Groceries,Spices,2643,3.0
+1687,2024-05-31,Customer_93,Furniture,Table,"4,210",5.0
+1259,"Apr 23, 2023",Customer_189,Books,Novel,4197,3.0
+1533,18/09/2023,Customer_72,Clothing,Shoes,956,4.0
+1066,2024-07-15,Customer_314,Sports,Dumbbells,"4,465",5.0
+3357,"Aug 31, 2023",Customer_284,Beauty,Shampoo,1570,5.0
+2436,2024-12-03,,Groceries,Rice,1424,4.0
+2285,2023-05-10,Customer_57,Toys,Puzzle,63,1.0
+1297,2023-02-15,Customer_307,Electronics,Smartwatch,521,1.0
+1592,2023-09-07,Customer_83,Groceries,Beverages,260,4.0
+2444,2024-02-07,Customer_318,Beauty,Shampoo,3288,4.0
+1768,14/08/2024,Customer_267,Electronics,Phone,198,3.0
+2917,07/05/2023,Customer_295,Clothing,Cap,"₹2,906",2.0
+3454,04/12/2024,Customer_348,Clothing,Cap,278,2.0
+2286,03/09/2024,Customer_348,Groceries,Rice,2697,3.0
+3142,2024-02-21,Customer_256,Sports,Football,1902,3.0
+1656,08/03/2024,Customer_113,Toys,Board Game,546,3.0
+1725,2024-09-02,Customer_291,Beauty,Sunscreen,2460,5.0
+2194,"Oct 18, 2024",Customer_197,Toys,Action Figure,"₹2,600",
+2306,2024-08-08,Customer_95,Beauty,Shampoo,347,1.0
+1627,2023-04-20,Customer_317,Groceries,Oil,"₹1,017",3.0
+2377,21/03/2023,Customer_288,Toys,Lego Set,2130,5.0
+1292,,Customer_196,Toys,Action Figure,3172,4.0
+1746,07/11/2024,Customer_345,Clothing,Jeans,3813,3.0
+2213,"Oct 14, 2023",Customer_309,Clothing,T-shirt,1106,1.0
+3295,2024-05-23,,Furniture,Bookshelf,844,1.0
+1252,2024-01-10,Customer_373,Clothing,Jacket,"₹2,535",3.0
+3197,24/05/2023,Customer_219,Clothing,T-shirt,"1,760",4.0
+2638,08/10/2024,Customer_396,Sports,Yoga Mat,"4,700",5.0
+1477,2024-06-01,Customer_141,Sports,Cricket Bat,2910,3.0
+3434,2024-10-17,Customer_310,Beauty,Lipstick,5828,
+2539,2023-03-21,Customer_228,Furniture,Bed,1066,1.0
+2817,2024-07-27,Customer_359,Beauty,Sunscreen,3130,5.0
+3076,2023-03-03,Customer_382,Furniture,Table,"2,860",5.0
+1298,28/08/2023,Customer_72,Groceries,Rice,3060,5.0
+1983,2023-09-12,Customer_121,Beauty,Perfume,4715,5.0
+1980,2023-07-28,Customer_61,Books,Cookbook,2962,2.0
+1707,2023-03-29,Customer_351,Groceries,Oil,"₹1,017",3.0
+1488,2023-02-06,Customer_215,Beauty,Perfume,3260,4.0
+2688,2024-02-10,Customer_311,Clothing,Shoes,218,
+2832,2024-09-04,Customer_130,Beauty,Sunscreen,1481,1.0
+3343,27/10/2023,Customer_230,Groceries,Snacks,"₹5,972",4.0
+1274,"Feb 08, 2023",Customer_119,Furniture,Bed,"7,500",5.0
+2710,2024-12-31,Customer_325,Clothing,Cap,2979,3.0
+3305,2024-07-12,Customer_178,Furniture,Sofa,5208,4.0
+3338,2024-10-16,Customer_80,Electronics,Phone,2346,3.0
+1964,2024-07-12,Customer_192,Books,Biography,668,1.0
+3181,2023-04-13,Customer_111,Electronics,Smartwatch,2788,4.0
+3288,14/09/2023,Customer_232,Electronics,Laptop,2832,2.0
+3267,11/04/2023,Customer_288,Groceries,Rice,3568,4.0
+3177,2023-05-19,Customer_349,Furniture,Chair,"4,615",5.0
+2453,,Customer_364,Sports,Yoga Mat,3240,
+1150,"May 06, 2023",Customer_204,Sports,Football,1224,3.0
+2758,2023-10-05,Customer_156,Groceries,Oil,1776,2.0
+1219,"Mar 23, 2024",Customer_140,Electronics,Headphones,773,1.0
+1240,2024-06-30,Customer_321,Beauty,Shampoo,3834,3.0
+2132,2024-07-17,Customer_81,Toys,RC Car,1623,3.0
+3307,2023-07-11,Customer_101,Toys,Board Game,6820,5.0
+2254,2024-09-29,Customer_184,Groceries,Beverages,,3.0
+2054,2023-03-25,Customer_365,Furniture,Table,3452,4.0
+2669,2023-10-01,Customer_393,Sports,Yoga Mat,1131,1.0
+3166,2024-05-06,Customer_200,Beauty,Face Cream,1044,3.0
+2822,2023-08-10,Customer_116,Groceries,Oil,5384,4.0
+2358,2024-09-13,Customer_123,Electronics,Smartwatch,"2,540",2.0
+1776,,Customer_291,Furniture,Bookshelf,420,2.0
+3235,12/01/2024,Customer_318,Toys,Lego Set,1644,2.0
+1840,2023-07-27,Customer_316,Books,Biography,298,2.0
+1628,2024-05-08,Customer_4,Books,Biography,530,5.0
+1324,,Customer_355,Groceries,Oil,"₹4,965",5.0
+3411,2023-01-04,Customer_388,Furniture,Bed,3585,3.0
+2868,,Customer_56,Books,Cookbook,488,1.0
+2161,2023-08-01,Customer_231,Sports,Dumbbells,1074,2.0
+2077,2024-10-10,Customer_248,Toys,Lego Set,854,1.0
+1438,"Dec 06, 2023",Customer_270,Groceries,Rice,84,4.0
+1120,2024-06-03,Customer_142,Clothing,T-shirt,"₹2,864",4.0
+3255,23/11/2024,Customer_283,Toys,Action Figure,6245,5.0
+3104,2023-12-01,Customer_121,Toys,Board Game,4152,3.0
+2815,"Sep 29, 2023",Customer_388,Books,Comic,1736,4.0
+2840,2024-06-20,Customer_174,Sports,Football,848,4.0
+2027,28/10/2023,Customer_367,Sports,Tennis Racket,1152,4.0
+1077,2024-07-06,Customer_42,Toys,Action Figure,236,4.0
+1901,03/05/2023,Customer_353,Clothing,Shoes,156,2.0
+1372,31/07/2023,,Toys,Puzzle,886,2.0
+2205,2023-07-25,Customer_291,Furniture,Bookshelf,800,2.0
+3172,2024-03-11,Customer_96,Books,Comic,647,1.0
+1942,2023-04-28,Customer_44,Beauty,Sunscreen,₹644,1.0
+1553,11/03/2023,Customer_113,Sports,Tennis Racket,"2,172",2.0
+1407,2023-11-26,Customer_284,Clothing,T-shirt,1916,4.0
+2614,2023-06-22,Customer_343,Beauty,Sunscreen,"1,792",4.0
+1969,"Oct 08, 2023",Customer_393,Books,Textbook,356,4.0
+2747,,,Beauty,Perfume,307,1.0
+1690,01/01/2023,Customer_232,Beauty,Perfume,3332,4.0
+2739,30/11/2023,Customer_39,Beauty,Lipstick,696,2.0
+1237,2024-08-24,Customer_400,Sports,Cricket Bat,6650,5.0
+3447,2024-06-12,Customer_387,Furniture,Bookshelf,612,4.0
+2987,2023-04-17,Customer_279,Furniture,,1084,
+2984,03/01/2024,Customer_130,Furniture,Bed,1402,2.0
+1500,19/01/2023,Customer_388,Electronics,Headphones,2050,5.0
+1823,"Sep 22, 2023",Customer_199,Electronics,Smartwatch,429,3.0
+1795,"Mar 01, 2024",,Toys,Puzzle,2670,2.0
+1991,2023-11-17,Customer_314,Beauty,Perfume,,3.0
+1568,2023-05-07,Customer_284,Sports,Football,1545,5.0
+1391,20/07/2024,Customer_142,Clothing,Jeans,528,1.0
+1744,2024-10-30,Customer_95,Groceries,Rice,₹264,2.0
+2218,"Nov 20, 2024",Customer_255,Electronics,Laptop,637,1.0
+1236,21/11/2023,Customer_295,Toys,Board Game,,1.0
+3365,2024-07-15,Customer_187,Furniture,Table,₹524,4.0
+1481,16/05/2023,Customer_11,Toys,RC Car,990,1.0
+3043,2024-02-21,Customer_64,Beauty,Face Cream,524,1.0
+2678,"Feb 13, 2024",Customer_257,Clothing,Jacket,1258,1.0
+3348,28/07/2023,Customer_135,Groceries,Snacks,1388,4.0
+3221,"Jul 16, 2023",Customer_279,Sports,Yoga Mat,1242,2.0
+1121,,Customer_297,Beauty,Sunscreen,1296,4.0
+2273,2024-03-08,Customer_264,Sports,Cricket Bat,372,3.0
+1927,2023-06-22,Customer_356,Toys,Board Game,1140,5.0
+2595,2023-08-26,Customer_296,Books,Comic,833,1.0
+1224,2023-02-28,Customer_223,Sports,Tennis Racket,3987,3.0
+1767,"Aug 31, 2024",Customer_160,Furniture,Chair,1427,1.0
+1614,2024-12-16,Customer_307,Groceries,Rice,"5,380",5.0
+2246,31/12/2024,Customer_266,Books,Novel,5615,5.0
+2541,29/10/2023,Customer_209,Sports,Yoga Mat,"2,949",3.0
+1053,"Aug 17, 2024",Customer_60,Sports,Football,1155,3.0
+1530,2023-12-06,Customer_28,Sports,Yoga Mat,1900,2.0
+2900,2023-11-25,Customer_57,Toys,Puzzle,2636,
+1469,2023-09-28,Customer_275,Furniture,Sofa,2583,3.0
+1819,2024-10-15,Customer_337,Electronics,Tablet,2494,2.0
+1156,04/04/2024,Customer_59,Toys,RC Car,995,1.0
+3461,2023-11-15,Customer_135,Sports,Dumbbells,98,2.0
+1249,"May 25, 2024",Customer_256,Groceries,Oil,4880,5.0
+1762,2023-02-02,Customer_362,Furniture,Sofa,"₹4,419",3.0
+2895,"Jun 29, 2024",Customer_84,Clothing,Jeans,1048,4.0
+3030,2024-07-09,Customer_98,Clothing,Jacket,"4,437",3.0
+2131,2023-08-29,Customer_113,Electronics,Laptop,1890,2.0
+1543,2023-01-26,Customer_7,Beauty,Face Cream,"₹1,190",5.0
+1794,2023-01-17,Customer_6,Clothing,Jeans,1347,1.0
+2726,2023-10-05,Customer_129,Books,Novel,"5,004",4.0
+1629,2024-02-12,Customer_94,Beauty,Face Cream,2965,5.0
+3316,17/05/2023,Customer_327,Beauty,Shampoo,2636,2.0
+3439,2023-09-22,Customer_22,Groceries,Beverages,"1,204",4.0
+2368,11/02/2024,Customer_44,Books,Novel,482,2.0
+2621,2024-01-27,Customer_316,Toys,Puzzle,2055,5.0
+3390,2023-01-23,Customer_221,Books,Novel,"₹4,916",4.0
+2072,2023-06-22,Customer_59,Beauty,Lipstick,"1,129",1.0
+1555,2024-10-26,Customer_272,Groceries,Beverages,4676,4.0
+2829,16/04/2024,Customer_138,Groceries,Snacks,640,5.0
+1827,,Customer_77,Electronics,Smartwatch,97,1.0
+1465,2023-09-22,Customer_322,Toys,Puzzle,2476,2.0
+2985,2023-05-29,Customer_176,Clothing,T-shirt,6500,5.0
+2838,2023-12-18,Customer_196,Toys,Board Game,1212,4.0
+1536,04/06/2024,Customer_222,Electronics,Tablet,5045,5.0
+3290,,Customer_328,Electronics,Laptop,"1,026",
+1155,2023-06-28,Customer_302,Sports,Cricket Bat,₹156,3.0
+3210,19/07/2024,Customer_296,Beauty,Shampoo,420,4.0
+3409,2024-11-13,Customer_229,Furniture,Chair,5070,5.0
+1323,"Apr 08, 2023",Customer_331,Books,Cookbook,3534,3.0
+2711,21/09/2023,Customer_312,Clothing,Jeans,"₹2,418",3.0
+1015,2024-03-08,Customer_79,Electronics,Phone,2826,2.0
+2799,2024-04-10,Customer_64,Books,Textbook,6345,5.0
+3412,17/09/2024,Customer_89,Furniture,Sofa,₹543,1.0
+1083,2023-12-22,Customer_62,Beauty,Sunscreen,520,
+2944,20/06/2024,Customer_376,Furniture,Sofa,419,1.0
+2989,2024-02-07,Customer_203,Sports,Tennis Racket,6825,5.0
+2384,2023-06-30,Customer_392,Toys,RC Car,756,3.0
+2575,"Jul 04, 2023",Customer_248,Groceries,Spices,6825,5.0
+3059,2023-04-14,Customer_365,Groceries,Beverages,157,1.0
+3464,2024-10-10,Customer_208,Sports,Yoga Mat,1148,4.0
+2495,"May 17, 2023",Customer_358,Sports,Football,3172,4.0
+1832,2024-11-07,Customer_284,Groceries,Oil,806,1.0
+3081,2024-02-08,,Groceries,Rice,"₹2,336",4.0
+2175,15/04/2023,Customer_155,Groceries,Snacks,5215,5.0
+1414,"May 18, 2024",Customer_272,Furniture,Table,1758,2.0
+2818,"Sep 04, 2024",Customer_48,Furniture,Table,1477,1.0
+1166,2024-09-06,Customer_370,Sports,Dumbbells,₹609,1.0
+3209,2023-11-26,Customer_138,Toys,Puzzle,"₹2,430",5.0
+3369,"Aug 30, 2023",Customer_9,Electronics,Laptop,1914,3.0
+1615,"Mar 30, 2023",Customer_123,Electronics,Headphones,342,1.0
+2015,2023-04-30,Customer_10,Toys,RC Car,828,1.0
+3138,"Jul 20, 2024",Customer_70,Furniture,Bed,4128,
+3356,01/12/2023,Customer_88,Groceries,Snacks,894,1.0
+2238,"Jun 22, 2023",Customer_193,Furniture,Table,"₹5,644",4.0
+3182,2024-04-08,Customer_219,Beauty,Lipstick,"2,250",
+1556,"Sep 07, 2023",Customer_329,Books,Comic,6460,5.0
+2212,2024-12-16,Customer_52,Sports,Yoga Mat,955,1.0
+3389,2023-03-03,Customer_286,Books,,2356,4.0
+1635,04/10/2023,Customer_352,Clothing,Cap,448,2.0
+2056,"Mar 09, 2024",Customer_300,Toys,Action Figure,5292,4.0
+2709,07/01/2024,Customer_114,Beauty,Lipstick,3522,3.0
+1797,2023-01-08,Customer_96,Sports,Cricket Bat,5032,4.0
+3368,2024-10-14,Customer_183,Sports,Tennis Racket,1008,2.0
+1175,2023-08-14,Customer_342,Books,Biography,339,3.0
+1246,2024-06-11,Customer_205,Sports,Yoga Mat,1556,2.0
+2081,2023-10-07,Customer_1,Beauty,Shampoo,1007,1.0
+2655,"Dec 01, 2023",Customer_163,Toys,Puzzle,1676,2.0
+3473,31/05/2023,Customer_327,Beauty,Shampoo,700,4.0
+1145,2024-02-23,Customer_359,Furniture,Bookshelf,"₹4,047",3.0
+1146,"Aug 29, 2023",Customer_253,Electronics,Headphones,₹219,1.0
+1091,2023-08-15,Customer_9,Books,Cookbook,622,1.0
+1683,2023-09-30,Customer_363,Toys,Action Figure,1283,1.0
+1311,2024-08-21,Customer_9,Groceries,Oil,3459,3.0
+1094,10/08/2023,Customer_391,Furniture,Bed,824,2.0
+3265,2024-11-23,Customer_303,Clothing,Shoes,3405,3.0
+2957,"Aug 27, 2023",Customer_22,Groceries,Snacks,468,1.0
+1925,2024-01-12,Customer_36,Toys,Puzzle,5640,4.0
+2910,,Customer_192,Furniture,Table,335,1.0
+2036,28/03/2024,Customer_373,Sports,Cricket Bat,4410,3.0
+2401,2023-08-01,Customer_40,Clothing,T-shirt,3040,4.0
+2501,2024-08-05,Customer_321,Books,Cookbook,660,4.0
+2469,2024-12-11,Customer_71,Toys,Lego Set,4625,5.0
+1999,"Oct 05, 2024",Customer_363,Furniture,Bookshelf,3796,4.0
+1854,23/07/2023,Customer_297,Books,Biography,2634,3.0
+3205,2023-06-04,Customer_252,Books,Textbook,880,5.0
+2143,2023-01-31,Customer_225,Toys,Puzzle,4652,4.0
+2144,05/11/2024,Customer_378,Clothing,Jacket,1043,1.0
+3049,2023-11-18,Customer_207,Toys,Puzzle,932,2.0
+1402,2024-01-16,Customer_265,Sports,Tennis Racket,1083,3.0
+2104,"Nov 17, 2023",Customer_32,Furniture,Chair,792,1.0
+1085,30/06/2023,Customer_363,Sports,Dumbbells,1822,2.0
+3211,"Sep 08, 2024",Customer_107,Electronics,Smartwatch,1720,2.0
+3467,2024-11-03,Customer_220,Clothing,Shoes,5764,4.0
+1115,2023-10-01,Customer_390,Books,Cookbook,436,1.0
+3236,"May 07, 2023",Customer_160,Electronics,Phone,825,5.0
+2586,2023-08-09,Customer_192,Beauty,Shampoo,"2,598",3.0
+2568,22/03/2023,Customer_375,Clothing,Jacket,744,1.0
+2502,22/02/2023,Customer_61,Beauty,Lipstick,1968,4.0
+2661,13/06/2024,Customer_84,Toys,Puzzle,5668,4.0
+2557,18/05/2023,Customer_388,Toys,Action Figure,5812,4.0
+3008,2024-03-16,Customer_255,Electronics,,,3.0
+1626,"Sep 05, 2023",Customer_378,Groceries,Snacks,"1,000",
+2886,2024-02-07,Customer_330,Toys,Action Figure,"₹1,371",3.0
+2867,2023-07-25,Customer_45,Toys,Puzzle,5195,5.0
+1953,2023-07-25,Customer_373,Toys,RC Car,"₹1,089",1.0
+1625,2023-10-03,Customer_182,Books,Textbook,2388,2.0
+1235,"Feb 12, 2024",Customer_45,Clothing,Cap,653,1.0
+3184,2023-05-16,Customer_101,Electronics,Laptop,₹848,2.0
+3035,2024-06-07,Customer_282,Books,Cookbook,"2,935",5.0
+2827,03/06/2024,Customer_297,Groceries,,434,2.0
+3431,2024-03-13,Customer_217,Furniture,Bed,746,1.0
+2315,2024-01-13,Customer_229,Toys,Puzzle,1816,2.0
+2526,15/09/2024,Customer_278,Beauty,Lipstick,219,3.0
+2563,2024-03-25,Customer_148,Clothing,T-shirt,"3,048",3.0
+2753,2024-02-16,,Sports,Dumbbells,₹252,4.0
+2606,2024-09-11,Customer_366,Groceries,Beverages,3249,3.0
+1344,12/03/2023,Customer_225,Books,Comic,4314,3.0
+3227,2024-12-29,Customer_53,Groceries,Oil,213,1.0
+1997,2024-11-24,Customer_40,Clothing,Shoes,2080,2.0
+3063,2024-04-10,Customer_143,Sports,Tennis Racket,"₹2,092",4.0
+2111,2024-03-22,Customer_66,Electronics,Phone,3651,3.0
+3214,2023-07-01,Customer_321,Electronics,Headphones,4014,3.0
+2360,"Jun 23, 2023",Customer_49,Furniture,Bookshelf,"2,648",4.0
+3108,2023-06-10,Customer_243,Beauty,Shampoo,765,1.0
+1710,16/12/2024,Customer_374,Books,Biography,2886,2.0
+2879,2024-10-13,Customer_314,Groceries,Snacks,2178,3.0
+2379,17/06/2024,Customer_59,Books,Textbook,2232,4.0
+1425,"Jan 23, 2023",Customer_301,Furniture,Bed,519,3.0
+1293,2024-02-07,Customer_61,Clothing,Jacket,2240,2.0
+2066,"Apr 01, 2023",Customer_377,Electronics,Smartwatch,4026,3.0
+2639,2024-12-20,Customer_276,Toys,Puzzle,2255,5.0
+2013,2024-11-17,Customer_161,Toys,Action Figure,4755,5.0
+3128,2023-09-03,Customer_80,Furniture,Chair,26,1.0
+2718,01/07/2024,Customer_35,Sports,Tennis Racket,3459,3.0
+1938,2023-02-27,Customer_288,Books,Cookbook,2114,
+1835,2023-02-07,Customer_274,Beauty,Face Cream,212,4.0
+1255,2024-09-08,Customer_188,Sports,Tennis Racket,854,2.0
+2483,2023-10-09,Customer_253,Furniture,Bed,4161,3.0
+2324,2023-08-21,Customer_1,Toys,Puzzle,₹138,2.0
+2408,"Jun 08, 2024",Customer_382,Beauty,Face Cream,3652,4.0
+3487,2023-10-21,Customer_226,Furniture,Bookshelf,"₹4,216",4.0
+3185,01/05/2023,Customer_317,Books,Comic,168,2.0
+1724,2023-07-12,Customer_227,Toys,,993,3.0
+1970,"Mar 08, 2024",Customer_378,Books,Cookbook,2804,
+1497,03/08/2023,Customer_3,Sports,Football,"2,320",4.0
+1951,2024-07-14,Customer_264,Beauty,Sunscreen,"₹5,580",4.0
+1806,"Oct 09, 2023",Customer_68,Beauty,Perfume,"₹2,975",5.0
+2830,2024-04-04,Customer_88,Toys,Lego Set,"₹1,166",1.0
+3178,2024-08-24,Customer_19,Sports,Football,129,3.0
+2740,2024-12-24,Customer_400,Books,Novel,5712,4.0
+1338,2024-10-02,Customer_129,Furniture,Sofa,2992,2.0
+1731,"Feb 13, 2023",Customer_56,Electronics,Tablet,"3,820",4.0
+1609,13/12/2023,Customer_110,Clothing,T-shirt,4200,5.0
+2149,2023-07-23,Customer_251,Electronics,Tablet,402,1.0
+3244,"Feb 12, 2024",Customer_105,Electronics,Tablet,"₹2,457",3.0
+2714,2024-10-25,Customer_192,Sports,Tennis Racket,4052,4.0
+1694,2024-08-07,Customer_132,Groceries,Oil,624,3.0
+1910,"May 15, 2023",Customer_236,Furniture,Bookshelf,258,1.0
+3152,13/08/2024,Customer_3,Groceries,Snacks,2895,5.0
+3011,2023-03-30,Customer_62,Groceries,Oil,351,1.0
+2811,2023-02-18,Customer_128,Sports,Yoga Mat,2799,3.0
+2995,2023-11-08,Customer_199,Beauty,Perfume,1338,3.0
+1720,2024-04-04,Customer_160,Clothing,Shoes,"3,470",5.0
+2570,23/12/2024,Customer_20,Furniture,Sofa,900,4.0
+3276,2024-03-29,Customer_9,Beauty,Perfume,3688,4.0
+1435,2023-06-27,Customer_295,Electronics,Laptop,2984,4.0
+2300,30/06/2024,Customer_372,Sports,Yoga Mat,"₹1,732",4.0
+3175,17/01/2023,Customer_117,Sports,Dumbbells,"₹4,684",4.0
+1406,2024-04-28,Customer_7,Electronics,Phone,228,2.0
+1822,15/06/2023,,Beauty,Face Cream,1641,3.0
+2790,19/06/2023,Customer_82,Clothing,Jacket,1413,1.0
+2859,"Jan 05, 2023",Customer_106,Electronics,Smartwatch,614,1.0
+2558,14/01/2024,Customer_4,Furniture,Table,6170,5.0
+1546,2024-12-13,Customer_200,Groceries,Beverages,2132,2.0
+1213,"Feb 01, 2024",Customer_241,Electronics,Smartwatch,1321,1.0
+1897,2023-10-07,Customer_4,Toys,Lego Set,5312,4.0
+2942,2024-07-29,Customer_183,Electronics,Headphones,5040,5.0
+2892,"Dec 06, 2023",Customer_11,Furniture,Chair,128,1.0
+1917,2023-12-23,Customer_383,Furniture,Table,3621,3.0
+2290,2023-02-09,Customer_62,Clothing,Jeans,"1,682",2.0
+1815,2024-11-01,Customer_137,Sports,Yoga Mat,542,1.0
+2266,2024-05-29,Customer_225,Books,Comic,2937,3.0
+1343,04/07/2023,Customer_103,Furniture,Bed,5685,5.0
+2411,2024-03-15,Customer_56,Sports,Tennis Racket,4020,5.0
+2215,2024-10-10,Customer_327,Groceries,Rice,₹162,3.0
+1967,2024-02-02,Customer_274,Sports,Football,1852,2.0
+2231,2024-01-21,Customer_254,Books,Comic,4386,3.0
+1696,2024-08-13,Customer_329,Furniture,Bed,288,3.0
+3122,"May 28, 2024",Customer_280,Beauty,Sunscreen,212,4.0
+1606,2024-11-27,Customer_188,Toys,RC Car,"2,920",5.0
+1105,2023-04-28,Customer_339,Beauty,,1780,2.0
+1646,2023-04-08,Customer_86,Furniture,Table,920,
+2405,2024-07-02,Customer_99,Beauty,Lipstick,400,5.0
+1495,"Aug 06, 2024",Customer_103,Clothing,Jeans,2574,3.0
+2020,2024-04-05,Customer_249,Clothing,Shoes,240,4.0
+1092,"Mar 11, 2024",Customer_284,Sports,Dumbbells,3620,5.0
+2113,04/11/2024,Customer_5,Beauty,Perfume,"₹6,105",5.0
+1909,15/08/2023,Customer_112,Clothing,T-shirt,2100,2.0
+2475,2024-11-21,Customer_32,Books,Textbook,1217,1.0
+2742,"Nov 29, 2023",Customer_242,Beauty,Lipstick,342,2.0
+3151,2023-05-10,Customer_241,Furniture,Chair,2940,2.0
+1239,2023-09-14,Customer_266,Groceries,Spices,543,3.0
+1943,"Jun 11, 2024",Customer_236,Sports,Football,,4.0
+2271,"Sep 08, 2023",Customer_360,Electronics,Smartwatch,3630,5.0
+1939,,Customer_347,Toys,RC Car,1806,3.0
+2425,2023-06-24,Customer_353,Furniture,Sofa,1932,4.0
+2863,2024-09-06,Customer_98,Toys,Action Figure,2156,4.0
+2670,,Customer_167,Electronics,Smartwatch,3966,3.0
+1006,2023-03-22,Customer_275,Electronics,Smartwatch,795,1.0
+1248,"Dec 02, 2023",Customer_215,Toys,RC Car,694,2.0
+1019,"Jun 27, 2024",Customer_192,Groceries,Oil,2248,2.0
+3170,07/07/2023,Customer_315,Groceries,Beverages,5525,5.0
+2971,"Aug 04, 2024",,Beauty,Lipstick,"₹3,204",4.0
+3233,"Jun 20, 2024",Customer_282,Toys,Lego Set,"2,486",2.0
+3323,10/11/2023,Customer_115,Beauty,Perfume,₹417,1.0
+1812,2023-09-26,Customer_350,Groceries,Snacks,3964,4.0
+2301,"Dec 22, 2023",Customer_282,Groceries,Snacks,3501,3.0
+2336,05/01/2024,Customer_57,Books,Comic,735,1.0
+3477,2023-10-02,Customer_167,Groceries,Beverages,2283,3.0
+1261,01/06/2023,Customer_269,Books,Comic,"3,990",5.0
+2805,13/09/2024,Customer_54,Toys,Action Figure,4672,4.0
+2571,"Jan 21, 2024",Customer_126,Electronics,Phone,"2,440",2.0
+3230,18/09/2024,Customer_371,Toys,Lego Set,191,1.0
+1185,2024-04-25,Customer_78,Sports,Yoga Mat,636,4.0
+2744,27/06/2024,,Sports,Tennis Racket,3480,3.0
+2631,27/06/2023,Customer_102,Beauty,Sunscreen,4290,5.0
+2717,2024-11-11,Customer_117,Electronics,Tablet,1528,2.0
+1521,2024-03-27,Customer_250,Clothing,Shoes,862,1.0
+3017,"May 29, 2023",Customer_342,Furniture,Table,"₹2,128",2.0
+2659,2023-12-14,Customer_155,Electronics,Laptop,840,4.0
+2613,2024-01-28,Customer_268,Furniture,Table,6700,5.0
+3127,"Nov 13, 2023",Customer_186,Groceries,Oil,611,1.0
+2165,2024-02-05,Customer_151,Furniture,Table,1114,1.0
+1608,02/05/2023,Customer_377,Sports,,2740,2.0
+1231,"Nov 29, 2024",Customer_89,Furniture,Bookshelf,796,4.0
+1332,"Jan 06, 2023",Customer_185,Toys,Action Figure,207,1.0
+2441,2023-06-30,Customer_151,Toys,Puzzle,1688,2.0
+2928,,Customer_304,Clothing,Jeans,928,2.0
+2092,21/12/2024,Customer_19,Books,Textbook,"3,087",
+2102,25/02/2023,Customer_243,Groceries,Rice,1434,2.0
+2130,15/02/2024,Customer_243,Books,Cookbook,3630,3.0
+1462,2023-03-22,Customer_121,Books,Biography,2528,4.0
+1959,"Feb 21, 2024",Customer_309,Furniture,Sofa,450,3.0
+2663,2024-12-03,Customer_295,Sports,Cricket Bat,4030,5.0
+1560,2023-07-30,Customer_351,Groceries,Oil,928,4.0
+3401,"Mar 23, 2023",Customer_237,Groceries,,1400,
+2520,2023-04-17,Customer_358,Beauty,Perfume,5255,5.0
+3141,"Feb 26, 2024",Customer_79,Beauty,Face Cream,2148,3.0
+3476,2023-05-11,Customer_264,Sports,Yoga Mat,1308,2.0
+3033,2024-09-12,Customer_175,Books,Biography,"₹1,082",2.0
+2038,2023-10-21,Customer_126,Toys,Lego Set,"₹2,876",4.0
+3098,2023-02-11,Customer_342,Sports,Yoga Mat,995,5.0
+3426,2024-03-04,Customer_133,Electronics,Phone,575,5.0
+1070,2024-03-01,Customer_170,Toys,Board Game,,5.0
+2573,2024-03-20,Customer_265,Groceries,Rice,52,2.0
+1809,2024-01-28,Customer_79,Clothing,Cap,3460,4.0
+1012,2024-11-02,Customer_291,Furniture,Table,1365,3.0
+3026,"May 16, 2024",Customer_173,Clothing,Shoes,1436,1.0
+3193,"Jun 30, 2024",Customer_28,Furniture,Table,"₹2,908",2.0
+1918,15/08/2024,Customer_292,Groceries,Beverages,222,1.0
+2452,2024-05-13,Customer_280,Books,Textbook,4134,3.0
+1177,29/06/2024,Customer_90,Books,Cookbook,1596,2.0
+1995,2023-10-18,Customer_179,Clothing,T-shirt,437,1.0
+2256,06/10/2024,Customer_275,Toys,Puzzle,328,2.0
+2665,10/12/2023,Customer_191,Books,Biography,5912,4.0
+3192,2024-07-02,Customer_208,Electronics,Laptop,"₹2,367",3.0
+1786,11/08/2023,Customer_254,Toys,Action Figure,205,1.0
+2791,2023-07-27,Customer_277,Groceries,Oil,4440,5.0
+1157,14/02/2023,Customer_258,Furniture,Bookshelf,2558,2.0
+2461,2023-01-16,Customer_148,Beauty,Face Cream,623,1.0
+3047,2023-01-22,Customer_269,Books,,2037,3.0
+2851,2023-11-25,Customer_330,Toys,RC Car,1196,2.0
+3304,2024-06-08,Customer_311,Clothing,Jacket,"₹3,804",3.0
+3006,2023-08-17,Customer_23,Clothing,Shoes,1182,3.0
+2186,2024-06-03,Customer_282,Clothing,Cap,1006,2.0
+2007,"Dec 16, 2023",Customer_48,Toys,Board Game,1071,
+1561,15/04/2024,Customer_383,Toys,Lego Set,₹136,2.0
+3257,2023-10-29,Customer_170,Groceries,,1150,5.0
+1911,,Customer_72,Beauty,Perfume,4972,4.0
+2312,13/08/2023,Customer_321,Sports,Football,748,1.0
+3050,25/01/2023,Customer_195,Beauty,Shampoo,4905,5.0
+1270,2023-09-06,Customer_316,Clothing,T-shirt,2550,5.0
+2994,02/01/2024,Customer_232,Furniture,Sofa,₹884,1.0
+1266,2024-12-22,Customer_361,Beauty,Perfume,2866,2.0
+1915,2023-03-09,Customer_61,Electronics,Smartwatch,₹324,3.0
+3279,2023-09-27,Customer_359,Clothing,Cap,780,5.0
+3232,2023-01-31,Customer_95,Electronics,Phone,148,2.0
+2129,2024-04-20,Customer_192,Toys,RC Car,4328,4.0
+1874,2023-12-20,Customer_28,Toys,Action Figure,783,1.0
+3094,2023-08-29,Customer_110,Toys,RC Car,3600,4.0
+1476,2023-09-13,Customer_99,Electronics,,₹276,2.0
+2653,2024-04-27,Customer_82,Electronics,Smartwatch,672,3.0
+2961,2023-06-05,Customer_85,Sports,Tennis Racket,1820,4.0
+1046,2023-05-11,Customer_283,Sports,Tennis Racket,1800,2.0
+1162,14/12/2023,Customer_232,Groceries,Snacks,1734,2.0
+1289,2024-02-10,Customer_237,Electronics,Tablet,₹192,
+2949,19/11/2023,Customer_245,Sports,Tennis Racket,930,3.0
+1576,26/11/2024,Customer_142,Groceries,Snacks,885,3.0
+1851,2023-02-14,Customer_91,Books,Cookbook,2784,2.0
+1912,"May 12, 2023",Customer_382,Beauty,Lipstick,₹475,1.0
+2255,2024-04-12,Customer_333,Beauty,Face Cream,1678,2.0
+2834,"Jul 06, 2024",Customer_261,Groceries,Beverages,1260,4.0
+2723,2024-05-04,Customer_325,Electronics,Headphones,₹422,1.0
+3134,2023-06-21,Customer_263,Toys,Lego Set,1816,4.0
+2736,"May 24, 2023",Customer_210,Toys,Lego Set,4026,3.0
+1933,2024-04-22,Customer_339,Furniture,Chair,5140,5.0
+2101,"Oct 03, 2024",Customer_222,Electronics,Smartwatch,1233,1.0
+2208,2023-03-04,Customer_249,Groceries,Snacks,39,1.0
+3296,2024-07-07,,Clothing,T-shirt,790,1.0
+2844,2024-01-19,Customer_350,Sports,Football,2496,2.0
+2849,"Mar 02, 2023",Customer_207,Books,Comic,753,1.0
+2695,29/11/2023,Customer_293,Furniture,Bed,264,4.0
+1086,22/03/2024,Customer_276,Beauty,Sunscreen,3888,4.0
+1470,28/05/2023,Customer_89,Books,Novel,2535,3.0
+3274,2024-04-09,Customer_38,Beauty,Sunscreen,,3.0
+3380,2024-11-07,Customer_107,Toys,Action Figure,235,5.0
+1234,2024-01-13,Customer_185,Books,Novel,5960,5.0
+1680,2023-07-16,Customer_104,Clothing,T-shirt,1014,1.0
+2712,2023-01-13,Customer_156,Groceries,Beverages,2432,2.0
+1183,2023-04-16,Customer_180,Groceries,,"1,006",2.0
+1989,2024-12-28,Customer_68,Sports,Dumbbells,₹669,1.0
+2001,26/02/2023,Customer_25,Clothing,Jeans,2043,3.0
+2642,2024-01-17,Customer_240,Books,Comic,3405,5.0
+2357,04/01/2024,Customer_68,Sports,Dumbbells,1845,3.0
+2463,29/05/2024,Customer_71,Electronics,,1800,3.0
+1050,"Feb 09, 2023",Customer_360,Beauty,Shampoo,803,1.0
+2259,08/12/2023,Customer_169,Toys,Lego Set,₹763,1.0
+1487,,Customer_207,Electronics,Tablet,4242,3.0
+1822,15/06/2023,,Beauty,Face Cream,1641,3.0
+2909,12/05/2023,Customer_261,Furniture,Sofa,₹67,1.0
+1107,08/11/2023,Customer_64,Beauty,Face Cream,5720,4.0
+1444,"Nov 22, 2023",Customer_17,Toys,RC Car,2506,2.0
+2955,2023-06-12,Customer_46,Clothing,Cap,1876,2.0
+1647,2023-03-27,Customer_395,Electronics,Phone,,4.0
+2763,2024-06-04,Customer_185,Furniture,Bed,2168,4.0
+1727,2023-05-21,Customer_199,Sports,Cricket Bat,"3,960",4.0
+3239,2023-03-17,Customer_309,Groceries,Beverages,1610,5.0
+2857,2023-04-12,Customer_190,Clothing,Cap,459,1.0
+3331,2023-01-07,Customer_376,Electronics,Tablet,"₹1,996",2.0
+1030,07/07/2024,Customer_51,Books,Biography,1355,1.0
+1170,02/08/2024,Customer_4,Sports,Yoga Mat,₹626,2.0
+2002,"Sep 03, 2023",Customer_205,Toys,Lego Set,1152,3.0
+3149,2023-06-12,Customer_278,Sports,Dumbbells,561,1.0
+1198,05/07/2023,Customer_193,Clothing,Cap,704,2.0
+1496,2024-05-14,Customer_367,Clothing,Jacket,370,2.0
+3027,2023-10-23,Customer_323,Furniture,Sofa,"1,725",3.0
+1648,2023-10-18,Customer_159,Furniture,Bookshelf,"₹1,052",2.0
+1045,"Dec 08, 2024",Customer_5,Toys,RC Car,174,1.0
+1374,"Oct 11, 2023",Customer_385,Furniture,Table,₹564,4.0
+1679,2023-03-10,Customer_50,Sports,Football,6845,5.0
+1567,"Nov 24, 2024",Customer_152,Toys,,1260,2.0
+1461,"Mar 04, 2024",Customer_32,Groceries,Beverages,4360,4.0
+2933,2023-06-12,Customer_7,Toys,Board Game,3939,3.0
+2156,18/12/2024,Customer_331,Furniture,Sofa,2920,4.0
+1040,24/03/2024,Customer_190,Furniture,Table,1029,3.0
+3483,2024-07-09,Customer_182,Furniture,Bookshelf,1361,1.0
+1974,2024-12-03,Customer_265,Clothing,Jeans,2472,2.0
+2787,2024-05-31,Customer_224,Beauty,Face Cream,945,5.0
+2499,14/07/2023,Customer_95,Furniture,Sofa,5180,5.0
+2836,"Sep 12, 2023",Customer_212,Furniture,Bed,836,2.0
+3309,2024-01-29,Customer_313,Books,Cookbook,5140,5.0
+2841,,Customer_31,Electronics,Tablet,645,3.0
+3084,2023-08-13,Customer_373,Electronics,Headphones,620,4.0
+1828,"Dec 25, 2024",Customer_295,Sports,Dumbbells,1075,1.0
+2936,"Oct 11, 2024",Customer_353,Groceries,Spices,1320,2.0
+3045,2023-03-25,Customer_110,Toys,Board Game,450,2.0
+1310,2023-07-28,Customer_370,Books,Novel,2700,
+1277,2023-04-26,Customer_240,Clothing,Cap,1242,3.0
+1637,2024-08-04,Customer_154,Sports,Dumbbells,"₹3,513",3.0
+1655,2024-02-09,Customer_211,Sports,Cricket Bat,4575,5.0
+1623,2024-07-02,Customer_212,Groceries,Spices,3231,3.0
+2860,2024-02-16,Customer_200,Sports,Cricket Bat,"₹1,562",2.0
+1845,2024-10-29,Customer_92,Electronics,Phone,1467,1.0
+1394,2023-05-16,Customer_7,Furniture,Bed,2004,3.0
+3156,15/07/2023,Customer_59,Books,Novel,4916,4.0
+1350,2024-11-26,Customer_192,Groceries,Snacks,3872,
+1785,22/04/2023,Customer_208,Clothing,Jacket,,1.0
+1048,,Customer_384,Toys,RC Car,1008,2.0
+2979,2024-10-27,Customer_354,Groceries,Oil,92,4.0
+3252,2024-08-01,Customer_25,Electronics,Tablet,"₹3,870",5.0
+2656,2023-12-22,Customer_202,Toys,,830,5.0
+3070,2023-11-06,Customer_389,Books,Biography,"₹2,698",2.0
+1403,2024-03-15,Customer_395,Beauty,,₹706,1.0
+2108,2024-06-13,Customer_334,Furniture,Sofa,949,1.0
+2155,2024-04-16,Customer_169,Groceries,Beverages,"₹5,125",5.0
+2440,20/02/2023,Customer_140,Electronics,Smartwatch,660,3.0
+3006,2023-08-17,Customer_23,Clothing,Shoes,1182,3.0
+3002,2023-07-05,Customer_228,Electronics,Tablet,1048,1.0
+1990,15/10/2023,Customer_23,Furniture,Sofa,2084,2.0
+2866,2024-08-06,Customer_275,Toys,Action Figure,1809,3.0
+2311,2023-05-17,Customer_362,Sports,Football,2800,5.0
+1034,"May 29, 2024",Customer_26,Sports,,4980,5.0
+1788,,Customer_106,Books,Comic,1899,
+2044,"Sep 17, 2024",Customer_5,Sports,Yoga Mat,3300,3.0
+1482,"Dec 30, 2024",Customer_130,Electronics,Laptop,3225,5.0
+2244,2024-08-08,Customer_248,Clothing,Shoes,2524,4.0
+1932,2024-11-26,Customer_92,Books,Novel,5032,4.0
+3405,2024-02-17,Customer_102,Electronics,Headphones,2526,2.0
+2686,20/06/2023,Customer_80,Books,Novel,,5.0
+2249,2023-11-02,Customer_44,Beauty,Lipstick,1056,1.0
+1760,"Mar 09, 2023",Customer_296,Electronics,Laptop,2232,3.0
+1093,2023-08-25,Customer_139,Sports,Dumbbells,"1,602",3.0
+2176,08/10/2024,Customer_49,Clothing,Jacket,3420,5.0
+2416,2024-09-08,Customer_34,Groceries,Beverages,"2,400",4.0
+2342,22/10/2024,Customer_211,Beauty,Face Cream,2787,3.0
+2473,2024-06-14,Customer_344,Clothing,Shoes,₹967,1.0
+3328,"Apr 03, 2024",,Books,Biography,"₹1,784",2.0
+2608,2024-12-19,Customer_35,Clothing,Shoes,658,1.0
+1765,14/11/2023,Customer_175,Clothing,Jeans,"₹4,368",4.0
+2374,"Nov 16, 2024",Customer_215,Beauty,Face Cream,"2,290",
+2952,2023-06-05,Customer_33,Clothing,Shoes,306,1.0
+3449,13/06/2024,Customer_227,Beauty,Lipstick,"₹2,601",3.0
+2729,18/03/2024,Customer_84,Books,Cookbook,₹308,2.0
+1258,2024-06-29,Customer_173,Beauty,Sunscreen,5315,5.0
+1945,2024-05-23,Customer_354,Books,Novel,1416,2.0
+2220,2023-01-30,Customer_55,Clothing,T-shirt,5940,4.0
+2162,2023-07-19,Customer_196,Furniture,Bookshelf,"₹2,511",3.0
+1528,2023-02-06,Customer_53,Books,Novel,"₹3,456",4.0
+1773,2024-11-22,Customer_67,Books,Novel,984,1.0
+2487,2024-12-24,Customer_258,Sports,Tennis Racket,1468,2.0
+3250,2023-05-20,Customer_342,Groceries,Snacks,"5,510",5.0
+1313,2024-05-17,,Sports,Yoga Mat,5336,4.0
+1291,2024-02-23,Customer_242,Electronics,Phone,₹607,1.0
+1764,26/01/2023,Customer_48,Electronics,,4224,
+1184,31/07/2024,Customer_91,Clothing,T-shirt,3880,4.0
+2177,2024-05-08,Customer_90,Clothing,Jacket,"₹4,152",3.0
+2350,"Oct 15, 2024",Customer_97,Electronics,Headphones,"2,165",5.0
+3299,28/10/2024,Customer_77,Toys,RC Car,"1,090",1.0
+2100,2023-11-15,Customer_101,Furniture,Table,1388,2.0
+1392,14/06/2024,Customer_338,Beauty,Lipstick,"1,320",3.0
+2920,2023-06-15,Customer_4,Groceries,Beverages,"₹1,788",3.0
+2457,"Dec 24, 2023",Customer_90,Books,Biography,4230,3.0
+2093,2024-05-27,Customer_57,Groceries,Snacks,3555,3.0
+3023,2023-02-10,Customer_44,Furniture,Bed,2666,2.0
+1905,2023-10-24,Customer_326,Sports,Dumbbells,357,3.0
+1367,22/06/2023,Customer_116,Electronics,Headphones,3055,5.0
+1346,2024-08-19,Customer_230,Toys,Lego Set,5005,5.0
+2373,2023-05-26,Customer_326,Beauty,Perfume,382,2.0
+2640,2023-10-03,Customer_176,Beauty,Shampoo,5745,5.0
+1920,26/03/2024,Customer_358,Books,,"₹1,995",5.0
+1212,2024-06-22,Customer_269,Clothing,T-shirt,474,3.0
+2604,"Mar 21, 2024",Customer_5,Toys,Board Game,780,3.0
+3021,"Oct 23, 2024",Customer_315,Clothing,Shoes,4260,5.0
+1538,"Feb 12, 2024",Customer_312,Toys,Board Game,1160,2.0
+2221,"May 02, 2024",Customer_113,Toys,Action Figure,4149,3.0
+1176,2023-09-19,Customer_155,Electronics,Laptop,₹602,2.0

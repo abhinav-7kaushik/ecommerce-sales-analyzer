@@ -1,9 +1,0 @@
-OrderID,Date,Customer,Category,Product,Sales,Quantity
-1001,2023-01-05,Alice,Electronics,Phone,500,1
-1002,2023-01-07,Bob,Furniture,Chair,150,2
-1003,2023-02-10,Alice,Electronics,Laptop,1200,1
-1004,2023-02-15,Charlie,Clothing,T-shirt,25,3
-1005,2023-03-01,Bob,Electronics,Headphones,100,2
-1006,2023-03-12,Alice,Furniture,Table,300,1
-1007,2023-04-05,David,Clothing,Jeans,60,2
-1008,2023-04-18,Charlie,Electronics,Phone,500,1

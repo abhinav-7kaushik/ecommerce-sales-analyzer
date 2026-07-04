@@ -5,10 +5,24 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Ecommerce Sales Analyzer", page_icon="🛒", layout="wide")
 
-st.title("🛒 Ecommerce Sales Analyzer")
+st.title("Ecommerce Sales Analyzer")
 st.markdown("---")
 
-df = load_data("data/sales_data.csv")
+raw_df = load_raw_data("data/sales_data_raw.csv")
+df, report = clean_data(raw_df)
+
+with st.expander("🧹 Data Cleaning Report", expanded=False):
+    r1, r2, r3, r4 = st.columns(4)
+    r1.metric("Raw Records", f"{report['raw_rows']:,}")
+    r2.metric("Duplicates Removed", f"{report['raw_duplicate_rows']:,}")
+    r3.metric("Type Mismatches Fixed", f"{report['type_mismatches_fixed']:,}")
+    r4.metric("Records w/ Quality Issues", f"{report['pct_records_with_issues']}%")
+    st.caption(
+        f"Cleaned {report['raw_rows']:,} raw records down to {report['clean_rows']:,} "
+        f"analysis-ready rows: removed exact duplicates, standardized inconsistent date "
+        f"formats, converted currency-formatted Sales values to numeric, and imputed "
+        f"missing categorical fields."
+    )
 
 col1, col2, col3 = st.columns(3)
 with col1:
@@ -48,12 +62,12 @@ col6, col7 = st.columns(2)
 
 with col6:
     st.subheader("Top 5 Products")
-    st.dataframe(top_products(df).reset_index(), use_container_width=True)
+    st.dataframe(top_products(df).reset_index(), width='stretch')
 
 with col7:
     st.subheader("Top Customers")
-    st.dataframe(top_customers(df).reset_index(), use_container_width=True)
+    st.dataframe(top_customers(df).head(10).reset_index(), width='stretch')
 
 st.markdown("---")
-st.subheader("Raw Data")
-st.dataframe(df, use_container_width=True)
+st.subheader("Cleaned Data (sample)")
+st.dataframe(df.head(100), width='stretch')
